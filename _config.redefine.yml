@@ -182,7 +182,7 @@ navbar:
     transparency: 35 #percent (10-99)
   # Navbar width (usually no need to modify)
   width:
-    home: 1200px #home page
+    home: 1280px #home page
     pages: 1280px #other pages
   # Navbar links
   links:
