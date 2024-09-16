@@ -3400,7 +3400,7 @@ html.is-animating .scroll-progress-bar {
   transition: max-width 0.3s ease;
 }
 .navbar-container .navbar-content.has-home-banner {
-  max-width: 1200px;
+  max-width: 1280px;
 }
 .navbar-container .navbar-content .left {
   display: flex;
