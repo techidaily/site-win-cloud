@@ -1,7 +1,7 @@
 ---
 title: "Two Screens, One Puzzle: My Ongoing Exploration of the New Microsoft Surface Duo 2 | Tech Analysis by ZDNet"
-date: 2024-09-18 10:20:21
-updated: 2024-09-20 11:55:40
+date: 2024-09-16T07:19:54.231Z
+updated: 2024-09-21T04:11:58.712Z
 tags:
   - windows
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>[New] 2024 Approved Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-premium-15-ultra-mobile-video-devices/"><u>[Updated] 2024 Approved Premium 15 Ultra-Mobile Video Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-top-5-low-weight-action-recorders-list/"><u>[Updated] Ultimate Top 5 Low-Weight Action Recorders List</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/convertire-rapidamente-i-file-wav-nel-formato-swf-gratuito-online-utilizzando-movavi-proposta-di-servizi-senza-costo/"><u>Convertire Rapidamente I File WAV Nel Formato SWF Gratuito Online Utilizzando Movavi - Proposta Di Servizi Senza Costo</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/convertissez-vos-fichiers-mov-en-m4r-pour-itunes-gratuitement-a-laide-de-movavi-online/"><u>Convertissez Vos Fichiers MOV en M4r Pour iTunes Gratuitement À L'aide De Movavi Online</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/download-windows-video-editor-imovie-v202n4-now-exclusive-official-release-by-apple-inc/"><u>Download Windows Video Editor iMovie V202n4 Now! Exclusive Official Release by Apple Inc.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloadable-driving-game-compatible-with-xbox-360-controllers/"><u>Downloadable Driving Game Compatible with Xbox 360 Controllers</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/downloadable-mpg-avi-media-translator-at-no-cost-with-movavi/"><u>Downloadable MPG-AVI Media Translator at No Cost with Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/erste-wahl-fur-fans-kostenlose-downloadseiten-der-top-produktionen-von-hollywood-bis-bollywood/"><u>Erste Wahl Für Fans - Kostenlose Downloadseiten Der Top-Produktionen Von Hollywood Bis Bollywood</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/explorando-o-recurso-livre-de-gravador-de-tela-do-movavi-uma-avaliacao-atualizada/"><u>Explorando O Recurso Livre De Gravador De Tela Do Movavi – Uma Avaliação Atualizada!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2019 document online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus, Apples New iPhone | Dr.fone</u></a></li>
+</ul></div>
+
