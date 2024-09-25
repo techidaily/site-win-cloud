@@ -1,7 +1,7 @@
 ---
 title: Water Retention Capacity
-date: 2024-09-15T19:14:14.293Z
-updated: 2024-09-21T09:02:03.681Z
+date: 2024-09-24T18:30:04.338Z
+updated: 2024-09-25T16:46:02.481Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -171,5 +179,21 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-5-facebook-video-grabbers/"><u>[New] 5 Facebook Video Grabbers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-beyond-the-surface-10-under-the-radar-facts-about-reels/"><u>[New] Beyond the Surface 10 Under-the-Radar Facts About Reels</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/affordable-quality-the-comprehensive-zdnet-review-of-the-mac-compatible-keychron-k8-pro-mechanical-keyboard/"><u>Affordable Quality: The Comprehensive ZDNet Review of the Mac-Compatible Keychron K8 Pro Mechanical Keyboard</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/y-ambiance-ideal-winter-bgs-for-videos/"><u>Chilly Ambiance Ideal Winter BGs for Videos</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/chrome-os-just-got-stronger-seamlessly-run-all-windows-programs-on-chromebook-via-new-collaboration/"><u>Chrome OS Just Got Stronger: Seamlessly Run All Windows Programs on Chromebook via New Collaboration</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/countdown-begins-how-microsoft-must-tackle-its-impending-crisis-before-windows-11-launch-date-digital-chronicles/"><u>Countdown Begins: How Microsoft Must Tackle Its Impending Crisis Before Windows 11 Launch Date | Digital Chronicles</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-guide-capturing-screenshots-and-recording-your-screen-on-windows-1011-using-native-features/"><u>Easy Guide: Capturing Screenshots and Recording Your Screen on Windows 10/11 Using Native Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976037702-effortless-update-guide-get-the-latest-lenovo-t450-drivers-installed-today/"><u>Effortless Update Guide - Get the Latest Lenovo T450 Drivers Installed Today!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/enhancing-cybersecurity-with-multi-layered-passwords-learn-to-activate-dual-authentication-features-and-fortify-your-digital-safety-zdnet/"><u>Enhancing Cybersecurity with Multi-Layered Passwords: Learn to Activate Dual-Authentication Features and Fortify Your Digital Safety | ZDNet</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/exploring-the-microsoft-surface-duo-2-intriguing-yet-baffling-detailed-analysis-so-far-gadgetsphere/"><u>Exploring the Microsoft Surface Duo 2: Intriguing Yet Baffling - Detailed Analysis So Far | GadgetSphere</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-analytics-unlocked-your-step-by-step-youtube-guide/"><u>In 2024, Analytics Unlocked Your Step-by-Step YouTube Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-demystifying-facebooks-use-of-blue-video-icons-for-communication/"><u>In 2024, Demystifying Facebook's Use of Blue Video Icons for Communication</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-note-30-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Note 30 Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-subtitle-tutorial-adding-captions-for-better-video-engagement/"><u>New FCPX Subtitle Tutorial Adding Captions for Better Video Engagement</u></a></li>
+</ul></div>
 
