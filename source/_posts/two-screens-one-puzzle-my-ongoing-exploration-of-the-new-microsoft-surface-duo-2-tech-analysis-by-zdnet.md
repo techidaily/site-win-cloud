@@ -1,7 +1,7 @@
 ---
 title: "Two Screens, One Puzzle: My Ongoing Exploration of the New Microsoft Surface Duo 2 | Tech Analysis by ZDNet"
-date: 2024-09-23T17:59:28.598Z
-updated: 2024-09-25T16:01:20.639Z
+date: 2024-09-29T07:26:18.617Z
+updated: 2024-09-29T20:37:49.009Z
 tags:
   - windows
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-in-depth-guide-to-optimizing-photos-using-polarr/"><u>[New] In 2024, In-Depth Guide to Optimizing Photos Using Polarr</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-do-transitions-on-inshot-video-editor/"><u>[Updated] 2024 Approved How to Do Transitions on Inshot Video Editor?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>[Updated] In 2024, Chuckles on the Clouds Designing Hits for FB & Instagram Meme Culture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-picks-for-optimal-cloud-space-solutions/"><u>[Updated] Top Picks for Optimal Cloud Space Solutions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/h264avi/"><u>「画質維持でH264動画をAVIに変換：専門家のコツとテクニック」</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-prime-video-players-our-handpicked-collection/"><u>2024 Approved Prime Video Players Our Handpicked Collection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-vlc-media-recorder-assessment-report/"><u>2024 Approved VLC Media Recorder Assessment Report</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-ways-to-transform-bik-videos-into-popular-file-types-such-as-mp4-avi-and-mkv-for-universal-playback-compatibility/"><u>Easy Ways to Transform BIK Videos Into Popular File Types Such as MP4, AVI & MKV for Universal Playback Compatibility</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-techniques-transforming-your-twitch-stream-into-an-mp4-file/"><u>Effortless Techniques: Transforming Your Twitch Stream Into an MP4 File</u></a></li>
-<li><a href="https://article-tips.techidaily.com/fusing-music-and-photos-online/"><u>Fusing Music and Photos Online</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/get-your-free-trial-of-the-ultimate-flv-video-converter-flv-converter-factory-pro-no-risks-with-secure-online-buy/"><u>Get Your Free Trial of the Ultimate FLV Video Converter: FLV Converter Factory Pro - No Risks with Secure Online Buy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-safely-and-legally-access-free-mp4-music-videos-a-step-by-step-guide/"><u>How to Safely and Legally Access Free MP4 Music Videos: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-the-art-of-hd-video-editing-with-uncracked-factory-pro-software-a-full-guide/"><u>Master the Art of HD Video Editing with Uncracked Factory Pro Software – A Full Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-your-wii-library-with-superior-video-conversion-techniques-for-seamless-gameplay/"><u>Master Your Wii Library with Superior Video Conversion Techniques for Seamless Gameplay</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-guide-how-to-change-xesc-audiovideo-into-mp4-using-simple-and-free-online-tools/"><u>Quick Guide: How to Change XESC Audio/Video Into MP4 Using Simple and Free Online Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-could-not-create-vm-problems-in-microsoft-os/"><u>Remedying 'Could Not Create VM' Problems in Microsoft OS</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/successfully-streaming-avi-videos-a-step-by-step-guide-for-your-apple-tv/"><u>Successfully Streaming AVI Videos: A Step-by-Step Guide for Your Apple TV</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-high-quality-console-gameplay-capture-using-pcs/"><u>[New] 2024 Approved High-Quality Console Gameplay Capture Using PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-conversational-magic-how-to-write-podcast-scripts/"><u>[New] Crafting Conversational Magic How to Write Podcast Scripts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-you-dont-need-professional-camera-equipment-if-you-want-to-create-time-lapse-videos-you-can-share-on-your-social-media-accounts-because-there-/"><u>2024 Approved You Dont Need Professional Camera Equipment if You Want to Create Time-Lapse Videos You Can Share on Your Social Media Accounts because There Are Plenty of Apps that Let You Create These Types of Vid</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1726030101997-gifgif/"><u>覚えやすくて楽しい GIFアニメ化ガイド:カワイコト・オシャレな動画を遊び心溢れるGIFに変える</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/5qey44cf44gq44kq44o844oh44kj44kq44ov44kh44kk44or44ks57wx5zci44gz44kl44gf44kb44gu5oml6acg/"><u>様々なオーディオファイルを統合するための手順</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/adobe-premiere-rush/"><u>Adobe Premiere Rushの使い方:スムーズな画像キャプチャと記録方法</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-free-and-paid-screen-recording-tools-without-watermarks-on-windows-computers-top-7-picks/"><u>Best Free and Paid Screen Recording Tools Without Watermarks on Windows Computers: Top 7 Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-engagement-adjusting-speed-of-instagram-stories/"><u>Boosting Engagement Adjusting Speed of Instagram Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-spark-10-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Spark 10 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1726028974432-movmp4/"><u>MOVファイル大量バッチをMP4に転化する究極ガイド</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-6-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 6 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1726030027717-pc3/"><u>PCに付属のオーディオ転送ソフトウェア3つ！長時間ボイスレコードへ</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1726030406704-step-by-step-strategies-for-superior-video-upgrades-using-vlc-player-comprehensive-guide/"><u>Step-by-Step Strategies for Superior Video Upgrades Using VLC Player (Comprehensive Guide )</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-the-art-of-fiction-creation/"><u>Understanding the Art of Fiction Creation</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/44ot44oh44kq44kr44oh44op44gl44kj44gu5yuv55s744ks44or44k944kz44oz5lik44gn44ov44k244go57eo6zug44gz44kl6ieq55sx44k944ov44oi6yg444gz44o75oyh5y2x/"><u>ビデオカメラからの動画をパソコン上でワザと編集する自由ソフト選び・指南</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Capturing Screenshots and Recording Your Screen on Windows 10/11 Using Native Features"
-date: 2024-09-22T19:42:22.858Z
-updated: 2024-09-25T19:25:07.219Z
+date: 2024-09-28T07:06:10.789Z
+updated: 2024-09-30T02:44:51.612Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-video-conferencing-a-complete-guide-to-zoom-on-android/"><u>[New] Mastering Video Conferencing A Complete Guide to Zoom on Android</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-gratis-editing-guide-enhance-videos-on-budget-for-2024/"><u>[New] Vimeo's Gratis Editing Guide Enhance Videos on Budget for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-reviving-old-photos-through-snapchats-memories-feature/"><u>[New] 2024 Approved Reviving Old Photos Through Snapchat's Memories Feature</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/h264avi/"><u>「画質維持でH264動画をAVIに変換：専門家のコツとテクニック」</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-oculus-quest-2-experience-exceptional-virtual-reality-gaming-with-unmatched-comfort/"><u>Affordable Oculus Quest 2 Experience: Exceptional Virtual Reality Gaming with Unmatched Comfort</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/budget-friendly-filmmaking-choose-the-best-6-action-cameras/"><u>Budget-Friendly Filmmaking Choose the Best 6 Action Cameras</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-htc-u23-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from HTC U23 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/capturing-specific-areas-on-your-screen-in-windows-10-and-11-tutorials-for-precision-shots/"><u>Capturing Specific Areas on Your Screen in Windows 10 and 11 - Tutorials for Precision Shots</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/dvd-launch-city-of-bones-from-the-mortal-instruments-series-now-available-via-sony/"><u>DVD Launch: 'City of Bones' From The Mortal Instruments Series, Now Available via Sony</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-guide-to-joining-and-advancing-from-free-to-pro-with-wonderfox-dvd-video-converter/"><u>Easy Guide to Joining & Advancing From Free to Pro with WonderFox DVD Video Converter</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-ways-to-transform-bik-videos-into-popular-file-types-such-as-mp4-avi-and-mkv-for-universal-playback-compatibility/"><u>Easy Ways to Transform BIK Videos Into Popular File Types Such as MP4, AVI & MKV for Universal Playback Compatibility</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/effortless-techniques-transforming-your-twitch-stream-into-an-mp4-file/"><u>Effortless Techniques: Transforming Your Twitch Stream Into an MP4 File</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/get-your-free-trial-of-the-ultimate-flv-video-converter-flv-converter-factory-pro-no-risks-with-secure-online-buy/"><u>Get Your Free Trial of the Ultimate FLV Video Converter: FLV Converter Factory Pro - No Risks with Secure Online Buy</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-safely-and-legally-access-free-mp4-music-videos-a-step-by-step-guide/"><u>How to Safely and Legally Access Free MP4 Music Videos: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-plus-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6s Plus to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-maximizing-podcast-discoverability-through-effective-seo/"><u>In 2024, Maximizing Podcast Discoverability Through Effective SEO</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/integrating-spotify-and-discord-a-complete-guide/"><u>Integrating Spotify & Discord A Complete Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-the-art-of-hd-video-editing-with-uncracked-factory-pro-software-a-full-guide/"><u>Master the Art of HD Video Editing with Uncracked Factory Pro Software – A Full Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-your-wii-library-with-superior-video-conversion-techniques-for-seamless-gameplay/"><u>Master Your Wii Library with Superior Video Conversion Techniques for Seamless Gameplay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-blend-of-performance-and-style-inside-look-at-the-corsair-one-pro-rig/"><u>The Perfect Blend of Performance & Style: Inside Look at the Corsair One Pro Rig</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hyte-takes-computing-to-the-next-level-advanced-coolers-and-lighting-solutions-usb-headers-and-comprehensive-fan-management-for-enthusiasts/"><u>Hyte Takes Computing to the Next Level: Advanced Coolers & Lighting Solutions, USB Headers, and Comprehensive Fan Management for Enthusiasts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-reclaiming-your-omegle-presence-steps-to-overcome-an-online-ban/"><u>In 2024, Reclaiming Your Omegle Presence Steps to Overcome an Online Ban</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-star-wars-battlefront-ii-error-327/"><u>Resolved: Troubleshooting Star Wars Battlefront II Error 327</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-content-workflow-using-8-cutting-edge-ai-resources/"><u>Revolutionize Your Content Workflow Using 8 Cutting-Edge AI Resources</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-top-jokesters-for-2024/"><u>Twitter's Top Jokesters for 2024</u></a></li>
 </ul></div>
 

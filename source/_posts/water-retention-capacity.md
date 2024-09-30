@@ -1,7 +1,7 @@
 ---
 title: Water Retention Capacity
-date: 2024-09-24T18:30:04.338Z
-updated: 2024-09-25T16:46:02.481Z
+date: 2024-09-28T00:15:00.703Z
+updated: 2024-09-29T21:19:55.074Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-5-facebook-video-grabbers/"><u>[New] 5 Facebook Video Grabbers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-beyond-the-surface-10-under-the-radar-facts-about-reels/"><u>[New] Beyond the Surface 10 Under-the-Radar Facts About Reels</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/affordable-quality-the-comprehensive-zdnet-review-of-the-mac-compatible-keychron-k8-pro-mechanical-keyboard/"><u>Affordable Quality: The Comprehensive ZDNet Review of the Mac-Compatible Keychron K8 Pro Mechanical Keyboard</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/y-ambiance-ideal-winter-bgs-for-videos/"><u>Chilly Ambiance Ideal Winter BGs for Videos</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/chrome-os-just-got-stronger-seamlessly-run-all-windows-programs-on-chromebook-via-new-collaboration/"><u>Chrome OS Just Got Stronger: Seamlessly Run All Windows Programs on Chromebook via New Collaboration</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/countdown-begins-how-microsoft-must-tackle-its-impending-crisis-before-windows-11-launch-date-digital-chronicles/"><u>Countdown Begins: How Microsoft Must Tackle Its Impending Crisis Before Windows 11 Launch Date | Digital Chronicles</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-guide-capturing-screenshots-and-recording-your-screen-on-windows-1011-using-native-features/"><u>Easy Guide: Capturing Screenshots and Recording Your Screen on Windows 10/11 Using Native Features</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976037702-effortless-update-guide-get-the-latest-lenovo-t450-drivers-installed-today/"><u>Effortless Update Guide - Get the Latest Lenovo T450 Drivers Installed Today!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/enhancing-cybersecurity-with-multi-layered-passwords-learn-to-activate-dual-authentication-features-and-fortify-your-digital-safety-zdnet/"><u>Enhancing Cybersecurity with Multi-Layered Passwords: Learn to Activate Dual-Authentication Features and Fortify Your Digital Safety | ZDNet</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/exploring-the-microsoft-surface-duo-2-intriguing-yet-baffling-detailed-analysis-so-far-gadgetsphere/"><u>Exploring the Microsoft Surface Duo 2: Intriguing Yet Baffling - Detailed Analysis So Far | GadgetSphere</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-analytics-unlocked-your-step-by-step-youtube-guide/"><u>In 2024, Analytics Unlocked Your Step-by-Step YouTube Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-demystifying-facebooks-use-of-blue-video-icons-for-communication/"><u>In 2024, Demystifying Facebook's Use of Blue Video Icons for Communication</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-note-30-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Note 30 Phone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-subtitle-tutorial-adding-captions-for-better-video-engagement/"><u>New FCPX Subtitle Tutorial Adding Captions for Better Video Engagement</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/tunein-radio/"><u>「TuneIn Radio」から音声コンテンツの録音＆保存ガイド：手軽な方法</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-personalized-branding-craft-your-logo-from-free-designs/"><u>2024 Approved Personalized Branding Craft Your Logo From Free Designs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/202410/"><u>2024年必見！【最新】動画変換のプロフェッショナルソフトウェア10選：優良無料高画質オプションも!</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-asus-pro-b760m-ct-csm-review-is-it-worth-the-investment/"><u>Cutting Edge Tech: ASUS Pro B760M-CT CSM Review - Is It Worth The Investment?</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-neo-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Neo Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-hot-30i-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 30i Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/is-it-worth-the-expense-unveiling-the-capabilities-and-value-of-the-keychron-q5-on-zdnet/"><u>Is It Worth the Expense? Unveiling the Capabilities and Value of the Keychron Q5 on ZDNET</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-the-art-of-hd-video-editing-with-uncracked-factory-pro-software-a-full-guide/"><u>Master the Art of HD Video Editing with Uncracked Factory Pro Software – A Full Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-your-wii-library-with-superior-video-conversion-techniques-for-seamless-gameplay/"><u>Master Your Wii Library with Superior Video Conversion Techniques for Seamless Gameplay</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-why-final-cut-pro-trumps-final-cut-express/"><u>New Unleash Your Creativity Why Final Cut Pro Trumps Final Cut Express</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-guide-how-to-change-xesc-audiovideo-into-mp4-using-simple-and-free-online-tools/"><u>Quick Guide: How to Change XESC Audio/Video Into MP4 Using Simple and Free Online Tools</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/successfully-streaming-avi-videos-a-step-by-step-guide-for-your-apple-tv/"><u>Successfully Streaming AVI Videos: A Step-by-Step Guide for Your Apple TV</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-rated-mkv-to-dvd-conversion-software-for-pc/"><u>Top Rated MKV to DVD Conversion Software for PC</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/transforming-mp3s-into-professional-m4b-audiobooks-with-ease/"><u>Transforming MP3s Into Professional M4B Audiobooks with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-new-standard-in-business-laptops-an-in-depth-review-of-the-thinkpad-x1-carbon-gen-12/"><u>Unveiling the New Standard in Business Laptops: An In-Depth Review of the ThinkPad X1 Carbon (Gen 12)</u></a></li>
 </ul></div>
 
