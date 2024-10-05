@@ -1,7 +1,7 @@
 ---
 title: Water Retention Capacity
-date: 2024-09-28T00:15:00.703Z
-updated: 2024-09-29T21:19:55.074Z
+date: 2024-09-30T16:39:50.160Z
+updated: 2024-10-05T16:27:53.450Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-cloud.techidaily.com/tunein-radio/"><u>「TuneIn Radio」から音声コンテンツの録音＆保存ガイド：手軽な方法</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-personalized-branding-craft-your-logo-from-free-designs/"><u>2024 Approved Personalized Branding Craft Your Logo From Free Designs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/202410/"><u>2024年必見！【最新】動画変換のプロフェッショナルソフトウェア10選：優良無料高画質オプションも!</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-asus-pro-b760m-ct-csm-review-is-it-worth-the-investment/"><u>Cutting Edge Tech: ASUS Pro B760M-CT CSM Review - Is It Worth The Investment?</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-neo-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Neo Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/infinix-hot-30i-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 30i Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/is-it-worth-the-expense-unveiling-the-capabilities-and-value-of-the-keychron-q5-on-zdnet/"><u>Is It Worth the Expense? Unveiling the Capabilities and Value of the Keychron Q5 on ZDNET</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-the-art-of-hd-video-editing-with-uncracked-factory-pro-software-a-full-guide/"><u>Master the Art of HD Video Editing with Uncracked Factory Pro Software – A Full Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-your-wii-library-with-superior-video-conversion-techniques-for-seamless-gameplay/"><u>Master Your Wii Library with Superior Video Conversion Techniques for Seamless Gameplay</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-why-final-cut-pro-trumps-final-cut-express/"><u>New Unleash Your Creativity Why Final Cut Pro Trumps Final Cut Express</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-guide-how-to-change-xesc-audiovideo-into-mp4-using-simple-and-free-online-tools/"><u>Quick Guide: How to Change XESC Audio/Video Into MP4 Using Simple and Free Online Tools</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/successfully-streaming-avi-videos-a-step-by-step-guide-for-your-apple-tv/"><u>Successfully Streaming AVI Videos: A Step-by-Step Guide for Your Apple TV</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-rated-mkv-to-dvd-conversion-software-for-pc/"><u>Top Rated MKV to DVD Conversion Software for PC</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/transforming-mp3s-into-professional-m4b-audiobooks-with-ease/"><u>Transforming MP3s Into Professional M4B Audiobooks with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-new-standard-in-business-laptops-an-in-depth-review-of-the-thinkpad-x1-carbon-gen-12/"><u>Unveiling the New Standard in Business Laptops: An In-Depth Review of the ThinkPad X1 Carbon (Gen 12)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-create-captivating-music-reaction-videos-top-10-tips/"><u>[New] 2024 Approved How to Create Captivating Music Reaction Videos - Top 10 Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-pitfall-of-superficial-engagement-on-insta/"><u>[New] In 2024, The Pitfall of Superficial Engagement on Insta</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-reverse-revelations-instagrams-guide-to-rotating-images-for-engagement-for-2024/"><u>[New] Reverse Revelations Instagram's Guide to Rotating Images for Engagement for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-v29-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo V29 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-multitasking-in-apple-browsers/"><u>In 2024, Unlocking Full Multitasking in Apple Browsers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtubes-best-font-choices-for-striking-thumbnails/"><u>In 2024, YouTube's Best Font Choices for Striking Thumbnails</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-the-capture-of-your-epic-battles-how-to-screen-record-in-pubg-mobile-for-iphoneipad-and-android-phones/"><u>Mastering the Capture of Your Epic Battles: How to Screen Record in PUBG Mobile for iPhone/iPad and Android Phones</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-6-ideal-mobile-applications-for-enhancing-your-images-with-perfect-backgrounds/"><u>Top 6 Ideal Mobile Applications for Enhancing Your Images with Perfect Backgrounds</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-reliable-data-recovery-solutions-compatible-with-macos-android-and-windows-no-cost-options/"><u>Top Reliable Data Recovery Solutions Compatible with macOS, Android & Windows - No Cost Options</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-tutorial-on-streaming-your-mac-screen-to-lg-tv/"><u>Ultimate Tutorial on Streaming Your Mac Screen to LG TV</u></a></li>
 </ul></div>
 

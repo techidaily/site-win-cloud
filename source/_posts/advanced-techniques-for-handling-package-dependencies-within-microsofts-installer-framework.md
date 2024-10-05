@@ -1,7 +1,7 @@
 ---
 title: Advanced Techniques for Handling Package Dependencies Within Microsoft's Installer Framework
-date: 2024-09-28T16:18:32.864Z
-updated: 2024-09-30T02:34:52.239Z
+date: 2024-10-04T19:07:49.841Z
+updated: 2024-10-05T19:11:36.917Z
 tags:
   - application-packaging-training
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
 While conditional statements give you the possibility to clearly define the needed environment for your installer, it doesn’t let you modify the system in order to make the proper changes for your application to be installed. As seen in the chapter above, conditional statements for software applications can be easily added into the MSI by using Advanced Installer, but what if you want to check if that particular dependency is installed and if not, install it yourself?
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Prerequisites
 
 This is where the Prerequisites feature comes in handy and lets you quickly create a bundle which contains your application and the desired dependencies.
@@ -39,10 +32,10 @@ Adding prerequisites to MSI packages is important for several reasons. Firstly, 
 Adding prerequisites with Advanced Installer is a straightforward process that can be done in just a few steps. Here's how to do it:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Advanced Installer Prerequisites page
@@ -91,19 +84,19 @@ When you select a predefined prerequisite, Advanced Installer asks you if you wa
 ![ai prerequisites download](https://cdn.advancedinstaller.com/img/adding-prerequisites-to-packages/ai-prerequisites-download.png "ai prerequisites download")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can also select the extract folder for each selected prerequisite, keep the prerequisite files after installation, hide installed prerequisites and check the launch conditions before searching for the prerequisites.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Enable Windows Features with Advanced Installer
@@ -113,6 +106,13 @@ Advanced Installer also allows you to enable Windows Features.Some Windows progr
 Use the \[Windows Feature bundle\] toolbar button or the "New Windows Feature bundle" context menu item to add a Windows Features bundle then select the Target Operating System. Once you have chosen the OS, the Available Windows Features will be populated with all the options available for those particular OSes.
 
 ![ai prerequisites windows features](https://cdn.advancedinstaller.com/img/adding-prerequisites-to-packages/ai-prerequisites-windows-features.png "ai prerequisites windows features")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Advanced Installer also offers multiple Windows Server roles from which you can choose to include in your package. Roles selected in this view only apply when running the package on a Windows Server. They will be ignored on any other OS type.
 
@@ -137,19 +137,21 @@ Of course, you can add your own packages and create a suite installation, [a cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-decoding-youtubes-procedure-after-a-video-is-uploaded-for-2024/"><u>[New] Decoding YouTube's Procedure After a Video Is Uploaded for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-digitally-liberated-fb-tunes/"><u>[New] Digitally Liberated FB Tunes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-engagement-amplify-audience-youtube-marketing/"><u>[Updated] 2024 Approved Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/h264avi/"><u>「画質維持でH264動画をAVIに変換：専門家のコツとテクニック」</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-ways-to-transform-bik-videos-into-popular-file-types-such-as-mp4-avi-and-mkv-for-universal-playback-compatibility/"><u>Easy Ways to Transform BIK Videos Into Popular File Types Such as MP4, AVI & MKV for Universal Playback Compatibility</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-techniques-transforming-your-twitch-stream-into-an-mp4-file/"><u>Effortless Techniques: Transforming Your Twitch Stream Into an MP4 File</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/get-your-free-trial-of-the-ultimate-flv-video-converter-flv-converter-factory-pro-no-risks-with-secure-online-buy/"><u>Get Your Free Trial of the Ultimate FLV Video Converter: FLV Converter Factory Pro - No Risks with Secure Online Buy</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-safely-and-legally-access-free-mp4-music-videos-a-step-by-step-guide/"><u>How to Safely and Legally Access Free MP4 Music Videos: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a23-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A23 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-n3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find N3 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-complete-untapped-potential-of-dji-phantom-4/"><u>In 2024, The Complete Untapped Potential of DJI Phantom 4</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-the-art-of-hd-video-editing-with-uncracked-factory-pro-software-a-full-guide/"><u>Master the Art of HD Video Editing with Uncracked Factory Pro Software – A Full Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-malfunctioned-mp4-data-on-smartphones/"><u>Restoring Malfunctioned MP4 Data on Smartphones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-titles-that-shine-how-to-innovate-for-2024/"><u>[New] Channel Titles That Shine How to Innovate for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevating-your-engagement-game-the-instagram-edge-guide-for-2024/"><u>[New] Elevating Your Engagement Game The Instagram Edge Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-fearful-video-blogs-overcoming-each-challenge/"><u>[New] In 2024, Top 10 Fearful Video Blogs Overcoming Each Challenge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-list-of-mac-friendly-video-to-mp4-codecs-for-2024/"><u>[New] Ultimate List of Mac-Friendly Video to MP4 Codecs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chronicle-crafters-collective-select-seventeen/"><u>[Updated] Chronicle Crafters Collective - Select Seventeen</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-insiders-guide-to-pro-windows-10-expertise/"><u>[Updated] In 2024, Insider's Guide to Pro WINDOWS 10 Expertise</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/botnet-basics-unveiled-how-these-networks-operate-demystified-for-the-everyday-user/"><u>Botnet Basics Unveiled: How These Networks Operate Demystified for the Everyday User</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-analysis-top-rated-free-screen-capture-apps-without-watermarks/"><u>Comprehensive Analysis: Top-Rated Free Screen Capture Apps Without Watermarks</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/convert-your-wlmp-videos-to-avi-files-without-cost-step-by-step-tutorial/"><u>Convert Your WLMP Videos to AVI Files Without Cost - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-updated-toshiba-drivers-a-step-by-step-guide-for-windows-owners/"><u>Find & Install Updated Toshiba Drivers: A Step-by-Step Guide for Windows Owners</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/native-heic-picture-manager-for-windows-enjoy-seamless-viewing-without-changing-image-types/"><u>Native HEIC Picture Manager for Windows: Enjoy Seamless Viewing Without Changing Image Types!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-play-8t-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor Play 8T and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/silence-unwanted-sound-discover-the-best-6-apps-for-removing-audio-interferences-on-your-smartphone-android-and-ios/"><u>Silence Unwanted Sound: Discover the Best 6 Apps for Removing Audio Interferences on Your Smartphone (Android & iOS)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-to-blocking-ads-and-protecting-privacy-across-all-your-devices/"><u>Step-by-Step Guide to Blocking Ads and Protecting Privacy Across All Your Devices</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-three-methods-for-converting-flac-files-to-itunes-compatible-formats-on-pc-and-mac/"><u>Top Three Methods for Converting FLAC Files to iTunes Compatible Formats on PC & Mac</u></a></li>
 </ul></div>
 

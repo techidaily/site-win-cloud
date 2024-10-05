@@ -1,7 +1,7 @@
 ---
 title: Effective Use of If-Else Logic in Microsoft Solutions Packaging
-date: 2024-09-28T18:29:18.075Z
-updated: 2024-09-30T04:39:08.984Z
+date: 2024-09-30T17:31:20.040Z
+updated: 2024-10-05T16:54:03.242Z
 tags:
   - application-packaging-training
 categories:
@@ -37,13 +37,6 @@ For example, you can use a custom action to check for the presence of a specific
 
 The last type of conditional statements that you could use with MSI are called [launch conditions](https://tools.techidaily.com/advancedinstaller/products/). Prior to initiating the installation process, launch conditions must be satisfied. This can include verifying that certain system requirements are met, for example, determining if specific hardware or software components are present. or the presence of certain registry keys. In other words, launch conditions are a type of conditional statement that are used to control the behavior of the installation process based on the system configuration. By using launch conditions, you can ensure that the installation package is installed only on systems that meet the specified requirements, reducing the potential for errors and improving the overall reliability of the installation process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Component Conditions
 
 Advanced Installer makes it much easier to work with conditions while building MSI components. You can easily set conditions on files, registry keys and other elements to control their setup process. This streamlined interface really simplifies the entire MSI component creation process based on system configuration.
@@ -51,13 +44,6 @@ Advanced Installer makes it much easier to work with conditions while building M
 To add a condition to an MSI component in Advanced Installer, simply select the component and add the appropriate condition under **Component Properties**. There are numerous conditions to choose from, including system properties, registry keys, file and folder presence, and custom conditions.
 
 ![component conditions](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/component-conditions.png "component conditions")  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To perform the same actions as explained earlier where the file is only installed if a certain registry key exists, we must do some steps:
 
@@ -67,16 +53,16 @@ To do this, navigate to the Search page and click on New Search. A wizard will a
 
 ![search new search wizzard](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/search-new-search-wizzard.png "search new search wizzard")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, select to Search for a registry value. As mentioned we will leave the search results in the RESULT\_PROPERTY.
 
 ![search new search wizzard registry key](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/search-new-search-wizzard-registry-key.png "search new search wizzard registry key")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Next, define the registry key value that we are searching for.
 
@@ -85,13 +71,6 @@ Next, define the registry key value that we are searching for.
 Select to retrieve the value and finish the wizard. After the wizard is completed check if your registry key is in the 64-bit portion of the registry and check the appropriate checkbox. You can also do a Test Search just to confirm that everything is in order.
 
 ![search new search wizzard registry key test](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/search-new-search-wizzard-registry-key-test.png "search new search wizzard registry key test")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Use the above created Property to define the condition on the component where the file is located.
 
@@ -106,6 +85,13 @@ Because we don’t care about what value the property outputs and we are only in
 
 During the install phase, the MSI will first perform the search function to see if the registry key exists and populate the property, afterwards it will parse through all the components which are marked to install. Once it reaches our component with the HelloWorld.exe file, it will first check if the condition is met, meaning if the property is present or not. If the property is present, it means the condition has been passed and the component is then installed on the machine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Launch Conditions
 
 In Advanced Installer, configuring a launch condition is a straightforward process. You can create a launch condition to check for the presence of specific system requirements, such as the availability of a specific version of the .NET Framework, or the presence of specific registry keys or files on the system.
@@ -114,13 +100,6 @@ To configure a launch condition in Advanced Installer, you can simply navigate t
 
 * System
 * Software
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### System Launch Conditions
 
@@ -160,10 +139,17 @@ In our case, all we need to do is check .NET Framework and select the desired ve
 ![software launch condition net framework](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/software-launch-condition-net-framework.png "software launch condition net framework")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom Launch Conditions
@@ -173,6 +159,13 @@ In Advanced Installer, you can define [custom launch conditions](https://tools.t
 To create a new launch condition, simply click on the "New" button, the "New" list context menu item, or press the Insert key while the list control is focused. The Edit Launch Condition Dialog will pop up, allowing you to specify a launch condition.
 
 ![custom launch condition adobe reader](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/custom-launch-condition-adobe-reader.png "custom launch condition adobe reader")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To modify a launch condition, use the "Edit" button, the "Edit" list context menu item, or press the Space key while an element from the list control is selected. The Edit Launch Condition Dialog will pop up, allowing you to edit the launch condition.
 
@@ -219,6 +212,13 @@ Now that we have the script created, all we need to do is navigate to the Custom
 
 ![custom action launch condition vbscript](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/custom-action-launch-condition-vbscript.png "custom action launch condition vbscript")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you remember our discussion in the [MSI Packaging Fundamentals ebook](https://tools.techidaily.com/advancedinstaller/products/), immediate execution custom actions can be executed before the [InstallInitialize Action](https://learn.microsoft.com/en-us/windows/win32/msi/installinitialize-action "InstallInitialize Action"), and this is exactly what we need because we need to run this script as soon as possible to confirm that the system has the requested parameters. 
 
 As you can see in the Install Execution Stage, the custom action is set at the top to be the first CA that is executed, and when it comes to Execution Stage Conditions we are only setting it to run during the Install phase.
@@ -238,20 +238,19 @@ As you can see in the Install Execution Stage, the custom action is set at the t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-forging-strong-connections-building-youtube-backlinks-right-for-2024/"><u>[New] Forging Strong Connections Building YouTube Backlinks Right for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-video-creators-guide-to-igtv-and-youtube-finding-the-right-fit/"><u>[New] The Video Creator’s Guide to IGTV & YouTube Finding the Right Fit</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/exploring-the-microsoft-surface-duo-2-intriguing-yet-baffling-detailed-analysis-so-far-gadgetsphere/"><u>Exploring the Microsoft Surface Duo 2: Intriguing Yet Baffling - Detailed Analysis So Far | GadgetSphere</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-100-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-does-a-trusted-platform-module-tpm-bolster-windows-11s-safety-features-insights-and-benefits/"><u>How Does a Trusted Platform Module (TPM) Bolster Windows 11'S Safety Features? Insights & Benefits</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-motorola-moto-g84-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Motorola Moto G84 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elevating-your-podcast-remote-recording-done-right/"><u>In 2024, Elevating Your Podcast Remote Recording Done Right</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/in-depth-review-of-the-innolux-pn3076ua-ultrawide-gaming-monitor-with-144hz-is-it-worth-your-space/"><u>In-Depth Review of the Innolux PN3076UA Ultrawide Gaming Monitor with 144Hz - Is It Worth Your Space?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/is-microsofts-windows-11-release-already-overhyped-exploring-its-controversial-launch-on-zdnet/"><u>Is Microsoft's Windows 11 Release Already Overhyped? Exploring Its Controversial Launch on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-communication-how-to-utilize-chatgpts-translation-features/"><u>The Future of Communication: How to Utilize ChatGPT’s Translation Features</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-7-essential-microsoft-powertoys-you-must-explore-on-your-windows-pc-insider-tips-from-zdnet/"><u>Top 7 Essential Microsoft PowerToys You Must Explore on Your Windows PC - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/two-screens-one-puzzle-my-ongoing-exploration-of-the-new-microsoft-surface-duo-2-tech-analysis-by-zdnet/"><u>Two Screens, One Puzzle: My Ongoing Exploration of the New Microsoft Surface Duo 2 | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-messenger-kids-sleep-mode-for-better-usage/"><u>Understanding Messenger Kids' Sleep Mode for Better Usage</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-the-need-for-ip-change-expert-tips-on-timing-and-methods-with-zdnets-perspective/"><u>Understanding the Need for IP Change: Expert Tips on Timing & Methods with ZDNet's Perspective</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unstick-stubborn-airpods-expert-advice-for-non-charging-solutions/"><u>Unstick Stubborn AirPods: Expert Advice for Non-Charging Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-breaking-down-youtube-short-barriers/"><u>[New] 2024 Approved Breaking Down YouTube Short Barriers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-complete-instagram-reversal-methodology-for-2024/"><u>[New] The Complete Instagram Reversal Methodology for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/crafting-stories-excellence-among-8-film-categories/"><u>Crafting Stories Excellence Among 8 Film Categories</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-117-unraveled-livekernelevent-troubleshooting-strategies/"><u>Error Code 117 Unraveled: LiveKernelEvent Troubleshooting Strategies</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y100i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y100i Quickly? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-become-a-zoom-screenshare-pro-in-minutes/"><u>In 2024, Become a Zoom Screenshare Pro in Minutes</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/is-the-idp-generic-alert-a-hoax-or-hazard-comprehensive-guide-to-detecting-and-deleting-this-alleged-virus/"><u>Is the IDP Generic Alert a Hoax or Hazard? Comprehensive Guide to Detecting and Deleting This Alleged Virus</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/is-your-new-operating-system-safe-understanding-windows-11-cybersecurity-measures/"><u>Is Your New Operating System Safe? Understanding Windows 11 Cybersecurity Measures</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-top-10-storyboarding-software-freeandpaid/"><u>New 2024 Approved Top 10 Storyboarding Software Free&Paid</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/seamless-integration-of-snapchat-on-apples-laptops/"><u>Seamless Integration of Snapchat on Apple's Laptops</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-exit-realities-and-revelations/"><u>Social Media Exit: Realities and Revelations</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-newest-online-threat-alerts-navigating-the-dangers-of-2021s-cybersecurity-landscape/"><u>Top Newest Online Threat Alerts: Navigating the Dangers of 2021'S Cybersecurity Landscape</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-guide-mastering-the-art-of-deep-clean-inc-3d-gameplay-on-your-computer/"><u>Ultimate Guide: Mastering the Art of Deep Clean Inc. 3D Gameplay on Your Computer</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-tutorial-mastering-the-usage-of-apowermirror-with-your-television/"><u>Ultimate Tutorial: Mastering the Usage of ApowerMirror with Your Television</u></a></li>
 </ul></div>
 

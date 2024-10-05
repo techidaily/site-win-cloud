@@ -1,7 +1,7 @@
 ---
 title: "Unveiling HTTP/3: An In-Depth Explanation of the Future of Internet Technology"
-date: 2024-09-24T04:09:16.481Z
-updated: 2024-09-29T23:35:00.691Z
+date: 2024-09-30T16:59:13.807Z
+updated: 2024-10-05T18:14:05.379Z
 tags:
   - product
   - antivirus
@@ -55,10 +55,10 @@ Without getting too technical,  QUIC cuts the number of times computers need to 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye TCP
@@ -79,6 +79,13 @@ This reliability, however, makes this this less than an ideal solution when send
 
 And this is exactly where UDP comes in.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Out with the old, in with the new
 
 Getting back to QUIC, these bottlenecks are what this new technology solves. Think of this as sort of a next generation TCP, offering the same level of reliability and usage, but doing away with most of the slowdowns of that aging technology.
@@ -95,6 +102,13 @@ As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googl
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will HTTP/3 be used?
 
 Soon. The transition has already begun, and slowly but surely the entire web will transition to this new standard. It was only in November 2018 that a [proposal](https://mailarchive.ietf.org/arch/msg/quic/RLRs4nB1lwFCZ%5F7k0iuz0ZBa35s) for HTTP-over-QUIC be called HTTP/3 was accepted by the [IEFT](https://www.ietf.org/), the Internet Engineering Task Force.
@@ -103,18 +117,18 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
 
@@ -134,30 +148,10 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
@@ -190,22 +184,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games/"><u>[New] 2024 Approved Beyond the Screen Advanced Techniques in Logging Virtual Reality Games</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-capture-the-perfect-pace-a-beginners-approach-to-slow-mo-videos-on-tiktok/"><u>[New] In 2024, Capture the Perfect Pace A Beginner's Approach to Slow Mo Videos on TikTok</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>[New] The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-boost-stamina-and-strength-curated-list-of-motivational-music/"><u>2024 Approved Boost Stamina and Strength Curated List of Motivational Music</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-audio-integration-in-canva-videos/"><u>2024 Approved Mastering Audio Integration in Canva Videos</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/affordable-quality-the-comprehensive-zdnet-review-of-the-mac-compatible-keychron-k8-pro-mechanical-keyboard/"><u>Affordable Quality: The Comprehensive ZDNet Review of the Mac-Compatible Keychron K8 Pro Mechanical Keyboard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-ancient-tech-upgrade-with-atlasos/"><u>Boost Ancient Tech: Upgrade with AtlasOS</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/chrome-os-just-got-stronger-seamlessly-run-all-windows-programs-on-chromebook-via-new-collaboration/"><u>Chrome OS Just Got Stronger: Seamlessly Run All Windows Programs on Chromebook via New Collaboration</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/countdown-begins-how-microsoft-must-tackle-its-impending-crisis-before-windows-11-launch-date-digital-chronicles/"><u>Countdown Begins: How Microsoft Must Tackle Its Impending Crisis Before Windows 11 Launch Date | Digital Chronicles</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-guide-capturing-screenshots-and-recording-your-screen-on-windows-1011-using-native-features/"><u>Easy Guide: Capturing Screenshots and Recording Your Screen on Windows 10/11 Using Native Features</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/enhancing-cybersecurity-with-multi-layered-passwords-learn-to-activate-dual-authentication-features-and-fortify-your-digital-safety-zdnet/"><u>Enhancing Cybersecurity with Multi-Layered Passwords: Learn to Activate Dual-Authentication Features and Fortify Your Digital Safety | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-out-when-you-can-get-your-hands-on-a-new-playstation-console-prices-specs-and-more/"><u>Find Out When You Can Get Your Hands on a New PlayStation Console: Prices, Specs & More</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-edible-imagery-stepwise-food-film-making/"><u>In 2024, Edible Imagery Stepwise Food Film Making</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g04-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G04 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/is-it-worth-the-expense-unveiling-the-capabilities-and-value-of-the-keychron-q5-on-zdnet/"><u>Is It Worth the Expense? Unveiling the Capabilities and Value of the Keychron Q5 on ZDNET</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/new-tech-on-the-block-microsofts-windows-11-se-and-cost-effective-surface-laptop-se-for-schools-spotlighted-by-zdnet/"><u>New Tech on the Block: Microsoft's Windows 11 SE and Cost-Effective Surface Laptop SE for Schools, Spotlighted by ZDNet</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/the-case-against-expensive-antivirus-programs-discover-how-to-protect-your-devices-without-the-cost/"><u>The Case Against Expensive Antivirus Programs: Discover How to Protect Your Devices Without the Cost</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-boost-your-youtube-presence-with-personalized-annotations-and-card-integration/"><u>[New] In 2024, Boost Your YouTube Presence with Personalized Annotations and Card Integration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-cinematic-vision-using-ae-luts-effectively-for-2024/"><u>[Updated] Enhance Cinematic Vision Using AE LUTs Effectively for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-privacy-focused-tools-for-unseen-story-watching-for-2024/"><u>[Updated] Privacy-Focused Tools for Unseen Story Watching for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-spotify-how-to-exclude-recommended-podcasts/"><u>2024 Approved Spotify How to Exclude Recommended Podcasts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/apowersoft-launches-version-10-of-mac-compatible-video-downloader/"><u>Apowersoft Launches Version 1.0 of Mac-Compatible Video Downloader</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-free-methods-to-download-any-website-as-a-pdf-top-10-strategies/"><u>Best Free Methods to Download Any Website as a PDF: Top 10 Strategies</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/beware-these-7-facebook-hoaxes-comprehensive-strategies-for-protection/"><u>Beware These 7 Facebook Hoaxes! Comprehensive Strategies for Protection</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comparing-msi-and-msp-understanding-the-difference-in-microsoft-installation-packages/"><u>Comparing MSI and MSP: Understanding the Difference in Microsoft Installation Packages</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-top-techniques-for-transferring-contacts-and-apps-between-phones-a-comprehensive-guide/"><u>Effortless Top Techniques for Transferring Contacts and Apps Between Phones: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/hassle-free-methods-for-adding-movies-to-your-ios-device-by-bypassing-itunes/"><u>Hassle-Free Methods for Adding Movies to Your iOS Device by Bypassing iTunes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-6s-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 6s Without Previous Owner?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-10-best-instagram-meme-accounts-to-make-you-laugh-with-tears/"><u>In 2024, 10 Best Instagram Meme Accounts to Make You Laugh (with Tears)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-assessing-64gb-for-video-file-storing-power/"><u>In 2024, Assessing 64GB for Video File Storing Power</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>In 2024, The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/innovative-techniques-in-repackaging-apps-for-seamless-distribution/"><u>Innovative Techniques in Repackaging Apps for Seamless Distribution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-gpt-3-implementation-in-python-techniques-for-success/"><u>Seamless GPT-3 Implementation in Python: Techniques for Success</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unraveling-the-mystery-why-is-my-windows-file-explorer-spontaneously-launching-insights-from-malwarefox/"><u>Unraveling the Mystery: Why Is My Windows File Explorer Spontaneously Launching? Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-access.techidaily.com/xbox-ones-zooming-edge-a-comprehensive-guide/"><u>Xbox One's Zooming Edge A Comprehensive Guide</u></a></li>
 </ul></div>
 

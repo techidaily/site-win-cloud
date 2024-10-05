@@ -1,7 +1,7 @@
 ---
 title: Windows Registry Techniques for Effective File Type Control and Handling
-date: 2024-09-23T09:49:54.971Z
-updated: 2024-09-30T04:05:06.525Z
+date: 2024-10-03T17:52:31.866Z
+updated: 2024-10-05T18:58:55.710Z
 tags:
   - application-packaging-training
 categories:
@@ -35,6 +35,13 @@ Before we have a look on how to [manipulate the file extensions that VLC](https:
 * File Type Associations (FTA)
 * COM+
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### COM
 
 Microsoft's COM (Component Object Model) is a binary interface standard that allows software components to communicate with one another. Regardless of the programming language used to create the components, COM provides a standard way for applications to interact with one another and with the operating system.
@@ -64,10 +71,10 @@ Copy
 The above registry entry registers the Windows Media Player COM component on the system, specifying the default name of the component and the location of its DLL file.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Interfaces
@@ -95,13 +102,6 @@ Copy
 
 The IDispatch interface, defined in the preceding registry entry, is used to provide automation support for COM components. It specifies the interface's default name and GUID.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Type Libraries
 
 Type libraries, which are used to define the data types and interfaces that a component supports, are another important aspect of COM. Type libraries are represented in the registry by a series of keys and values that define the properties and behaviors of the type library, including the interfaces and data types that are supported.
@@ -124,13 +124,6 @@ HKEY_CLASSES_ROOT\TypeLib\{1F2D0E65-8DFE-4BAF-A07E-4A4D4C4B1E9D}\1.0
 Copy
 
 The registry entry above defines the Microsoft Excel 2010 Object Library type library, which contains Excel's interfaces and data types. It specifies the type library's default name and GUID.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### File Type Associations
 
@@ -157,16 +150,17 @@ If we take the .txt file extension as an example, HKEY\_CLASSES\_ROOT\\.txt key 
 ![txt file association](https://cdn.advancedinstaller.com/img/registry-classes/txt-file-association.png "txt file association")  
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### COM+
@@ -230,18 +224,18 @@ COM+ enhances COM's capabilities by providing additional services and features. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streaming-perfection-best-practices-in-vr-gameplay-recording/"><u>[New] In 2024, Streaming Perfection Best Practices in VR Gameplay Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-5-twitch-broadcasting-techniques/"><u>[Updated] 2024 Approved Top 5 Twitch Broadcasting Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-action-to-archive-screencast-review-essentials/"><u>[Updated] Action to Archive Screencast Review Essentials</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/tunein-radio/"><u>「TuneIn Radio」から音声コンテンツの録音＆保存ガイド：手軽な方法</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-launching-a-mobile-friendly-youtube-space-for-entrepreneurs/"><u>2024 Approved Launching a Mobile-Friendly YouTube Space for Entrepreneurs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-lg-ultrafine-4k-monitor-complete-review/"><u>2024 Approved LG UltraFine 4K Monitor Complete Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-performance-a-guide-to-unlocking-full-fps-potential-in-ps5-games/"><u>Boosting Performance: A Guide to Unlocking Full FPS Potential in PS5 Games</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-4g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 4G Phone FRP Lock</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-the-art-of-youtube-brand-creation-best-names-for-vloggers-and-filmmakers-limit-to-156-characters-for-2024/"><u>Mastering the Art of YouTube Brand Creation Best Names for Vloggers & Filmmakers (Limit to 156 Characters) for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/successfully-streaming-avi-videos-a-step-by-step-guide-for-your-apple-tv/"><u>Successfully Streaming AVI Videos: A Step-by-Step Guide for Your Apple TV</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-computer-components-at-toms-hardware/"><u>The Ultimate Guide to Computer Components at Tom's Hardware</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-rated-mkv-to-dvd-conversion-software-for-pc/"><u>Top Rated MKV to DVD Conversion Software for PC</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/transforming-mp3s-into-professional-m4b-audiobooks-with-ease/"><u>Transforming MP3s Into Professional M4B Audiobooks with Ease</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-share-enjoy/"><u>[New] In 2024, Capture, Share, Enjoy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-premium-game-screens-in-high-definition/"><u>[New] Top 5 Premium Game Screens in High Definition</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/bring-back-your-memories-expert-photo-recovery-for-samsung-galaxy-models-s-s-ii-s-iii-s-iv/"><u>Bring Back Your Memories: Expert Photo Recovery for Samsung Galaxy Models (S, S II, S III, S IV)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturequality-assessor-network-for-2024/"><u>CaptureQuality Assessor Network for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dvdmovavi-dvd-burning-guide-with-movavi-software/"><u>DVD記録プログラム『MOVAVI』の使い方 - DVD Burning Guide with Movavi Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-troubleshooting-and-installation-of-the-dell-mouse-driver-solved/"><u>Easy Troubleshooting and Installation of the Dell Mouse Driver - Solved!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-swf-format-migration-compatible-for-both-pc-and-mac-systems-from-any-source/"><u>Effortless SWF Format Migration: Compatible for Both PC & Mac Systems From Any Source</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-the-art-of-innovative-msi-boxing-methods-through-exclusive-video-tutorials/"><u>Master the Art of Innovative MSI Boxing Methods Through Exclusive Video Tutorials</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-techniques-for-efficiently-creating-quicktime-recordings/"><u>Top Techniques for Efficiently Creating QuickTime Recordings</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-techniques-for-removing-emojis-from-images-a-comprehensive-guide/"><u>Top Techniques for Removing Emojis From Images : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-rated-android-desktop-companion-comprehensive-software-reviews/"><u>Top-Rated Android Desktop Companion: Comprehensive Software Reviews</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-titans-social-networks-10-most-shared-posts-for-2024/"><u>Tweet Titans Social Network’s 10 Most Shared Posts for 2024</u></a></li>
 </ul></div>
 

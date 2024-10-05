@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Strategies for Implementing Effective Firewall Configurations via VBScript, PowerShell, and the Advanced Installer Tool
-date: 2024-09-26T08:20:11.893Z
-updated: 2024-09-30T09:33:49.478Z
+date: 2024-10-02T19:53:31.209Z
+updated: 2024-10-05T18:39:19.656Z
 tags:
   - application-packaging-training
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 To make the environment more secure it’s important to properly define and configure the firewall of your machines. However, there might be times when a specific executable must be added as an exception to the Inbound or Outbound rules of the firewall in order to have access.
 
 In this article, let’s have a look at how you can configure firewall rules via MSI with Advanced Installer, VBScript and Powershell.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Firewall rules with VBScript
 
@@ -89,10 +82,10 @@ Next, open Advanced Installer and navigate to the Custom Actions Page. In here, 
 ![Launch attached file](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/addfwCA.png "Launch attached file")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As a best practice it’s also important to remove the firewall rule during the uninstallation. For that, it means we need another Custom Action and a different VBScrit to remove our rule. The VBScript code is:
@@ -106,6 +99,13 @@ Copy
 After that, follow the same exact steps as above and configure the custom action as following:
 
 ![configure the custom action](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/remfwCA.png "configure the custom action")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Firewall rules with PowerShell
 
@@ -132,13 +132,6 @@ To also add the remove firewall PowerShell script, follow the same steps as abov
 
 ![remove firewall PowerShell script](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/remfwPSCA.png "remove firewall PowerShell script")  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Firewall rules with Advanced Installer
 
 If you don’t like to code, Advanced Installer made it much simpler to add firewall rules. First, navigate to the [Windows Firewall](https://tools.techidaily.com/advancedinstaller/products/)[page](https://tools.techidaily.com/advancedinstaller/products/).
@@ -147,22 +140,29 @@ Next, click on **New Rule**. This will open a new window in which you can define
 
 ![Windows Firewall page](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/advfw.png "Windows Firewall page")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see, you can easily choose the direction, display name, program path, protocol and other settings directly from the GUI. In our case we wanted to mimic the above usages of netsh and PowerShell and left everything as before in the GUI.
 
 And that is it, Advanced Installer will automatically create the exception during the installation and during the uninstallation it will remove the exception from the firewall, not needing to create two separate actions for it.
 
 ![remove the exception from the firewall](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/advfw2.png "remove the exception from the firewall")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 All you have to do is build and install the MSI package. After the installation, if we check the Inbound rules, our rule is there:
 
 ![check the Inbound rules](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/inbound.png "check the Inbound rules")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,22 +179,20 @@ All you have to do is build and install the MSI package. After the installation,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-create-impactful-youtube-videos-top-20-font-picks/"><u>[New] In 2024, Create Impactful YouTube Videos Top 20 Font Picks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-echoing-ethos-with-closing-credits/"><u>[New] In 2024, Echoing Ethos with Closing Credits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-m1-nexus-smooth-transitions-unmatched-editing-velocity/"><u>[New] M1 Nexus Smooth Transitions, Unmatched Editing Velocity</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-the-secrets-of-facebook-video-content-success-for-2024/"><u>[Updated] Unveiling the Secrets of Facebook Video Content Success for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-easy-guide-streaming-flv-files-on-iphone-and-ipad-without-hitches/"><u>1. Easy Guide: Streaming Flv Files on iPhone & iPad Without Hitches</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-fine-tuning-focus-a-compreeher-guide-for-videoleap-users/"><u>2024 Approved Fine-Tuning Focus A Compreeher Guide for Videoleap Users</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726027438379-dvdmp4/"><u>店頭で入手したDVDをMP4フォーマットに直すコツ</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030101997-gifgif/"><u>覚えやすくて楽しい GIFアニメ化ガイド:カワイコト・オシャレな動画を遊び心溢れるGIFに変える</u></a></li>
-<li><a href="https://video-capture.techidaily.com/become-a-pro-at-xbox-video-recording-in-minutes-for-2024/"><u>Become a Pro at Xbox Video Recording in Minutes for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-valves-new-upgrades-advanced-game-distribution-in-families-and-improved-parental-management-systems-on-steam/"><u>Discover Valve's New Upgrades: Advanced Game Distribution in Families and Improved Parental Management Systems on Steam</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726028974432-movmp4/"><u>MOVファイル大量バッチをMP4に転化する究極ガイド</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030027717-pc3/"><u>PCに付属のオーディオ転送ソフトウェア3つ！長時間ボイスレコードへ</u></a></li>
-<li><a href="https://driver-install.techidaily.com/standard-procedure-uninstalling-wacom-on-various-windows-editions/"><u>Standard Procedure: Uninstalling Wacom on Various Windows Editions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030406704-step-by-step-strategies-for-superior-video-upgrades-using-vlc-player-comprehensive-guide/"><u>Step-by-Step Strategies for Superior Video Upgrades Using VLC Player (Comprehensive Guide )</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/successfully-streaming-webm-files-on-your-ios-device-tips-and-tricks/"><u>Successfully Streaming WebM Files on Your iOS Device: Tips & Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-ac1st16dll-file-not-found-issues/"><u>Ultimate Guide: Resolving 'Ac1st16.dll' File Not Found Issues</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/44ot44oh44kq44kr44oh44op44gl44kj44gu5yuv55s744ks44or44k944kz44oz5lik44gn44ov44k244go57eo6zug44gz44kl6ieq55sx44k944ov44oi6yg444gz44o75oyh5y2x/"><u>ビデオカメラからの動画をパソコン上でワザと編集する自由ソフト選び・指南</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[New] 2024 Approved Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-charting-a-path-to-success-exploring-15-top-youtube-beginnings/"><u>[Updated] In 2024, Charting a Path to Success Exploring 15 Top YouTube Beginnings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-essential-guide-to-podcast-creation-in-garageband/"><u>2024 Approved The Essential Guide to Podcast Creation in GarageBand</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-iphone-screen-mirroring-applications-ranked/"><u>Best iPhone Screen Mirroring Applications Ranked</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/beware-of-phishing-understanding-the-email-confirmation-trojan-disguised-as-a-shipping-update/"><u>Beware of Phishing: Understanding the 'Email Confirmation' Trojan Disguised as a Shipping Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/garageband-strategies-for-perfect-podcast-editing-for-2024/"><u>GarageBand Strategies for Perfect Podcast Editing for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-x-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone X without Password?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-nest-audio-evaluation-the-ultimate-sound-experience-for-audiophiles/"><u>In-Depth Nest Audio Evaluation: The Ultimate Sound Experience for Audiophiles</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-tips-how-to-shrink-mp3-audio-on-your-computer-and-phone-with-ease/"><u>Quick Tips: How to Shrink MP3 Audio on Your Computer and Phone with Ease</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/seamless-syncing-techniques-iphone-data-migration-to-windows-11/"><u>Seamless Syncing Techniques: IPhone Data Migration to Windows 11</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-adding-protective-watermarks-to-your-instagram-images/"><u>Step-by-Step Guide: Adding Protective Watermarks to Your Instagram Images</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-6-ideal-mobile-applications-for-enhancing-your-images-with-perfect-backgrounds/"><u>Top 6 Ideal Mobile Applications for Enhancing Your Images with Perfect Backgrounds</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transformative-content-blocks-enhanced-youtube-decks/"><u>Transformative Content Blocks Enhanced Youtube Decks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-ntdlldll-issues-on-your-pc-windows-1087/"><u>Ultimate Guide: Resolving ntdll.dll Issues on Your PC (Windows 10/8/7)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-impact-of-malware-operation-consequences-and-prevention-strategies/"><u>Understanding the Impact of Malware: Operation, Consequences, & Prevention Strategies</u></a></li>
 </ul></div>
 

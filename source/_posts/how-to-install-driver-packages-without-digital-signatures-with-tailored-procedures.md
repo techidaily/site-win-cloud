@@ -1,7 +1,7 @@
 ---
 title: How to Install Driver Packages Without Digital Signatures with Tailored Procedures
-date: 2024-09-27T17:11:03.729Z
-updated: 2024-09-29T21:16:38.690Z
+date: 2024-10-01T16:56:19.217Z
+updated: 2024-10-05T16:35:32.993Z
 tags:
   - application-packaging-training
 categories:
@@ -38,13 +38,6 @@ Tools that you need: (most are from the Windows Driver Kit – the latest versio
 [Certmgr.exe](https://learn.microsoft.com/en-us/dotnet/framework/tools/certmgr-exe-certificate-manager-tool "Certmgr.exe") (Used to add and delete our certificate to the system root)
 
 Let's have a look at each step that you must take to get your unsigned certificates installed silently. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Create a digital certificate by using the MakeCert tool
 
@@ -117,10 +110,16 @@ Identifies the 32-bit version of Windows 10 as the operating system. Run the com
 ![Identifies the 32-bit version of Windows 10](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/inf2cat.png "Identifies the 32-bit version of Windows 10")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Sign the catalog file using SignTool
@@ -155,14 +154,14 @@ Signtool indicates completion with the following message:
 
 ![Successfully signed and timestamped](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/signtool.png "Successfully signed and timestamped")  
 
-Successfully signed and timestamped: C:\\toaster\\device\\example.cat
-
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Successfully signed and timestamped: C:\\toaster\\device\\example.cat
 
 ### Export the certificate from certstore manually
 
@@ -171,6 +170,20 @@ Run an administrator command: certmgr.exe
 Export the certificate manually:
 
 ![Export the certificate manually](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/exportcert.png "Export the certificate manually")  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Install the certificate to Root and TrustedPublisher
 
@@ -230,10 +243,10 @@ Once the script is created, navigate to the Custom Actions Page and add the **La
 ![add certificate](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/addcertAI.png "add certificate")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure that the script which installs the certificate is placed before the script which installs the driver under the “Install Execution Stage” section.
@@ -252,13 +265,6 @@ Once we have the script ready, navigate to the Custom Actions Page and add the *
 
 Next, build the package and during installation/uninstallation the PowerShell scripts will run and install/uninstall the driver without asking if we want to install an unsigned driver.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installing unsigned drivers with Advanced Installer
 
 As you can see, handling unsigned certificates is not an easy task and it’s definitely time consuming. Advanced Installer makes it easier to install unsigned drivers with just a click of a button..and yes that is not a figure of speech.
@@ -267,16 +273,16 @@ Navigate to the Drivers page and click on **New Driver**. A window will open for
 
 ![Installing unsigned drivers with Advanced Installer](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/advinstdriverinst.png "Installing unsigned drivers with Advanced Installer")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, all you have to do is just select “Install unsigned driver packages and driver packages that have missing files” and Advanced Installer does everything for you!
 
 ![Install unsigned driver packages and driver packages that have missing files](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/unsigneddriversAI.png "Install unsigned driver packages and driver packages that have missing files")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And that is it! Next, just build and install the package and you should have a clean installation without any warning messages from the OS.
 
@@ -295,24 +301,16 @@ And that is it! Next, just build and install the package and you should have a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-understanding-youtubes-monthly-revenue-options/"><u>[New] 2024 Approved Understanding YouTube's Monthly Revenue Options</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-shatter-the-illusion-true-viewers-of-your-insta-posts-revealed/"><u>[New] In 2024, Shatter the Illusion True Viewers of Your Insta Posts Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-palette-strategies-utilizing-color-science-in-art/"><u>[New] Palette Strategies Utilizing Color Science in Art</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-methods-to-reduce-youtube-video-size/"><u>[Updated] In 2024, Cutting-Edge Methods to Reduce YouTube Video Size</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-the-art-of-extracting-fb-gifs-for-all-platforms-for-2024/"><u>[Updated] Mastering the Art of Extracting FB GIFs for All Platforms for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastery-over-cloud-expenses-cheapest-options-showcased/"><u>[Updated] Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-easy-guide-streaming-flv-files-on-iphone-and-ipad-without-hitches/"><u>1. Easy Guide: Streaming Flv Files on iPhone & iPad Without Hitches</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726027438379-dvdmp4/"><u>店頭で入手したDVDをMP4フォーマットに直すコツ</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mkvgif/"><u>高画質MKVファイルから鮮やかなGIFへの完全変換ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/age-of-empires-ii-windows-10-compatibility-fixed-start-playing-without-hitches/"><u>Age of Empires II Windows 10 Compatibility Fixed - Start Playing Without Hitches</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-transformation-upload-your-mkv-videos-as-no-cost-dvd-discs/"><u>Effortless Transformation: Upload Your MKV Videos as No-Cost DVD Discs</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fixing-the-unplayable-video-issue-overcoming-error-code-150-in-google-slides-presentations/"><u>Fixing the Unplayable Video Issue: Overcoming Error Code 150 in Google Slides Presentations</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/huawei-users-rejoice-learn-the-easy-way-to-convert-and-watch-dvds-on-your-phonetablet-without-cost/"><u>Huawei Users Rejoice! Learn the Easy Way to Convert & Watch DVDs on Your Phone/Tablet Without Cost</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726028974432-movmp4/"><u>MOVファイル大量バッチをMP4に転化する究極ガイド</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/pctiktoksns/"><u>PC版TikTok生中継の記録・保存テクニック！SNS動画フォロー強化</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/successfully-streaming-webm-files-on-your-ios-device-tips-and-tricks/"><u>Successfully Streaming WebM Files on Your iOS Device: Tips & Tricks</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/user-guide-to-downloading-and-using-the-latest-snappy-driver-installer-v113/"><u>User Guide to Downloading and Using the Latest Snappy Driver Installer V1.13</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] 2024 Approved From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>[New] 2024 Approved Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-visuals-on-the-social-media-giant-fb/"><u>[New] In 2024, Twitters' Visuals on the Social Media Giant FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>[Updated] Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/77422160-2024-approved-youtubing-green-magic-ideas-that-come-to-life/"><u>2024 Approved Youtubing Green Magic – Ideas That Come to Life!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhance-your-binge-watch-list-with-these-six-mac-methods-for-netflix-recording-for-2024/"><u>Enhance Your Binge-Watch List with These Six Mac Methods for Netflix Recording for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-map-mastery-acquiring-and-activating-adventures/"><u>Minecraft Map Mastery: Acquiring & Activating Adventures</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/practical-techniques-transforming-ogv-files-into-high-quality-mp4-videos/"><u>Practical Techniques: Transforming OGV Files Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-altering-the-default-pdf-viewing-software-on-windows-10-systems/"><u>Step-by-Step Guide: Altering the Default PDF Viewing Software on Windows 10 Systems</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-ultimate-list-top-5-free-data-recovery-apps-compatible-with-macos/"><u>The Ultimate List: Top 5 FREE Data Recovery Apps Compatible with macOS</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-cybersecurity-risks-the-higher-infection-rates-of-windows-versus-maclinux-systems/"><u>Understanding Cybersecurity Risks: The Higher Infection Rates of Windows Versus Mac/Linux Systems</u></a></li>
 </ul></div>
 

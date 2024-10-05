@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Capturing Screenshots and Recording Your Screen on Windows 10/11 Using Native Features"
-date: 2024-09-28T07:06:10.789Z
-updated: 2024-09-30T02:44:51.612Z
+date: 2024-10-02T16:40:51.335Z
+updated: 2024-10-05T16:24:57.489Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-reviving-old-photos-through-snapchats-memories-feature/"><u>[New] 2024 Approved Reviving Old Photos Through Snapchat's Memories Feature</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/h264avi/"><u>「画質維持でH264動画をAVIに変換：専門家のコツとテクニック」</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-htc-u23-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from HTC U23 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/capturing-specific-areas-on-your-screen-in-windows-10-and-11-tutorials-for-precision-shots/"><u>Capturing Specific Areas on Your Screen in Windows 10 and 11 - Tutorials for Precision Shots</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/dvd-launch-city-of-bones-from-the-mortal-instruments-series-now-available-via-sony/"><u>DVD Launch: 'City of Bones' From The Mortal Instruments Series, Now Available via Sony</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-guide-to-joining-and-advancing-from-free-to-pro-with-wonderfox-dvd-video-converter/"><u>Easy Guide to Joining & Advancing From Free to Pro with WonderFox DVD Video Converter</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-ways-to-transform-bik-videos-into-popular-file-types-such-as-mp4-avi-and-mkv-for-universal-playback-compatibility/"><u>Easy Ways to Transform BIK Videos Into Popular File Types Such as MP4, AVI & MKV for Universal Playback Compatibility</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-techniques-transforming-your-twitch-stream-into-an-mp4-file/"><u>Effortless Techniques: Transforming Your Twitch Stream Into an MP4 File</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/get-your-free-trial-of-the-ultimate-flv-video-converter-flv-converter-factory-pro-no-risks-with-secure-online-buy/"><u>Get Your Free Trial of the Ultimate FLV Video Converter: FLV Converter Factory Pro - No Risks with Secure Online Buy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hyte-takes-computing-to-the-next-level-advanced-coolers-and-lighting-solutions-usb-headers-and-comprehensive-fan-management-for-enthusiasts/"><u>Hyte Takes Computing to the Next Level: Advanced Coolers & Lighting Solutions, USB Headers, and Comprehensive Fan Management for Enthusiasts</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-reclaiming-your-omegle-presence-steps-to-overcome-an-online-ban/"><u>In 2024, Reclaiming Your Omegle Presence Steps to Overcome an Online Ban</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-star-wars-battlefront-ii-error-327/"><u>Resolved: Troubleshooting Star Wars Battlefront II Error 327</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-content-workflow-using-8-cutting-edge-ai-resources/"><u>Revolutionize Your Content Workflow Using 8 Cutting-Edge AI Resources</u></a></li>
-<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-top-jokesters-for-2024/"><u>Twitter's Top Jokesters for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-immediate-insta-photo-series-viewing/"><u>[Updated] Immediate Insta Photo Series Viewing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-sharpviewzoomx7-professional-photo-size-controls-for-2024/"><u>[Updated] SharpViewZoomX7 Professional Photo Size Controls for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-techniques-for-flawless-distance-audio-capture/"><u>[Updated] Top Techniques for Flawless Distance Audio Capture</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-stealthy-methods-uncovering-how-malware-secretly-infiltrates-your-computer/"><u>1. Stealthy Methods: Uncovering How Malware Secretly Infiltrates Your Computer</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comparing-msi-and-msp-understanding-the-difference-in-microsoft-installation-packages/"><u>Comparing MSI and MSP: Understanding the Difference in Microsoft Installation Packages</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-top-techniques-for-transferring-contacts-and-apps-between-phones-a-comprehensive-guide/"><u>Effortless Top Techniques for Transferring Contacts and Apps Between Phones: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/elevate-your-skills-with-advanced-msi-academy-zero-cost-professional-certification-program/"><u>Elevate Your Skills with Advanced MSI Academy: Zero Cost Professional Certification Program</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/hassle-free-methods-for-adding-movies-to-your-ios-device-by-bypassing-itunes/"><u>Hassle-Free Methods for Adding Movies to Your iOS Device by Bypassing iTunes</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-detect-a-compromised-smartphone-uncovering-signs-of-hacking-and-protecting-with-malwarefox/"><u>How to Detect a Compromised Smartphone: Uncovering Signs of Hacking and Protecting with MalwareFox</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-redmi-note-13-proplus-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Xiaomi Redmi Note 13 Pro+ 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/innovative-techniques-in-repackaging-apps-for-seamless-distribution/"><u>Innovative Techniques in Repackaging Apps for Seamless Distribution</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nt-influence-youtubes-hourly-video-tops-for-2024/"><u>Instant Influence Youtube's Hourly Video Tops for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/perfect-your-titling-skills-with-our-best-practices/"><u>Perfect Your Titling Skills with Our Best Practices</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-art-of-deception-exploring-how-and-where-digital-thieves-conceal-harmful-software/"><u>The Art of Deception: Exploring How & Where Digital Thieves Conceal Harmful Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-channel-your-source-for-cutting-edge-pcs-and-devices/"><u>Tom's Hardware Review Channel: Your Source for Cutting-Edge PCs and Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-20-bridge-to-lan-quick-and-painless-driver-instructions/"><u>USB 2.0 Bridge to LAN - Quick and Painless Driver Instructions</u></a></li>
 </ul></div>
 

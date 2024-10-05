@@ -1,7 +1,7 @@
 ---
 title: "The Art of Deception: Exploring How & Where Digital Thieves Conceal Harmful Software"
-date: 2024-09-22T17:59:39.564Z
-updated: 2024-09-30T10:10:52.137Z
+date: 2024-09-28T17:27:49.862Z
+updated: 2024-10-05T16:58:43.644Z
 tags:
   - product
   - antivirus
@@ -66,33 +66,19 @@ Some of the most common places that hackers hide malware are:
 
 As you can see there are numerous platforms a hacker can hide malware. Now we’ll see how they do it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Compressed Packers
 
 A packer is a program that compresses an executable to make it smaller. It wraps the compressed executable in the code necessary to decompress itself at runtime. The act of compression changes the way the executable file looks. This means that virus scanners can’t recognize the malware because they don’t recognize the packer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Obfuscation
 
 Obfuscation is a technique used to make code difficult to understand. It’s often used to make malware more difficult to detect and analyze. Hackers will use obfuscation to make it more difficult for antivirus software to detect their malware.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Encryption
@@ -103,11 +89,25 @@ Encryption is a technique used to make data unreadable by anyone who doesn’t h
 
 Signature evasion is a technique used to make malware more difficult to detect. Hackers will use this technique to make their malware look like something else. This makes it almost impossible for antimalware applications to detect the malware.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Polymorphic Malware
 
 Polymorphic malware is malware that regularly changes its appearance. This makes it more difficult for antivirus software to detect the malware.
 
 [How does Malware Work?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to stay protected from Malware?
 
@@ -122,10 +122,10 @@ Here are some preventive tips to stay protected from malware:
 * Keep your system equipped with a robust antimalware solution. Antimalware solutions are explicitly designed to tackle different malware. It is also essential to keep the security programs updated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Words
@@ -169,16 +169,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-in-overwatch-streamlining-the-recording-process/"><u>[New] 2024 Approved In Overwatch Streamlining the Recording Process</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-integrating-video-calls-combining-gmail-and-zoom-for-effective-communication/"><u>[Updated] In 2024, Integrating Video Calls Combining Gmail & Zoom for Effective Communication</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mkvgif/"><u>高画質MKVファイルから鮮やかなGIFへの完全変換ガイド</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fixing-the-unplayable-video-issue-overcoming-error-code-150-in-google-slides-presentations/"><u>Fixing the Unplayable Video Issue: Overcoming Error Code 150 in Google Slides Presentations</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/huawei-users-rejoice-learn-the-easy-way-to-convert-and-watch-dvds-on-your-phonetablet-without-cost/"><u>Huawei Users Rejoice! Learn the Easy Way to Convert & Watch DVDs on Your Phone/Tablet Without Cost</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-a59-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo A59 5G Easily?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installing-the-latest-windows-11-arm-via-iso-instructions/"><u>Installing the Latest Windows 11 ARM via ISO Instructions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/pctiktoksns/"><u>PC版TikTok生中継の記録・保存テクニック！SNS動画フォロー強化</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resurrecting-disabled-windows-10-usb-earbuds/"><u>Resurrecting Disabled Windows 10 USB Earbuds</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-symphony-revisited-the-top-4-digital-renaissance-themes/"><u>Social Symphony Revisited: The Top 4 Digital Renaissance Themes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-building-believable-characters-through-dialogue/"><u>[Updated] Building Believable Characters Through Dialogue</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-structuring-engaging-online-vignettes/"><u>2024 Approved Structuring Engaging Online Vignettes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-choice-android-sky-dumps-and-safes/"><u>2024 Approved Top Choice Android Sky Dumps & Safes</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-problem-of-unrecognized-drivers-during-windows-startup/"><u>Fixing the Problem of Unrecognized Drivers During Windows Startup</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-confirm-the-trustworthiness-and-safety-of-android-apps-before-downloading/"><u>How to Confirm the Trustworthiness and Safety of Android Apps Before Downloading.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-it-quiet-social-media-interaction-minimization/"><u>Keep It Quiet: Social Media Interaction Minimization</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/malwarefox-rootkit-scanner-effortless-detection-and-elimination-software/"><u>MalwareFox Rootkit Scanner: Effortless Detection & Elimination Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-guide-speedy-techniques-for-cd-burning-and-conversion/"><u>Quick Guide: Speedy Techniques for CD Burning and Conversion</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-5-parent-friendly-cybersecurity-apps-finding-the-perfect-malwarefox-alternative/"><u>Top 5 Parent-Friendly Cybersecurity Apps: Finding the Perfect MalwareFox Alternative</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-methods-for-streaming-your-zoom-video-calls-on-television/"><u>Top Methods for Streaming Your Zoom Video Calls on Television</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-broadcom-ethernet-driver-issues-in-windows-1-download-guide/"><u>Troubleshooting Broadcom Ethernet Driver Issues in Windows 1# - Download Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-tutorial-simplifying-videos-into-easy-summaries/"><u>Ultimate Tutorial: Simplifying Videos Into Easy Summaries</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Updated 2024 Approved Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
 </ul></div>
 

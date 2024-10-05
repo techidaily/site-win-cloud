@@ -1,7 +1,7 @@
 ---
 title: "6 Key Indicators: Identifying Bogus Profiles on Facebook"
-date: 2024-09-23T18:52:37.967Z
-updated: 2024-09-29T19:13:24.434Z
+date: 2024-10-02T16:54:25.412Z
+updated: 2024-10-05T18:24:09.714Z
 tags:
   - product
   - antivirus
@@ -50,6 +50,13 @@ The first thing you see in a profile on Facebook is their profile picture. You c
 
 ![Check Profile Picture](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-Profile-Picture.jpg "Check Profile Picture")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Single Profile Picture**
 
 An active user on Facebook regularly changes his/her profile picture. If you see only one profile picture and the profile is new or 2-3 years old, it should raise a concern.
@@ -84,19 +91,6 @@ Now open [Google Image search](https://images.google.com/) and click on the **Ca
 
 ![Search on Google Image 1](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image-1.jpg "Search on Google Image 1")
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on **Upload an image** and then click on **Choose file**, select the profile picture and upload it.
 
 ![Search on Google Image 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image-2.jpg "Search on Google Image 2")
@@ -108,6 +102,13 @@ Another way to spot a fake Facebook profile is to look in the about section. Gen
 ![Check About Section](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-About-Section.jpg "Check About Section")
 
 Also, when you see lots of patterns like Works in California, Went to the University of California, Lives in California, then it is a sign of a fake account. Fake account creators don’t go into details they fill in common and famous things to look credible. It could be the renowned name of famous places like New York, California, Los Angles, Texas, Or it could be the name of famous universities like Harvard University, New York University, or Stanford University.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Check Friend List
 
@@ -123,13 +124,6 @@ Many fake Facebook accounts have different names in the URL and the profile. It 
 
 ![Different Name in URL and Profile](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Different-Name-in-URL-and-Profile.jpg "Different Name in URL and Profile")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For example, someone creates an account to promote things for the American people, and then they decided to use the same account to push content to Saudi Arabs, so he or she changed the name. However, a different name in the URL and profile is not a clear indication that the account is fake, but if we relate it with other factors, it could be a clear sign.
 
 ## Read the Timeline
@@ -137,6 +131,13 @@ For example, someone creates an account to promote things for the American peopl
 Now it comes to reading the Timeline. If a user is posting too many links of one or many websites with lots of ads, then it is clear that the account is for promotion and it is likely to be a fake account.
 
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline2.jpg "Read the Timeline")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Users on Facebook shares different things like jokes, music, video, or pictures. They also share their activity like traveling, reading, and listening. If you don’t see such different types of posts, then it could also be a sign of a fake account. Just scroll the timeline to grasp what users are sharing and compare it with what they were sharing earlier. Shifting of content on the timeline indicates the same.
 
@@ -154,16 +155,16 @@ If you see no such activity, then the profile is not genuine.
 
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline.jpg "Read the Timeline")
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 There are lots of ways to identify a fake Facebook account; however, none of them are proof that the account is fake. Maybe someone doesn’t willingly display their original picture or listed his or her actual about section for privacy concerns. It usually happens with old-age people they don’t like to share everything on Facebook. However, this doesn’t happen with younger persons. They wish to advertise everything they do. If you see such hidden things on a profile of a younger person, then it is suspicious. Also in the final step to confirm you can send a personal message to the person to see if they reply. Most fake account holder doesn’t like to respond.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 26 thoughts on “How to Spot Fake Facebook Profile”
 
@@ -188,31 +189,11 @@ Good Article, Thank you
    * ![](https://secure.gravatar.com/avatar/c4101fdbb94875d098b0f7db475b8315?s=50&d=mm&r=g)  
    elisa  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    [March 7, 2022 at 1:45 pm](https://tools.techidaily.com/malwarefox/products/)  
    dude, no one has 5000 friends  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
          * ![](https://secure.gravatar.com/avatar/f44f24ddefb03587d905a8a1da978907?s=50&d=mm&r=g)  
          Clara Brown  
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
          [September 5, 2022 at 12:30 am](https://tools.techidaily.com/malwarefox/products/)  
          How can you keep up with 5000\. I don’t know that many people  
@@ -232,10 +213,10 @@ Thank you
 Larry Greenstein  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [April 28, 2020 at 1:44 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -249,18 +230,19 @@ Hi my name is Austin I’ve checked fb market place and this guy is selling a tr
 6. ![](https://secure.gravatar.com/avatar/af89d9ed3278f273bd01ce479725f488?s=50&d=mm&r=g)  
 Elisa  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [September 2, 2020 at 3:39 pm](https://tools.techidaily.com/malwarefox/products/)  
 I found all this credible up till the conclusion. The grammar flubs in that section suddenly made me doubt the truth in this piece.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/6dc71338cacb08607d90f6733a60d1ed?s=50&d=mm&r=g)  
    Maria  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [February 19, 2021 at 2:26 am](https://tools.techidaily.com/malwarefox/products/)  
    Yes, I noticed it too.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -311,6 +293,14 @@ Wow, my FB profile must look so fake… I hate pictures of myself and I have no 
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/743589a3f0f101301a8fb59ad0d022e9?s=50&d=mm&r=g)  
    Tammy Lynn  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [March 16, 2022 at 4:45 am](https://tools.techidaily.com/malwarefox/products/)  
    Aaaw NOOO plz don’t ever treat or think of yourself in that way!!!  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -322,6 +312,14 @@ The page is about 2/3 yrs old with no recent activity. He says It was set up wit
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 14. ![](https://secure.gravatar.com/avatar/361ba1bcc1d2c5a8885dd093dbb96bb6?s=50&d=mm&r=g)  
 facebook profile page  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [February 28, 2022 at 1:52 pm](https://tools.techidaily.com/malwarefox/products/)  
 Gracias x la ayuda. me es de gran utilidad…  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -338,13 +336,6 @@ On facebook messenger, I used a video call to talk to a live person. That’s ho
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 17. ![](https://secure.gravatar.com/avatar/954225bf54cc3e6ca8f247f2fdc2eb9b?s=50&d=mm&r=g)  
 Cheryl  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [August 17, 2022 at 10:56 am](https://tools.techidaily.com/malwarefox/products/)  
 Another clue is when you get friend requests from people who are already your friend. You need to report those to Facebook. Also bad spelling and grammar when you expect it to be better.  
@@ -375,21 +366,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-choose-wisely-the-ultimate-list-of-mac-gif-tools-for-2024/"><u>[New] Choose Wisely The Ultimate List of Mac GIF Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comparing-mp4-recorders-the-latest-edition-for-2024/"><u>[Updated] Comparing MP4 Recorders - The Latest Edition for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transform-your-igtv-videos-tips-for-impactful-titles-and-summaries/"><u>[Updated] In 2024, Transform Your IGTV Videos Tips for Impactful Titles & Summaries</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-easy-guide-streaming-flv-files-on-iphone-and-ipad-without-hitches/"><u>1. Easy Guide: Streaming Flv Files on iPhone & iPad Without Hitches</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-hottest-tiktok-trends-on-twitter/"><u>2024 Approved The Hottest TikTok Trends on Twitter</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-prodigy-vs-creative-hub-beta-edition/"><u>2024 Approved YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726027438379-dvdmp4/"><u>店頭で入手したDVDをMP4フォーマットに直すコツ</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030101997-gifgif/"><u>覚えやすくて楽しい GIFアニメ化ガイド:カワイコト・オシャレな動画を遊び心溢れるGIFに変える</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726028974432-movmp4/"><u>MOVファイル大量バッチをMP4に転化する究極ガイド</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-with-intelligence-a-comprehensive-review-of-the-adaptive-escort-ix-detector/"><u>Navigating with Intelligence: A Comprehensive Review of the Adaptive Escort iX Detector</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030027717-pc3/"><u>PCに付属のオーディオ転送ソフトウェア3つ！長時間ボイスレコードへ</u></a></li>
-<li><a href="https://article-posts.techidaily.com/quick-quirks-of-professional-photo-editing-for-2024/"><u>Quick Quirks of Professional Photo Editing for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030406704-step-by-step-strategies-for-superior-video-upgrades-using-vlc-player-comprehensive-guide/"><u>Step-by-Step Strategies for Superior Video Upgrades Using VLC Player (Comprehensive Guide )</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforming-mov-files-into-gifs-discover-the-top-3-methods-with-2-free-options/"><u>Transforming MOV Files Into GIFs: Discover the Top 3 Methods with 2 Free Options</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/44ot44oh44kq44kr44oh44op44gl44kj44gu5yuv55s744ks44or44k944kz44oz5lik44gn44ov44k244go57eo6zug44gz44kl6ieq55sx44k944ov44oi6yg444gz44o75oyh5y2x/"><u>ビデオカメラからの動画をパソコン上でワザと編集する自由ソフト選び・指南</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-identifying-the-best-on-the-market-for-hdr-photography/"><u>[New] Identifying the Best on the Market for HDR Photography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-app-for-gamers-fraps-vs-obs-studio-review/"><u>[New] In 2024, Best App for Gamers Fraps Vs. OBS Studio Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-finding-hashtags-that-amplify-to-6k-views/"><u>[Updated] Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/botnet-basics-unveiled-how-these-networks-operate-demystified-for-the-everyday-user/"><u>Botnet Basics Unveiled: How These Networks Operate Demystified for the Everyday User</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-the-art-of-logo-design-in-202ebase-image-editing-techniques-for-background-removal/"><u>Master the Art of Logo Design in 202Ebase Image Editing Techniques for Background Removal</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/native-heic-picture-manager-for-windows-enjoy-seamless-viewing-without-changing-image-types/"><u>Native HEIC Picture Manager for Windows: Enjoy Seamless Viewing Without Changing Image Types!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-17-essential-steps-for-capturing-live-online-streams/"><u>Navigating 17 Essential Steps for Capturing Live Online Streams</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/silence-unwanted-sound-discover-the-best-6-apps-for-removing-audio-interferences-on-your-smartphone-android-and-ios/"><u>Silence Unwanted Sound: Discover the Best 6 Apps for Removing Audio Interferences on Your Smartphone (Android & iOS)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-cropped-video-content-on-instagram/"><u>The Ultimate Guide to Cropped Video Content on Instagram</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-three-methods-for-converting-flac-files-to-itunes-compatible-formats-on-pc-and-mac/"><u>Top Three Methods for Converting FLAC Files to iTunes Compatible Formats on PC & Mac</u></a></li>
 </ul></div>
 
