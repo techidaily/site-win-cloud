@@ -1,7 +1,7 @@
 ---
 title: "Uncover Shocking Cyberbullying Realities & Their Impact: Essential Strategies for Prevention and Intervention"
-date: 2024-09-29T19:01:02.604Z
-updated: 2024-10-05T18:06:33.367Z
+date: 2024-10-04T17:27:22.580Z
+updated: 2024-10-10T17:44:30.767Z
 tags:
   - product
   - antivirus
@@ -48,6 +48,19 @@ Only 61% of youth have their privacy protection enabled in their social media ac
 
 [Windows 10 Privacy Issues and Fix](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Types of Cyberbullying
 
 There are countless types of cyberbullying. Children receive threats online all the time.
@@ -59,10 +72,10 @@ One of the most common forms of cyberbullying is bashing. It often happens in me
 Conversations and discussions can turn ugly fast. Offline harassment can spill over online. A group of bullies may target a vulnerable victim.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Gossiping
@@ -70,10 +83,16 @@ Conversations and discussions can turn ugly fast. Offline harassment can spill o
 The rapid exchange of information online can quickly lead to gossiping. False information can pass from one person to another. Bullies may use perceived flaws to humiliate the victim further. They may even create pages or groups to spread gossip also. It isolates the victim from his or her peers. Isolation can rapidly cause depression and anxiety.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Exposure
@@ -86,11 +105,25 @@ Kids and teens also reveal a bit too much online. They pass personal and intimat
 
 Not all bullies of the victims are within their age group. Bullies vary in background and intention. Children open themselves to be victims due to their online engagement.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### School Bullies
 
 More often than not, bullies are from the same school of the victims. A study by Duke University shows that 90% of teens who are the victim of cyberbullying, also experience harassment offline. Bullies often create fake personas to hide behind anonymity.
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/school-signal-and-children.png "school-signal-and-children")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Some cyberbullies may attack in groups. It involves shaming or humiliation, threats, and blackmailing. Bullying may not even happen in public threads. Messaging apps are typical tools bullies use against their victims.
 
@@ -100,25 +133,25 @@ More insidious types of bullies are cybercriminals who aim to make a profit or e
 
 ![](https://malwarefox.com/wp-content/uploads/2017/11/hacker-1.png "hacker (1)")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Revealing intimate photos and videos are often used to scare victims. Criminals will threaten to release the pictures and videos to the victims’ family and friends. They will often ask for payment. One such case is of Daniel Perry. The [Scottish teen took his own life after being blackmailed on Skype](http://www.telegraph.co.uk/news/uknews/crime/10245809/Teenager-commited-suicide-after-being-blackmailed-on-Skype.html).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Effects of Cyberbullying
 
 Cyberbullying, and bullying, in general, have short-term and lasting effects on both the victim and the bully. Identifying impacts, in the beginning, may be tough. However, children often show signs depending on the severity of the cyberbullying.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Academic Effects
 
@@ -134,13 +167,6 @@ Children’s mental and physical health is affected along with academic performa
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/girl-with-ponytails.png "girl-with-ponytails")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Physical health also suffers along with mental conditions. Parents often notice considerable changes in their child’s sleeping and eating habits. There is also a lack of interest in activities they used to enjoy.
 
 Mental and physical effects can have long-lasting effects. Researchers found that the victim children of cyberbullying have a high risk for depression as a young adult. It also increases depressive issues later in life.
@@ -150,13 +176,6 @@ Mental and physical effects can have long-lasting effects. Researchers found tha
 Suicide is one of the leading cause of death among young people. There are about 4,000 deaths per year caused by suicide according to the Centers for Disease Control and Prevention. Moreover, bully victims are two to nine times more like to consider suicide than non-victims. Studies conducted by researchers at Yale School of Medicine found correlations between bullying and suicide in children.
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/man-on-a-chair-before-suicide-with-a-hanging-rope.png "man-on-a-chair-before-suicide-with-a-hanging-rope")
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Being bullied and bullying also affects teen behavior towards alcoholism and drug use. Additionally, it can result in delinquent acts. It may include vandalism, abusive behavior, and even criminal activities.
 
@@ -176,13 +195,6 @@ Encourage your children to employ strong passwords in their online accounts. The
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/padlock-1.png "padlock (1)")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Additionally, educate them about clean online habits. Log-out of any online accounts when not in use. Encourage empathy and logic when posting on social media. Make them understand that their actions have significant effects on others.
 
 ### Turn On Parental Controls
@@ -201,14 +213,20 @@ It is essential to gather information if you suspect cyberbullying. You should r
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2017/06/warning.png "warning")
 
-[Ultimate Guide to Parental Controls](https://tools.techidaily.com/malwarefox/products/)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+[Ultimate Guide to Parental Controls](https://tools.techidaily.com/malwarefox/products/)
 
 ## Final Thoughts
 
@@ -239,16 +257,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-playing-fb-videos-on-your-apple-device/"><u>[New] In 2024, Playing FB Videos on Your Apple Device</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-adapting-srt-to-sub-step-by-step-guide-and-tactics/"><u>2024 Approved Adapting SRT to SUB Step-by-Step Guide & Tactics</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/bestselling-pdf-editor-software-for-mac-users-2020-edition/"><u>Bestselling PDF Editor Software for Mac Users - 2020 Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-a05-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy A05? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/comical-photo-tweaks-top-picks-for-digital-devices-for-2024/"><u>Comical Photo Tweaks Top Picks for Digital Devices for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effective-methods-for-eliminating-the-persistent-unwanted-auto-play-audio-malware/"><u>Effective Methods for Eliminating the Persistent Unwanted Auto-Play Audio Malware</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/eliminating-the-apple-security-warning-hoax-a-step-by-step-guide-by-malwarefox/"><u>Eliminating the Apple Security Warning Hoax: A Step-by-Step Guide by MalwareFox</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/enhance-professional-expertise-with-an-msi-certified-programmer-certificate/"><u>Enhance Professional Expertise with an MSI Certified Programmer Certificate</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-changing-instagram-voices-a-step-by-step-guide/"><u>In 2024, Changing Instagram Voices A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-huawei-nova-y91-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Huawei Nova Y91 Phone Screen?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-maximize-productivity-with-zoom-scheduling-techniques/"><u>[New] In 2024, Maximize Productivity with Zoom Scheduling Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>[Updated] 2024 Approved Elevate Engagement Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-your-site-facebook-live-integration-guide/"><u>[Updated] Streamlining Your Site Facebook LIVE Integration Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-iphone-screen-mirroring-applications-ranked/"><u>Best iPhone Screen Mirroring Applications Ranked</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/beware-of-phishing-understanding-the-email-confirmation-trojan-disguised-as-a-shipping-update/"><u>Beware of Phishing: Understanding the 'Email Confirmation' Trojan Disguised as a Shipping Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-clips-deciphering-the-relationship-between-ai-and-paperclip-challenges/"><u>Beyond Clips: Deciphering The Relationship Between AI & Paperclip Challenges</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-use-of-if-else-logic-in-microsoft-solutions-packaging/"><u>Effective Use of If-Else Logic in Microsoft Solutions Packaging</u></a></li>
+<li><a href="https://fox-links.techidaily.com/high-resolution-revelations-comparing-ultrawide-and-uhd-4k-screens-for-2024/"><u>High-Resolution Revelations Comparing UltraWide and UHD 4K Screens for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-playbox-app-user-testimonials/"><u>In 2024, PlayBox App User Testimonials</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>In 2024, Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/the-fortune-changing-club-free-50-banners-await/"><u>Join The Fortune-Changing Club Free 50 Banners Await</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/learn-how-to-create-distortion-effects-in-photoshop/"><u>Learn How to Create Distortion Effects in Photoshop</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/lost-calendar-data-restoration-techniques-for-iphone-users/"><u>Lost Calendar Data Restoration Techniques for iPhone Users</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-tips-how-to-shrink-mp3-audio-on-your-computer-and-phone-with-ease/"><u>Quick Tips: How to Shrink MP3 Audio on Your Computer and Phone with Ease</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/seamless-syncing-techniques-iphone-data-migration-to-windows-11/"><u>Seamless Syncing Techniques: IPhone Data Migration to Windows 11</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/streamline-software-implementation-leveraging-personalized-commands-for-optimal-msi-configuration/"><u>Streamline Software Implementation: Leveraging Personalized Commands for Optimal MSI Configuration</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-impact-of-malware-operation-consequences-and-prevention-strategies/"><u>Understanding the Impact of Malware: Operation, Consequences, & Prevention Strategies</u></a></li>
 </ul></div>
 

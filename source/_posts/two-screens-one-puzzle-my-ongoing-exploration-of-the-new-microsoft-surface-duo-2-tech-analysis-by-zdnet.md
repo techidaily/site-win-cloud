@@ -1,7 +1,7 @@
 ---
 title: "Two Screens, One Puzzle: My Ongoing Exploration of the New Microsoft Surface Duo 2 | Tech Analysis by ZDNet"
-date: 2024-09-29T20:18:40.131Z
-updated: 2024-10-05T16:47:17.931Z
+date: 2024-10-03T22:21:36.121Z
+updated: 2024-10-10T22:45:51.801Z
 tags:
   - windows
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unseen-screenshots-tracking-instagrams-hidden-viewer-list/"><u>[New] 2024 Approved Unseen Screenshots Tracking Instagram's Hidden Viewer List</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-xiaohongshu-elites-in-snapchat-playground/"><u>[New] 2024 Approved Xiaohongshu Elites in Snapchat Playground</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-optimizing-your-yt-ad-revenue-with-effective-monetization-audits/"><u>[New] In 2024, Optimizing Your YT Ad Revenue with Effective Monetization Audits</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>[Updated] In 2024, Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-remove-unused-folders-automatically-with-powershell-scripts/"><u>1. Remove Unused Folders Automatically with PowerShell Scripts</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comprehensive-tutorial-on-how-to-transition-contacts-between-samsung-phones-and-tablets-seamlessly/"><u>Comprehensive Tutorial on How to Transition Contacts Between Samsung Phones and Tablets Seamlessly</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-digital-photography-expert-guide-on-easy-automated-screenshots/"><u>Effortless Digital Photography: Expert Guide on Easy Automated Screenshots</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/extracting-audio-from-films-three-effective-methods-just-for-you/"><u>Extracting Audio From Films: Three Effective Methods Just for You</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-access-and-enjoy-free-online-music-playlists-without-any-charge/"><u>How to Access & Enjoy Free Online Music Playlists Without Any Charge</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy F34 5G?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-4k-monitors-for-mac-the-ultimate-list/"><u>In 2024, Best 4K Monitors for Mac - The Ultimate List</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-the-blue-freestyle2-mouse-the-ideal-choice-for-apple-device-owners/"><u>Review of the Blue Freestyle2 Mouse: The Ideal Choice for Apple Device Owners</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/revolutionary-techniques-for-changing-png-image-hues-effortlessly/"><u>Revolutionary Techniques for Changing PNG Image Hues Effortlessly</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/simple-steps-quickly-erase-every-ios-voice-note-with-ease/"><u>Simple Steps: Quickly Erase Every iOS Voice Note with Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-dive-into-aerialbroadcasting-tech-dji-vs-gopro-vs-insta360-showdown/"><u>[New] A Dive Into Aerial/Broadcasting Tech DJi vs GoPro vs Insta360 Showdown</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-console-to-computer-a-guide-to-live-game-capture/"><u>[New] Console to Computer A Guide to Live Game Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/uick-resize-youtube-videos-to-right-aspect-ratio-on-mac-for-2024/"><u>[New] Quick Resize YouTube Videos to Right Aspect Ratio on Mac for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/our-easy-guide-to-youtube-downloads-on-idevices/"><u>[New] Your Easy Guide to YouTube Downloads on iDevices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonic-hits-top-rated-dj-template-downloads/"><u>[Updated] 2024 Approved Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sound-enriched-photography-web-presence-for-2024/"><u>[Updated] Sound-Enriched Photography Web Presence for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/bestselling-pdf-editor-software-for-mac-users-2020-edition/"><u>Bestselling PDF Editor Software for Mac Users - 2020 Edition</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-methods-for-eliminating-the-persistent-unwanted-auto-play-audio-malware/"><u>Effective Methods for Eliminating the Persistent Unwanted Auto-Play Audio Malware</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/eliminating-the-apple-security-warning-hoax-a-step-by-step-guide-by-malwarefox/"><u>Eliminating the Apple Security Warning Hoax: A Step-by-Step Guide by MalwareFox</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-f04-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy F04 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/simple-techniques-to-cleanly-delete-items-from-photographs/"><u>Simple Techniques to Cleanly Delete Items From Photographs</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/techniques-enabling-malware-delivery-via-scripting-insights-from-malwarefox/"><u>Techniques Enabling Malware Delivery via Scripting: Insights From MalwareFox</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-difference-spyware-vs-malware-explained-with-malwarefox/"><u>Understanding the Difference: Spyware Vs. Malware Explained with MalwareFox</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-guide-to-youtube-stardom-6-effortless-steps-for-exposure-for-2024/"><u>Your Guide to YouTube Stardom 6 Effortless Steps for Exposure for 2024</u></a></li>
 </ul></div>
 

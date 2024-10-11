@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Capturing Screenshots and Recording Your Screen on Windows 10/11 Using Native Features"
-date: 2024-10-02T16:40:51.335Z
-updated: 2024-10-05T16:24:57.489Z
+date: 2024-10-08T00:43:41.495Z
+updated: 2024-10-11T00:52:37.275Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-immediate-insta-photo-series-viewing/"><u>[Updated] Immediate Insta Photo Series Viewing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-sharpviewzoomx7-professional-photo-size-controls-for-2024/"><u>[Updated] SharpViewZoomX7 Professional Photo Size Controls for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-top-techniques-for-flawless-distance-audio-capture/"><u>[Updated] Top Techniques for Flawless Distance Audio Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-all-weather-action-cameras-ranking-top-7-summary/"><u>[New] All-Weather Action Cameras Ranking, Top 7 Summary</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-efficient-techniques-for-tweaking-snapchat-video-speed/"><u>[New] Efficient Techniques for Tweaking Snapchat Video Speed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-boost-your-brand-with-snapchats-business-features-for-2024/"><u>[Updated] Boost Your Brand with Snapchat's Business Features for 2024</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/1-stealthy-methods-uncovering-how-malware-secretly-infiltrates-your-computer/"><u>1. Stealthy Methods: Uncovering How Malware Secretly Infiltrates Your Computer</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comparing-msi-and-msp-understanding-the-difference-in-microsoft-installation-packages/"><u>Comparing MSI and MSP: Understanding the Difference in Microsoft Installation Packages</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-top-techniques-for-transferring-contacts-and-apps-between-phones-a-comprehensive-guide/"><u>Effortless Top Techniques for Transferring Contacts and Apps Between Phones: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>2024 Approved Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elevate-your-images-top-10-grid-organizers-for-2024/"><u>Elevate Your Images Top 10 Grid Organizers for 2024</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/elevate-your-skills-with-advanced-msi-academy-zero-cost-professional-certification-program/"><u>Elevate Your Skills with Advanced MSI Academy: Zero Cost Professional Certification Program</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/hassle-free-methods-for-adding-movies-to-your-ios-device-by-bypassing-itunes/"><u>Hassle-Free Methods for Adding Movies to Your iOS Device by Bypassing iTunes</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/how-to-detect-a-compromised-smartphone-uncovering-signs-of-hacking-and-protecting-with-malwarefox/"><u>How to Detect a Compromised Smartphone: Uncovering Signs of Hacking and Protecting with MalwareFox</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-redmi-note-13-proplus-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Xiaomi Redmi Note 13 Pro+ 5G using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/innovative-techniques-in-repackaging-apps-for-seamless-distribution/"><u>Innovative Techniques in Repackaging Apps for Seamless Distribution</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nt-influence-youtubes-hourly-video-tops-for-2024/"><u>Instant Influence Youtube's Hourly Video Tops for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/perfect-your-titling-skills-with-our-best-practices/"><u>Perfect Your Titling Skills with Our Best Practices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-magic-5-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Magic 5?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-the-art-of-removing-red-eye-from-images-a-comprehensive-tutorial/"><u>Mastering the Art of Removing Red-Eye From Images - A Comprehensive Tutorial</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/the-art-of-deception-exploring-how-and-where-digital-thieves-conceal-harmful-software/"><u>The Art of Deception: Exploring How & Where Digital Thieves Conceal Harmful Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-channel-your-source-for-cutting-edge-pcs-and-devices/"><u>Tom's Hardware Review Channel: Your Source for Cutting-Edge PCs and Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-20-bridge-to-lan-quick-and-painless-driver-instructions/"><u>USB 2.0 Bridge to LAN - Quick and Painless Driver Instructions</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/uncover-shocking-cyberbullying-realities-and-their-impact-essential-strategies-for-prevention-and-intervention/"><u>Uncover Shocking Cyberbullying Realities & Their Impact: Essential Strategies for Prevention and Intervention</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wie-spielt-man-dvds-auf-einem-hp-laptop-mit-oder-ohne-integriertes-dvd-player-losungen-fur-sie/"><u>Wie Spielt Man DVDs Auf Einem HP Laptop Mit Oder Ohne Integriertes DVD-Player? Lösungen Für Sie!</u></a></li>
 </ul></div>
 

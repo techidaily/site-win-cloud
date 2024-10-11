@@ -1,7 +1,7 @@
 ---
 title: Advanced Techniques for Handling Package Dependencies Within Microsoft's Installer Framework
-date: 2024-10-04T19:07:49.841Z
-updated: 2024-10-05T19:11:36.917Z
+date: 2024-10-05T02:27:59.947Z
+updated: 2024-10-10T21:59:08.692Z
 tags:
   - application-packaging-training
 categories:
@@ -32,10 +32,16 @@ Adding prerequisites to MSI packages is important for several reasons. Firstly, 
 Adding prerequisites with Advanced Installer is a straightforward process that can be done in just a few steps. Here's how to do it:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Advanced Installer Prerequisites page
@@ -47,6 +53,13 @@ This view enables you to incorporate existing installers in your package, enable
 ![ai prerequisites](https://cdn.advancedinstaller.com/img/adding-prerequisites-to-packages/ai-prerequisites.png "ai prerequisites")  
 
 All prerequisite setup files can be bundled with your package or placed online and accessed via a URL. If the prerequisite is not found during installation, it will be installed automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Download and Install Prerequisites
 
@@ -83,20 +96,13 @@ When you select a predefined prerequisite, Advanced Installer asks you if you wa
 
 ![ai prerequisites download](https://cdn.advancedinstaller.com/img/adding-prerequisites-to-packages/ai-prerequisites-download.png "ai prerequisites download")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also select the extract folder for each selected prerequisite, keep the prerequisite files after installation, hide installed prerequisites and check the launch conditions before searching for the prerequisites.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Enable Windows Features with Advanced Installer
@@ -108,10 +114,10 @@ Use the \[Windows Feature bundle\] toolbar button or the "New Windows Feature bu
 ![ai prerequisites windows features](https://cdn.advancedinstaller.com/img/adding-prerequisites-to-packages/ai-prerequisites-windows-features.png "ai prerequisites windows features")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Advanced Installer also offers multiple Windows Server roles from which you can choose to include in your package. Roles selected in this view only apply when running the package on a Windows Server. They will be ignored on any other OS type.
@@ -137,21 +143,19 @@ Of course, you can add your own packages and create a suite installation, [a cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-channel-titles-that-shine-how-to-innovate-for-2024/"><u>[New] Channel Titles That Shine How to Innovate for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-elevating-your-engagement-game-the-instagram-edge-guide-for-2024/"><u>[New] Elevating Your Engagement Game The Instagram Edge Guide for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-fearful-video-blogs-overcoming-each-challenge/"><u>[New] In 2024, Top 10 Fearful Video Blogs Overcoming Each Challenge</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-list-of-mac-friendly-video-to-mp4-codecs-for-2024/"><u>[New] Ultimate List of Mac-Friendly Video to MP4 Codecs for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-chronicle-crafters-collective-select-seventeen/"><u>[Updated] Chronicle Crafters Collective - Select Seventeen</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-insiders-guide-to-pro-windows-10-expertise/"><u>[Updated] In 2024, Insider's Guide to Pro WINDOWS 10 Expertise</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/botnet-basics-unveiled-how-these-networks-operate-demystified-for-the-everyday-user/"><u>Botnet Basics Unveiled: How These Networks Operate Demystified for the Everyday User</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comprehensive-analysis-top-rated-free-screen-capture-apps-without-watermarks/"><u>Comprehensive Analysis: Top-Rated Free Screen Capture Apps Without Watermarks</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/convert-your-wlmp-videos-to-avi-files-without-cost-step-by-step-tutorial/"><u>Convert Your WLMP Videos to AVI Files Without Cost - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-install-updated-toshiba-drivers-a-step-by-step-guide-for-windows-owners/"><u>Find & Install Updated Toshiba Drivers: A Step-by-Step Guide for Windows Owners</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/native-heic-picture-manager-for-windows-enjoy-seamless-viewing-without-changing-image-types/"><u>Native HEIC Picture Manager for Windows: Enjoy Seamless Viewing Without Changing Image Types!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-play-8t-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor Play 8T and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/silence-unwanted-sound-discover-the-best-6-apps-for-removing-audio-interferences-on-your-smartphone-android-and-ios/"><u>Silence Unwanted Sound: Discover the Best 6 Apps for Removing Audio Interferences on Your Smartphone (Android & iOS)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-to-blocking-ads-and-protecting-privacy-across-all-your-devices/"><u>Step-by-Step Guide to Blocking Ads and Protecting Privacy Across All Your Devices</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-three-methods-for-converting-flac-files-to-itunes-compatible-formats-on-pc-and-mac/"><u>Top Three Methods for Converting FLAC Files to iTunes Compatible Formats on PC & Mac</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-strategies-for-effective-video-markup-on-youtube/"><u>[New] 2024 Approved Strategies for Effective Video Markup on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-bring-out-canons-best-enjoy-10-free-luts-and-beyond-selection/"><u>[Updated] 2024 Approved Bring Out Canon's Best Enjoy 10 Free LUTs and Beyond Selection</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/blades-blh4100-rtf-high-performance-outdoor-rc-helicopter-in-depth-review/"><u>Blades BLH4100 RTF High-Performance Outdoor RC Helicopter - In Depth Review</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-customization-for-targeted-advertising-strategies/"><u>Cookiebot-Enabled Customization for Targeted Advertising Strategies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-the-art-of-removing-red-eye-from-images-a-comprehensive-tutorial/"><u>Mastering the Art of Removing Red-Eye From Images - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-put-a-background-on-a-green-screen-for-2024/"><u>New How to Put a Background on A Green Screen for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-and-simple-methods-for-shifting-pdf-files-from-pc-to-ios-devices/"><u>Quick & Simple Methods for Shifting PDF Files From PC to iOS Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/semaine-francaise-la-palette-des-jours/"><u>Semaine Française: La Palette Des Jours</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/significant-tenets-of-interactive-storytelling/"><u>Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-user-manual-creating-and-editing-with-apowersoft-gif/"><u>Step-by-Step User Manual: Creating & Editing with Apowersoft GIF</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-art-of-deception-exploring-how-and-where-digital-thieves-conceal-harmful-software/"><u>The Art of Deception: Exploring How & Where Digital Thieves Conceal Harmful Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/uncover-shocking-cyberbullying-realities-and-their-impact-essential-strategies-for-prevention-and-intervention/"><u>Uncover Shocking Cyberbullying Realities & Their Impact: Essential Strategies for Prevention and Intervention</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-android-video-editing-made-easy-top-10-free-and-paid-apps-for-2024/"><u>Updated Android Video Editing Made Easy Top 10 Free and Paid Apps for 2024</u></a></li>
 </ul></div>
 

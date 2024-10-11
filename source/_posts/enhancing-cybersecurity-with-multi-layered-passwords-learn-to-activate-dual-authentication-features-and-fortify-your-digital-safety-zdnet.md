@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Cybersecurity with Multi-Layered Passwords: Learn to Activate Dual-Authentication Features and Fortify Your Digital Safety | ZDNet"
-date: 2024-10-03T20:08:08.078Z
-updated: 2024-10-05T16:43:16.568Z
+date: 2024-10-06T22:04:46.403Z
+updated: 2024-10-10T19:40:53.351Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -55,6 +55,13 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -62,10 +69,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -74,13 +81,6 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -88,10 +88,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -156,22 +156,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevating-your-audacity-sound-capture-game/"><u>[New] In 2024, Elevating Your Audacity Sound Capture Game</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/op-picks-free-thumbnail-extractor-software/"><u>[New] Top Picks FREE Thumbnail Extractor Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfecting-the-instagram-story-format-with-youtube-integration-for-2024/"><u>[Updated] Perfecting the Instagram Story Format with YouTube Integration for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-insignia-drivers-for-windows-quick-and-easy/"><u>[DOWNLOAD] Insignia Drivers for Windows | Quick & Easy</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-sync-up-soundtracks-connecting-spotify-to-discord-effortlessly-for-2024/"><u>[Updated] Sync Up Soundtracks Connecting Spotify to Discord Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-navigate-the-excellent-world-of-top-vr-cycling/"><u>2024 Approved Navigate the Excellent World of Top VR Cycling</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/apowersoft-launches-version-10-of-mac-compatible-video-downloader/"><u>Apowersoft Launches Version 1.0 of Mac-Compatible Video Downloader</u></a></li>
 <li><a href="https://win-cloud.techidaily.com/best-free-methods-to-download-any-website-as-a-pdf-top-10-strategies/"><u>Best Free Methods to Download Any Website as a PDF: Top 10 Strategies</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/beware-these-7-facebook-hoaxes-comprehensive-strategies-for-protection/"><u>Beware These 7 Facebook Hoaxes! Comprehensive Strategies for Protection</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/bring-back-your-memories-expert-photo-recovery-for-samsung-galaxy-models-s-s-ii-s-iii-s-iv/"><u>Bring Back Your Memories: Expert Photo Recovery for Samsung Galaxy Models (S, S II, S III, S IV)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-swf-format-migration-compatible-for-both-pc-and-mac-systems-from-any-source/"><u>Effortless SWF Format Migration: Compatible for Both PC & Mac Systems From Any Source</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-drivers-goodbye-step-by-step-in-windows-os/"><u>Graphic Drivers Goodbye! Step by Step in Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-to-your-headphones-when-theyre-not-working-with-windows-10/"><u>How to Restore Sound to Your Headphones When They're Not Working with Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-reviving-brands-through-customer-video-appeals/"><u>In 2024, Reviving Brands Through Customer Video Appeals</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unobstructed-movie-magic-erasing-youtube-borders/"><u>In 2024, Unobstructed Movie Magic Erasing YouTube Borders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-new-drivers-for-your-intel-ac-abbbb-9560-card/"><u>Installing New Drivers for Your Intel AC Abbbb 9560 Card</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-the-art-of-innovative-msi-boxing-methods-through-exclusive-video-tutorials/"><u>Master the Art of Innovative MSI Boxing Methods Through Exclusive Video Tutorials</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-d3dx934dll-file-missing-a-step-by-step-guide/"><u>Resolving 'D3dx9_34.dll' File Missing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unraveling-the-mystery-why-is-my-windows-file-explorer-spontaneously-launching-insights-from-malwarefox/"><u>Unraveling the Mystery: Why Is My Windows File Explorer Spontaneously Launching? Insights From MalwareFox</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comparing-msi-and-msp-understanding-the-difference-in-microsoft-installation-packages/"><u>Comparing MSI and MSP: Understanding the Difference in Microsoft Installation Packages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-503-error-code-causes-and-resolution-steps/"><u>Decoding the 503 Error Code - Causes and Resolution Steps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/access-best-free-youtube-subtitle-extractors-for-2024/"><u>Easy Access Best Free YouTube Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-top-techniques-for-transferring-contacts-and-apps-between-phones-a-comprehensive-guide/"><u>Effortless Top Techniques for Transferring Contacts and Apps Between Phones: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/essential-compilation-top-8-4k-ultra-hd-players-for-2024/"><u>Essential Compilation Top 8 4K Ultra HD Players for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-foldfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel FoldFRP Lock</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/innovative-techniques-in-repackaging-apps-for-seamless-distribution/"><u>Innovative Techniques in Repackaging Apps for Seamless Distribution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-the-critical-videodxgkrnlerror-on-your-pc/"><u>Step-by-Step Solutions to Overcome the Critical Video_dxgkrnl_error on Your PC</u></a></li>
 </ul></div>
 

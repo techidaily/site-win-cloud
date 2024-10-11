@@ -1,7 +1,7 @@
 ---
 title: How to Cleanse Microsoft Pop-Up Warning of Pornographic Content
-date: 2024-10-02T19:35:01.617Z
-updated: 2024-10-05T16:27:59.063Z
+date: 2024-10-07T18:56:20.167Z
+updated: 2024-10-11T01:48:16.993Z
 tags:
   - product
   - antivirus
@@ -65,10 +65,10 @@ When this pop-up appears on the browser screen, users are redirected to a phony 
 There could be various reasons users might get such fake alerts in the form of pop-ups.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why did I get the “PORNOGRAPHIC VIRUS ALERT FROM MICROSOFT” Pop-Up?
@@ -81,6 +81,13 @@ If you see the “PORNOGRAPHIC VIRUS ALERT FROM MICROSOFT” pop-up message on y
 * Many users blindly install the software programs without unchecking the bundled programs that come with the installer. Cybercriminals often introduce malware such as Adware and trojans through the bundled programs.
 
 [How to Remove Adware and Pop-Up Ads](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to stop the fake “PORNOGRAPHIC VIRUS ALERT from Microsoft”?
 
@@ -102,31 +109,25 @@ If the “PORNOGRAPHIC VIRUS ALERT FROM MICROSOFT” Scam still appears on your 
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -142,6 +143,13 @@ Here are the steps to eliminate thre temporary files:
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Reset Web Browser Settings**
 
 If your browser is misbehaving because of the “PORNOGRAPHIC VIRUS ALERT FROM MICROSOFT” Scam, then reset its settings to default.
@@ -152,27 +160,13 @@ If your browser is misbehaving because of the “PORNOGRAPHIC VIRUS ALERT FROM M
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Relaunch your browser.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Install an Antimalware and Perform a Scan**
 
@@ -204,10 +198,16 @@ NO. Microsoft is a reputed and one of the biggest software development companies
 Microsoft never blocks any computer. You see the warning of “Microsoft has blocked your computer” because a malware might have got an entry on your system and triggered the fake message to spread the spam.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -235,18 +235,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-spectacular-scrutiny-and-different-directions-for-2024/"><u>[New] Spectacular Scrutiny & Different Directions for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-navigating-links-between-instagram-and-tiktok/"><u>[Updated] In 2024, Navigating Links Between Instagram and TikTok</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/apowersoft-launches-version-10-of-mac-compatible-video-downloader/"><u>Apowersoft Launches Version 1.0 of Mac-Compatible Video Downloader</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/best-free-methods-to-download-any-website-as-a-pdf-top-10-strategies/"><u>Best Free Methods to Download Any Website as a PDF: Top 10 Strategies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/dvd-shrinkdvd-to-mp4/"><u>DVD Shrinkを使ったDVD to MP4コンバートについて質問：実行可能ですか？</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-top-techniques-for-transferring-contacts-and-apps-between-phones-a-comprehensive-guide/"><u>Effortless Top Techniques for Transferring Contacts and Apps Between Phones: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-twosome-style-top-15-companionable-phonesports/"><u>Game On, Twosome Style: Top 15 Companionable Phonesports</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-c55-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme C55 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/innovative-techniques-in-repackaging-apps-for-seamless-distribution/"><u>Innovative Techniques in Repackaging Apps for Seamless Distribution</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prestigious-directory-free-visuals-hubs-galore-online-for-2024/"><u>Prestigious Directory FREE Visuals Hubs Galore Online for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-privacy-calls-a-guide-on-initiating-conversation-with-hidden-numbers/"><u>Understanding Privacy Calls: A Guide on Initiating Conversation with Hidden Numbers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win11driverkit-for-xbox-one-gaming-controllers/"><u>Win11DriverKit for Xbox One Gaming Controllers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-encompassing-insight-understanding-the-google-podcast-app/"><u>[Updated] 2024 Approved Encompassing Insight Understanding the Google Podcast App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovating-visual-storytelling-exploring-the-world-of-smart-hdr-photography/"><u>[Updated] Innovating Visual Storytelling Exploring the World of Smart HDR Photography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-stealthy-speakers-sanctuary-discovering-quiet-voice-apps-androidios-for-2024/"><u>[Updated] Stealthy Speakers' Sanctuary Discovering Quiet Voice Apps (Android/iOS) for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/a-comprehensive-tutorial-on-implementing-the-game-keyboard-function-in-apowermirror/"><u>A Comprehensive Tutorial on Implementing the Game Keyboard Function in ApowerMirror</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ccleaner-security-concerns-identifying-potential-risks-and-ensuring-online-safety/"><u>CCleaner Security Concerns: Identifying Potential Risks & Ensuring Online Safety</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/complete-guide-restoring-your-ipad-using-an-icloud-backup-step-by-step-instructions/"><u>Complete Guide: Restoring Your iPad Using an iCloud Backup - Step-by-Step Instructions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-color-and-create-the-best-iphone-video-editing-apps-this-year-for-2024/"><u>Cut, Color, and Create The Best iPhone Video Editing Apps This Year for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-transition-how-to-relocate-messages-from-iphone-to-samsung-galaxy-s5/"><u>Effortless Transition: How to Relocate Messages From iPhone to Samsung Galaxy S5</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-12-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 12?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professional-audio-reimagined-the-innovative-tascam-cd-200bt-reviewed/"><u>Professional Audio Reimagined: The Innovative Tascam CD-200BT Reviewed</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/seamlessly-casting-iphone-content-on-sony-televisions-a-comprehensive-tutorial/"><u>Seamlessly Casting iPhone Content on Sony Televisions: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
 </ul></div>
 

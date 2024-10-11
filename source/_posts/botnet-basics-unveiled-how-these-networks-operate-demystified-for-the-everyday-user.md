@@ -1,7 +1,7 @@
 ---
 title: "Botnet Basics Unveiled: How These Networks Operate Demystified for the Everyday User"
-date: 2024-10-04T18:58:24.811Z
-updated: 2024-10-05T16:00:50.434Z
+date: 2024-10-03T18:29:58.198Z
+updated: 2024-10-11T02:43:59.883Z
 tags:
   - product
   - antivirus
@@ -62,6 +62,13 @@ If you noticed, the botnet is actually a combination of two words – **Bot** an
 
 Each compromised device is a bot or Zombie, and collectively they create a network. This network is the botnet. Unethical developers use bot networks for carrying out malicious activities.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does Botnet Works?
 
 The botnet is a network of robots. Developers assign them to commit a malicious task. The handlers of a botnet who controls it are called the **botmaste**r or **bot herders**. They have access to thousands of devices. They gain access by injecting a Trojan horse or other malware through email, drive-by downloads, or other means.
@@ -72,20 +79,27 @@ For botnets to evolve and become more vigorous, it must connect more and more de
 
 [Router Malware : How to Remove and Protect Yourself](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Types of Botnet Attacks
 
 Once your machine is added to the botnet, it would carry out the following disreputable tasks:
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **DDoS Attack**
 
 ![DDOS botnet attack](https://www.malwarefox.com/wp-content/uploads/2020/06/DDOS-attack.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Distributed Denial of Service (DDoS) attacks is the most common executable attack using the network of bots. In a DDOS attack, bots send unusual traffic to the targeted website server. By doing so, intended users can not access the site. The infected bot army overloads the site to such a point that the server gets crashed.
 
@@ -96,10 +110,16 @@ If thousands of users visit a website, it will show an access denied error messa
 By using the thousands of devices connected through a botnet, bot herders send emails to millions of people to spam their inboxes with unnecessary ads and offers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Cryptocurrency Mining**
@@ -110,6 +130,13 @@ The processing power of thousands of computers can collectively [mine cryptocurr
 
 Cybercriminals can use the botnet to run fraud ad clicks by utilizing the processing power of the infected devices. The botmaster would direct all the infected machines to click on ads placed on a website. For every click, they get a small percentage of the advertising fees.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Generating Fake Traffic**
 
 Like the fraud ad clicks, a botnet can also generate fake traffic on a third-party website. It is generally used to get unethical financial gains from website visits.
@@ -118,27 +145,20 @@ Like the fraud ad clicks, a botnet can also generate fake traffic on a third-par
 
 A botnet can steal personal information from the infected devices and transfer those pieces of information to cybercriminals. Further, cybercriminals use this information for carrying out extortion and other illegal activities.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Banner and Pop-Up Ads**
 
 Botnet bombards the infected device with intrusive banners and pop-up ads. Pop-up ads are intriguing to trick the user so that they click on them, and malicious programs can enter the system. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Botnet Selling and Renting**
 
 After a botnet serves its purpose, cybercriminals can sell or rent it. Other cyber criminals use this robot network to perform notorious tasks. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Botnet Architecture
 
@@ -154,13 +174,6 @@ In the client-server architecture of a botnet, one of the bots acts as a central
 
 The client-server architecture is best for taking and maintaining control over the bots. Since the control is centralized, there is no confusion during the communication. However, it has some downsides as well. It is easy for the security team to locate and destroy the network by targeting the central bot. And since there is only one control point, the botnet is dead once you destroy the server. So to overcome this, bot herders use peer-to-peer architecture.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Peer-to-Peer Architecture**
 
 Peer-to-peer architecture is more advanced and secure than the client-server model. It does not rely on a centralized command and control(C&C) server to add new bots. Instead, it uses a peer-to-peer(P2P) structure. In P2P architecture, each bot act as a client and server. Every single bot has a list of other infected devices so that they can establish a connection with them when required. 
@@ -171,33 +184,33 @@ Since there is no centralized server, it is difficult for a security team to loc
 
 Till now, you might have known how dangerous the botnet can be. It is not a normal antimalware, so preventing it requires some healthy practices that should be followed by you regularly. We now know its working and architecture. Let us see how we can avoid it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Update Operating System**
 
 An updated operating system would safeguard your system from not only botnets but also other threatening malware programs. An outdated OS may have some loose ends that can easily benefit the cybercriminals to launch a botnet attack on your device. We recommend you to set your operating system to update automatically and always ensure it manually that you are running the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Update the Installed Application**
 
 Like an outdated OS, an outdated application also makes your system vulnerable to a botnet attack. So to avoid that, it is necessary to update the installed software to its latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Avoid Suspicious Emails**
 
 Emails are one of the primary carriers of malware. When you receive an email containing an attachment, thoroughly scan it with a security solution. If the source of the email is unknown or suspicious, avoid opening it and downloading the attachment.
 
 [What is a Man-in-the-Middle Attack and How to Prevent?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Avoid Download from Unreliable Sources**
 
@@ -214,19 +227,6 @@ Apart from following healthy browsing practices, the best way to ensure a total 
 ## Final Words
 
 So this was all about botnet. It is becoming a popular method to carry out many malicious activities, not only online, but also offline illegitimacy such as influencing the voters before the election, carrying out fake campaigns using Facebook and Twitter ads, and many more. So it is essential to stay away from botnets so that your device does not become a part of the system that carries out unethical activities.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Botnet FAQs
 
@@ -271,21 +271,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-creating-impactful-youtube-thumbnails-and-ads/"><u>[New] In 2024, Creating Impactful YouTube Thumbnails & Ads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-quickcast-your-youtube-selection-playlists/"><u>[New] In 2024, Quickcast Your Youtube Selection, Playlists</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-expanding-youtube-audience-through-perpetual-creative-commons/"><u>[Updated] 2024 Approved Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-decoding-instagram-the-technique-for-video-downloads-on-pcmac-devices-for-2024/"><u>[Updated] Decoding Instagram The Technique for Video Downloads on PC/Mac Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-silent-canvases-unscheduled-vid-removal/"><u>[Updated] Silent Canvases Unscheduled Vid Removal</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/6-enchanting-techniques-for-creating-picture-perfect-videos-set-to-melodic-tunes/"><u>6 Enchanting Techniques for Creating Picture-Perfect Videos Set to Melodic Tunes</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/complete-guide-steps-to-erase-facebook-and-reclaim-your-privacy-with-malwarefox/"><u>Complete Guide: Steps to Erase Facebook and Reclaim Your Privacy with MalwareFox</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-recover-an-instagram-account-after-it-gets-disabled/"><u>How to Recover an Instagram Account After It Gets Disabled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-scanning-with-fraps-a-critical-review/"><u>In 2024, Screen Scanning with Fraps A Critical Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/navigating-business-challenges-with-casttingos-professional-guidance/"><u>Navigating Business Challenges with Casttingo's Professional Guidance</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/protect-your-digital-life-eradicate-facebooks-malicious-software-with-these-easy-steps/"><u>Protect Your Digital Life: Eradicate Facebook's Malicious Software with These Easy Steps</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/simple-solutions-3-effective-ways-to-get-rid-of-adware-on-your-android-device/"><u>Simple Solutions: 3 Effective Ways to Get Rid of Adware on Your Android Device</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-techniques-to-add-watermarks-to-your-iphone-photographs/"><u>Top Techniques to Add Watermarks to Your iPhone Photographs</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-ranking-eco-friendly-photo-editor-apps-of-2022/"><u>Top-Ranking Eco-Friendly Photo Editor Apps of 2022</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-screenplays-distributed-among-classified-types/"><u>[New] Superior Screenplays Distributed Among Classified Types</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-free-movie-talent-release-declaration/"><u>[Updated] 2024 Approved Free Movie Talent Release Declaration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-best-youtube-video-to-text-converters-online/"><u>[Updated] Best YouTube Video to Text Converters Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tips-for-documenting-real-time-youtube-broadcasts/"><u>[Updated] Essential Tips for Documenting Real-Time YouTube Broadcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-8-top-choices-your-go-to-templates-on-ig-for-2024/"><u>[Updated] Unveiling 8 Top Choices Your Go-To Templates on IG for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-step-by-step-guide-eradicating-app-store-adware-from-your-computer/"><u>1. Step-by-Step Guide: Eradicating App Store Adware From Your Computer</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-methods-for-capturing-your-iphones-display-iphone-x-and-iphone/"><u>Best Methods for Capturing Your iPhone's Display: IPhone X and iPhone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-strategies-for-implementing-effective-firewall-configurations-via-vbscript-powershell-and-the-advanced-installer-tool/"><u>Comprehensive Strategies for Implementing Effective Firewall Configurations via VBScript, PowerShell, and the Advanced Installer Tool</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-your-youtube-personality-top-6-creator-categories/"><u>In 2024, Unlock Your YouTube Personality Top 6 Creator Categories</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-and-easy-how-to-adding-mp3-files-to-ios-devices/"><u>Quick & Easy How-To: Adding MP3 Files to iOS Devices</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-user-manual-creating-and-editing-with-apowersoft-gif/"><u>Step-by-Step User Manual: Creating & Editing with Apowersoft GIF</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/transform-your-3gp-files-into-animation-music-video-amv-format-with-ease/"><u>Transform Your 3GP Files Into Animation Music Video (AMV) Format with Ease</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-man-in-the-middle-attacks-a-comprehensive-guide-to-detection-and-protection/"><u>Understanding Man-in-the-Middle Attacks: A Comprehensive Guide to Detection & Protection</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-pdf-threats-can-pdfs-be-infected-and-how-to-spot-harmful-ones/"><u>Understanding PDF Threats: Can PDFs Be Infected and How to Spot Harmful Ones?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-terms-of-use-for-apoweredits-advanced-speech-to-text-solutions-purchase-order-details-inside/"><u>Understanding the Terms of Use for ApowerEdit's Advanced Speech-to-Text Solutions - Purchase Order Details Inside</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-samsung-m2020-drivers-ready-for-download-step-by-step-guide/"><u>Updated Samsung M2020 Drivers Ready for Download - Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nokia G310 | Dr.fone</u></a></li>
 </ul></div>
 

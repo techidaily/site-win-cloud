@@ -1,7 +1,7 @@
 ---
 title: "The Art of Deception: Exploring How & Where Digital Thieves Conceal Harmful Software"
-date: 2024-09-28T17:27:49.862Z
-updated: 2024-10-05T16:58:43.644Z
+date: 2024-10-09T18:17:46.855Z
+updated: 2024-10-10T23:46:07.082Z
 tags:
   - product
   - antivirus
@@ -66,48 +66,48 @@ Some of the most common places that hackers hide malware are:
 
 As you can see there are numerous platforms a hacker can hide malware. Now we’ll see how they do it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Compressed Packers
 
 A packer is a program that compresses an executable to make it smaller. It wraps the compressed executable in the code necessary to decompress itself at runtime. The act of compression changes the way the executable file looks. This means that virus scanners can’t recognize the malware because they don’t recognize the packer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Obfuscation
 
 Obfuscation is a technique used to make code difficult to understand. It’s often used to make malware more difficult to detect and analyze. Hackers will use obfuscation to make it more difficult for antivirus software to detect their malware.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Encryption
 
 Encryption is a technique used to make data unreadable by anyone who doesn’t have the key to decrypt it. Hackers use encryption to make their malware more difficult to detect and analyze.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Signature Evasion
 
 Signature evasion is a technique used to make malware more difficult to detect. Hackers will use this technique to make their malware look like something else. This makes it almost impossible for antimalware applications to detect the malware.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Polymorphic Malware
 
 Polymorphic malware is malware that regularly changes its appearance. This makes it more difficult for antivirus software to detect the malware.
 
 [How does Malware Work?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to stay protected from Malware?
 
@@ -120,13 +120,6 @@ Here are some preventive tips to stay protected from malware:
 * Keep your applications and OS updated with the latest version. Most malware programs exploit the vulnerabilities of apps and operating systems. Regularly updating them will fix the bugs.
 * Follow healthy browsing practices while online. Avoid opening unknown, suspicious links.
 * Keep your system equipped with a robust antimalware solution. Antimalware solutions are explicitly designed to tackle different malware. It is also essential to keep the security programs updated.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -143,6 +136,13 @@ If you think your computer may be infected with malware, it’s important to run
 **How can I protect my computer from malware?** 
 
 You should run a scan with an antivirus program and be careful about what you download and install on your computer. Only download programs from trusted sources. You can also use a firewall to help protect your computer from malware.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -169,19 +169,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-building-believable-characters-through-dialogue/"><u>[Updated] Building Believable Characters Through Dialogue</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-structuring-engaging-online-vignettes/"><u>2024 Approved Structuring Engaging Online Vignettes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-choice-android-sky-dumps-and-safes/"><u>2024 Approved Top Choice Android Sky Dumps & Safes</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-problem-of-unrecognized-drivers-during-windows-startup/"><u>Fixing the Problem of Unrecognized Drivers During Windows Startup</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-confirm-the-trustworthiness-and-safety-of-android-apps-before-downloading/"><u>How to Confirm the Trustworthiness and Safety of Android Apps Before Downloading.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia C210? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/keep-it-quiet-social-media-interaction-minimization/"><u>Keep It Quiet: Social Media Interaction Minimization</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/malwarefox-rootkit-scanner-effortless-detection-and-elimination-software/"><u>MalwareFox Rootkit Scanner: Effortless Detection & Elimination Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-guide-speedy-techniques-for-cd-burning-and-conversion/"><u>Quick Guide: Speedy Techniques for CD Burning and Conversion</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-5-parent-friendly-cybersecurity-apps-finding-the-perfect-malwarefox-alternative/"><u>Top 5 Parent-Friendly Cybersecurity Apps: Finding the Perfect MalwareFox Alternative</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-methods-for-streaming-your-zoom-video-calls-on-television/"><u>Top Methods for Streaming Your Zoom Video Calls on Television</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-broadcom-ethernet-driver-issues-in-windows-1-download-guide/"><u>Troubleshooting Broadcom Ethernet Driver Issues in Windows 1# - Download Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-tutorial-simplifying-videos-into-easy-summaries/"><u>Ultimate Tutorial: Simplifying Videos Into Easy Summaries</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Updated 2024 Approved Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-constructing-unique-instagram-story-panels/"><u>[New] 2024 Approved Constructing Unique Instagram Story Panels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-content-expert-tips-for-bokeh-on-social-media/"><u>[New] In 2024, Transform Your Content Expert Tips for Bokeh on Social Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-instructions-installing-countdown-clocks-in-obs-for-2024/"><u>[Updated] In-Depth Instructions Installing Countdown Clocks in OBS for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-tech-whizs-playbook-how-to-nail-screen-recording-on-macos-for-2024/"><u>[Updated] The Tech Whiz's Playbook How to Nail Screen Recording on macOS for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-remove-unused-folders-automatically-with-powershell-scripts/"><u>1. Remove Unused Folders Automatically with PowerShell Scripts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-tutorial-on-how-to-transition-contacts-between-samsung-phones-and-tablets-seamlessly/"><u>Comprehensive Tutorial on How to Transition Contacts Between Samsung Phones and Tablets Seamlessly</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-digital-photography-expert-guide-on-easy-automated-screenshots/"><u>Effortless Digital Photography: Expert Guide on Easy Automated Screenshots</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-mp4-to-gif-transformation-discover-these-3-charming-apps/"><u>Effortless MP4 to GIF Transformation: Discover These 3 Charming Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-post-impact-auto-adjusting-videos-for-instagram-on-mac/"><u>Enhance Post Impact Auto-Adjusting Videos for Instagram on Mac</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/extracting-audio-from-films-three-effective-methods-just-for-you/"><u>Extracting Audio From Films: Three Effective Methods Just for You</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fast-techniques-adding-pictures-over-your-videos-step-by-step/"><u>Fast Techniques: Adding Pictures Over Your Videos Step-by-Step</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-access-and-enjoy-free-online-music-playlists-without-any-charge/"><u>How to Access & Enjoy Free Online Music Playlists Without Any Charge</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-your-youtube-videos-viewer-count/"><u>Maximizing Your YouTube Video's Viewer Count</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/revolutionary-techniques-for-changing-png-image-hues-effortlessly/"><u>Revolutionary Techniques for Changing PNG Image Hues Effortlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-meal-prep-using-chatgpt-discover-7-resourceful-methods/"><u>Revolutionize Meal Prep Using ChatGPT: Discover 7 Resourceful Methods</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-apowermirror-qanda-insightful-answers-to-frequently-asked-product-inquiries/"><u>Ultimate ApowerMirror Q&A: Insightful Answers to Frequently Asked Product Inquiries</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-iphone-14-key-points-on-battery-performance-and-troubleshooting/"><u>Understanding the iPhone 14: Key Points on Battery Performance and Troubleshooting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-crucial-impact-of-tech-experts-on-businesses-embracing-a-no-tech-approach-insights-from-zdnet/"><u>Unveiling the Crucial Impact of Tech Experts on Businesses Embracing a No-Tech Approach: Insights From ZDNet</u></a></li>
 </ul></div>
 

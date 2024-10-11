@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Strategies for Implementing Effective Firewall Configurations via VBScript, PowerShell, and the Advanced Installer Tool
-date: 2024-10-02T19:53:31.209Z
-updated: 2024-10-05T18:39:19.656Z
+date: 2024-10-07T22:12:57.292Z
+updated: 2024-10-10T18:30:06.196Z
 tags:
   - application-packaging-training
 categories:
@@ -81,13 +81,6 @@ Next, open Advanced Installer and navigate to the Custom Actions Page. In here, 
 
 ![Launch attached file](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/addfwCA.png "Launch attached file")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As a best practice it’s also important to remove the firewall rule during the uninstallation. For that, it means we need another Custom Action and a different VBScrit to remove our rule. The VBScript code is:
 
 Dim WshShell
@@ -101,10 +94,10 @@ After that, follow the same exact steps as above and configure the custom action
 ![configure the custom action](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/remfwCA.png "configure the custom action")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Firewall rules with PowerShell
@@ -128,6 +121,13 @@ Next, open Advanced Installer and navigate to the Custom Actions Page. In here, 
 
 ![Run PowerShell script file](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/addfwPSCA.png "Run PowerShell script file")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To also add the remove firewall PowerShell script, follow the same steps as above and do the following configurations:
 
 ![remove firewall PowerShell script](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/remfwPSCA.png "remove firewall PowerShell script")  
@@ -141,10 +141,10 @@ Next, click on **New Rule**. This will open a new window in which you can define
 ![Windows Firewall page](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/advfw.png "Windows Firewall page")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, you can easily choose the direction, display name, program path, protocol and other settings directly from the GUI. In our case we wanted to mimic the above usages of netsh and PowerShell and left everything as before in the GUI.
@@ -158,10 +158,10 @@ All you have to do is build and install the MSI package. After the installation,
 ![check the Inbound rules](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/inbound.png "check the Inbound rules")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -179,20 +179,24 @@ All you have to do is build and install the MSI package. After the installation,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[New] 2024 Approved Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-charting-a-path-to-success-exploring-15-top-youtube-beginnings/"><u>[Updated] In 2024, Charting a Path to Success Exploring 15 Top YouTube Beginnings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-essential-guide-to-podcast-creation-in-garageband/"><u>2024 Approved The Essential Guide to Podcast Creation in GarageBand</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/best-iphone-screen-mirroring-applications-ranked/"><u>Best iPhone Screen Mirroring Applications Ranked</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/beware-of-phishing-understanding-the-email-confirmation-trojan-disguised-as-a-shipping-update/"><u>Beware of Phishing: Understanding the 'Email Confirmation' Trojan Disguised as a Shipping Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/garageband-strategies-for-perfect-podcast-editing-for-2024/"><u>GarageBand Strategies for Perfect Podcast Editing for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-x-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone X without Password?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-nest-audio-evaluation-the-ultimate-sound-experience-for-audiophiles/"><u>In-Depth Nest Audio Evaluation: The Ultimate Sound Experience for Audiophiles</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-tips-how-to-shrink-mp3-audio-on-your-computer-and-phone-with-ease/"><u>Quick Tips: How to Shrink MP3 Audio on Your Computer and Phone with Ease</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/seamless-syncing-techniques-iphone-data-migration-to-windows-11/"><u>Seamless Syncing Techniques: IPhone Data Migration to Windows 11</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-adding-protective-watermarks-to-your-instagram-images/"><u>Step-by-Step Guide: Adding Protective Watermarks to Your Instagram Images</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-6-ideal-mobile-applications-for-enhancing-your-images-with-perfect-backgrounds/"><u>Top 6 Ideal Mobile Applications for Enhancing Your Images with Perfect Backgrounds</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/transformative-content-blocks-enhanced-youtube-decks/"><u>Transformative Content Blocks Enhanced Youtube Decks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-ntdlldll-issues-on-your-pc-windows-1087/"><u>Ultimate Guide: Resolving ntdll.dll Issues on Your PC (Windows 10/8/7)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-the-impact-of-malware-operation-consequences-and-prevention-strategies/"><u>Understanding the Impact of Malware: Operation, Consequences, & Prevention Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-decoding-the-nuances-of-whatsapp-audio-messages/"><u>[New] 2024 Approved Decoding the Nuances of WhatsApp Audio Messages</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-selective-software-optimal-blu-ray-players-free-to-pay/"><u>[New] 2024 Approved Selective Software Optimal Blu-Ray Players (Free to Pay)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-hero5-black-or-yi-comparing-top-actions-cameras/"><u>[New] In 2024, Hero5 Black or YI Comparing Top Actions Cameras</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-lens-language-speaking-visually-with-snapchat-filters-for-2024/"><u>[New] Lens Language Speaking Visually with Snapchat Filters for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unleash-creativity-no-cost-high-quality-text-psds-for-2024/"><u>[Updated] Unleash Creativity No-Cost, High-Quality Text PSDs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-exploring-advanced-techniques-in-video-thumbnail-creation/"><u>2024 Approved Exploring Advanced Techniques in Video Thumbnail Creation</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-10-anti-cyberattack-tools-for-both-windows-and-android-devices-a-comprehensive-guide/"><u>Best 10 Anti-Cyberattack Tools for Both Windows & Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-strategies-for-removing-the-gstatic-threat-using-malwarefox-tool/"><u>Effective Strategies for Removing the Gstatic Threat Using MalwareFox Tool</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fastconvert-pro-the-efficient-replacement-for-format-factory-on-pcs-and-macs/"><u>FastConvert Pro: The Efficient Replacement for Format Factory on PCs and Macs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-hearts-of-iron-4-malfunctions-proven-methods-and-fixes-for-enthusiasts/"><u>Fixing Hearts of Iron 4 Malfunctions: Proven Methods and Fixes for Enthusiasts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/flv-to-wmv-conversion-guide-seamless-video-format-switching-tips-and-tricks/"><u>FLV to WMV Conversion Guide - Seamless Video Format Switching Tips and Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/get-the-official-avid-dnxhd-codec-now-supporting-windows-1011-and-mac-os-x-systems/"><u>Get the Official Avid DNxHD Codec, Now Supporting Windows 10/11 & Mac OS X Systems</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/guide-to-mastering-pubg-mobile-battle-royale-on-your-computer/"><u>Guide to Mastering PUBG Mobile Battle Royale on Your Computer</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-convert-your-audio-recordings-into-written-format-at-no-cost-effective-techniques-and-tools/"><u>How to Convert Your Audio Recordings Into Written Format at No Cost: Effective Techniques and Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-itel-p55-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Itel P55 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-80-pro-straight-screen-edition-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor 80 Pro Straight Screen Edition Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-free-avi-to-mp4-converters-of-2014-compare-and-choose-the-ideal-one/"><u>Top Free AVI to MP4 Converters of 2014: Compare and Choose the Ideal One!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-guide-thorough-file-deletion-techniques-for-your-iphone-6-or-6-plus/"><u>Ultimate Guide: Thorough File Deletion Techniques for Your iPhone 6 or 6 Plus</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-key-distinctions-icloud-backup-vs-itunes-backup-explained/"><u>Understanding Key Distinctions: ICloud Backup Vs. ITunes Backup Explained</u></a></li>
 </ul></div>
 

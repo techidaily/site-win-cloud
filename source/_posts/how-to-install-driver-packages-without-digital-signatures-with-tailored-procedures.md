@@ -1,7 +1,7 @@
 ---
 title: How to Install Driver Packages Without Digital Signatures with Tailored Procedures
-date: 2024-10-01T16:56:19.217Z
-updated: 2024-10-05T16:35:32.993Z
+date: 2024-10-05T01:24:49.389Z
+updated: 2024-10-11T00:16:04.179Z
 tags:
   - application-packaging-training
 categories:
@@ -73,6 +73,13 @@ Specifies that the certificate store created by the -ss option is in the per com
 
 ![Specifies that the certificate store](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/makecert.png "Specifies that the certificate store")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The command returns the message "Succeeded" when the store and certificate are created.
 
 ### Create a .cat (catalog) file for the driver
@@ -110,16 +117,10 @@ Identifies the 32-bit version of Windows 10 as the operating system. Run the com
 ![Identifies the 32-bit version of Windows 10](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/inf2cat.png "Identifies the 32-bit version of Windows 10")  
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Sign the catalog file using SignTool
@@ -155,10 +156,10 @@ Signtool indicates completion with the following message:
 ![Successfully signed and timestamped](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/signtool.png "Successfully signed and timestamped")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Successfully signed and timestamped: C:\\toaster\\device\\example.cat
@@ -172,17 +173,10 @@ Export the certificate manually:
 ![Export the certificate manually](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/exportcert.png "Export the certificate manually")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install the certificate to Root and TrustedPublisher
@@ -243,10 +237,10 @@ Once the script is created, navigate to the Custom Actions Page and add the **La
 ![add certificate](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/addcertAI.png "add certificate")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure that the script which installs the certificate is placed before the script which installs the driver under the “Install Execution Stage” section.
@@ -263,6 +257,19 @@ Once we have the script ready, navigate to the Custom Actions Page and add the *
 
 ![PowerShell script file - Attached Script](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/addcertAIPS.png "PowerShell script file - Attached Script")  
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, build the package and during installation/uninstallation the PowerShell scripts will run and install/uninstall the driver without asking if we want to install an unsigned driver.
 
 ### Installing unsigned drivers with Advanced Installer
@@ -272,13 +279,6 @@ As you can see, handling unsigned certificates is not an easy task and it’s de
 Navigate to the Drivers page and click on **New Driver**. A window will open for you to select the .inf file which must be present in the package.
 
 ![Installing unsigned drivers with Advanced Installer](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/advinstdriverinst.png "Installing unsigned drivers with Advanced Installer")  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Next, all you have to do is just select “Install unsigned driver packages and driver packages that have missing files” and Advanced Installer does everything for you!
 
@@ -301,16 +301,20 @@ And that is it! Next, just build and install the package and you should have a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] 2024 Approved From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>[New] 2024 Approved Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-visuals-on-the-social-media-giant-fb/"><u>[New] In 2024, Twitters' Visuals on the Social Media Giant FB</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>[Updated] Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/77422160-2024-approved-youtubing-green-magic-ideas-that-come-to-life/"><u>2024 Approved Youtubing Green Magic – Ideas That Come to Life!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/enhance-your-binge-watch-list-with-these-six-mac-methods-for-netflix-recording-for-2024/"><u>Enhance Your Binge-Watch List with These Six Mac Methods for Netflix Recording for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/minecraft-map-mastery-acquiring-and-activating-adventures/"><u>Minecraft Map Mastery: Acquiring & Activating Adventures</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/practical-techniques-transforming-ogv-files-into-high-quality-mp4-videos/"><u>Practical Techniques: Transforming OGV Files Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-altering-the-default-pdf-viewing-software-on-windows-10-systems/"><u>Step-by-Step Guide: Altering the Default PDF Viewing Software on Windows 10 Systems</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/the-ultimate-list-top-5-free-data-recovery-apps-compatible-with-macos/"><u>The Ultimate List: Top 5 FREE Data Recovery Apps Compatible with macOS</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-cybersecurity-risks-the-higher-infection-rates-of-windows-versus-maclinux-systems/"><u>Understanding Cybersecurity Risks: The Higher Infection Rates of Windows Versus Mac/Linux Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-video-upgrade-with-enhancer-22/"><u>[New] 2024 Approved The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/asy-process-extracting-youtube-media-directly/"><u>[New] Easy Process Extracting YouTube Media Directly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-identifying-tech-giants-iphone-x-and-samsungs-face-recognition/"><u>[New] Identifying Tech Giants IPhone X & Samsung's Face Recognition</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/advanced-techniques-for-handling-package-dependencies-within-microsofts-installer-framework/"><u>Advanced Techniques for Handling Package Dependencies Within Microsoft's Installer Framework</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/annotated-list-of-the-deadliest-digital-plagues-unraveling-the-dark-side-of-technology-with-a-review-of-historic-malware-foxes/"><u>Annotated List of the Deadliest Digital Plagues: Unraveling the Dark Side of Technology with a Review of Historic Malware Foxes</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/antivirus-limitations-and-advanced-safeguards-necessary-for-optimal-security-online/"><u>Antivirus Limitations and Advanced Safeguards Necessary for Optimal Security Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/basics-of-effective-fb-ad-cta-design-for-2024/"><u>Basics of Effective FB Ad CTA Design for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/discover-the-best-video-shrinking-apps-for-your-iphone-a-trilogy-of-solutions/"><u>Discover the Best Video Shrinking Apps for Your iPhone: A Trilogy of Solutions!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/essential-unknown-capabilities-of-ios-11-a-must-know-list-for-tech-enthusiasts/"><u>Essential Unknown Capabilities of iOS 11: A Must-Know List for Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/find-your-favorites-ranking-of-8-preferred-mp3-extractors-android-for-2024/"><u>Find Your Favorites Ranking of 8 Preferred MP3 Extractors (Android) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-specified-module-could-not-be-found/"><u>How To Fix The Specified Module Could Not Be Found</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professionelle-dvd-rip-und-verbesserung-mit-winxdvd-ultimative-losung-fur-hd-videoubertragung-auf-mobilgerate/"><u>Professionelle DVD Rip Und Verbesserung Mit WinXDVD - Ultimative Lösung Für HD Videoübertragung Auf Mobilgeräte</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-wireless-and-usb-file-sharing-between-your-pc-and-galaxy-s4/"><u>Step-by-Step Guide: Wireless and USB File Sharing Between Your PC & Galaxy S4</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-ultimate-troubleshooting-for-retrieving-deleted-conversations-following-the-ios-12-upgrade/"><u>The Ultimate Troubleshooting for Retrieving Deleted Conversations Following the iOS 12 Upgrade</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44or44k944kz44oz5lik44gn44gu44ot44oh44kq5zue6lui5oqa6kgtic0g54sh5paz44ks44kk44oj/"><u>パソコン上でのビデオ回転技術 - 無料ガイド</u></a></li>
 </ul></div>
 

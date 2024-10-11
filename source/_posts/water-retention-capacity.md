@@ -1,7 +1,7 @@
 ---
 title: Water Retention Capacity
-date: 2024-09-30T16:39:50.160Z
-updated: 2024-10-05T16:27:53.450Z
+date: 2024-10-04T17:19:15.072Z
+updated: 2024-10-10T16:56:19.928Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +187,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-create-captivating-music-reaction-videos-top-10-tips/"><u>[New] 2024 Approved How to Create Captivating Music Reaction Videos - Top 10 Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-pitfall-of-superficial-engagement-on-insta/"><u>[New] In 2024, The Pitfall of Superficial Engagement on Insta</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-reverse-revelations-instagrams-guide-to-rotating-images-for-engagement-for-2024/"><u>[New] Reverse Revelations Instagram's Guide to Rotating Images for Engagement for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-v29-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo V29 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-multitasking-in-apple-browsers/"><u>In 2024, Unlocking Full Multitasking in Apple Browsers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-youtubes-best-font-choices-for-striking-thumbnails/"><u>In 2024, YouTube's Best Font Choices for Striking Thumbnails</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mastering-the-capture-of-your-epic-battles-how-to-screen-record-in-pubg-mobile-for-iphoneipad-and-android-phones/"><u>Mastering the Capture of Your Epic Battles: How to Screen Record in PUBG Mobile for iPhone/iPad and Android Phones</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-6-ideal-mobile-applications-for-enhancing-your-images-with-perfect-backgrounds/"><u>Top 6 Ideal Mobile Applications for Enhancing Your Images with Perfect Backgrounds</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-reliable-data-recovery-solutions-compatible-with-macos-android-and-windows-no-cost-options/"><u>Top Reliable Data Recovery Solutions Compatible with macOS, Android & Windows - No Cost Options</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-tutorial-on-streaming-your-mac-screen-to-lg-tv/"><u>Ultimate Tutorial on Streaming Your Mac Screen to LG TV</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/void-common-pitfalls-with-proper-use-of-youtube-tags/"><u>[New] Avoid Common Pitfalls with Proper Use of YouTube Tags</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-innovative-ways-to-leverage-zoom-for-fb-live/"><u>[Updated] Innovative Ways to Leverage Zoom for FB Live</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-overcoming-code-eb0a-windows-errors/"><u>Effective Solutions for Overcoming Code Eb0a (Windows) Errors</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-digital-photography-expert-guide-on-easy-automated-screenshots/"><u>Effortless Digital Photography: Expert Guide on Easy Automated Screenshots</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/extracting-audio-from-films-three-effective-methods-just-for-you/"><u>Extracting Audio From Films: Three Effective Methods Just for You</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-access-and-enjoy-free-online-music-playlists-without-any-charge/"><u>How to Access & Enjoy Free Online Music Playlists Without Any Charge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-fullscreen-potential-in-adobe-premiere/"><u>In 2024, Unlocking Fullscreen Potential in Adobe Premiere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-process-of-taking-and-posting-nintendo-switch-screenshots-online/"><u>Navigating the Process of Taking and Posting Nintendo Switch Screenshots Online</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/revolutionary-techniques-for-changing-png-image-hues-effortlessly/"><u>Revolutionary Techniques for Changing PNG Image Hues Effortlessly</u></a></li>
 </ul></div>
 

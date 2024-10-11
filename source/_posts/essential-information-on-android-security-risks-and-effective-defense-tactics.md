@@ -1,7 +1,7 @@
 ---
 title: Essential Information on Android Security Risks & Effective Defense Tactics
-date: 2024-10-03T17:58:47.866Z
-updated: 2024-10-05T18:15:33.399Z
+date: 2024-10-10T00:34:39.720Z
+updated: 2024-10-11T00:38:37.004Z
 tags:
   - product
   - antivirus
@@ -66,24 +66,31 @@ Ever found yourself dealing with an app that just wouldn’t stop displaying agg
 
 These sly little programs camouflage themselves as mobile games, infiltrate your device, and then, true to their name—they go into hiding. They either mimic the Google Play Store’s icon or become invisible altogether. Once they’ve settled in, they bombard you with ads, turning your device into a mobile billboard. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Android.Mobidash: The Uninvited Guest
 
 Next up on our list is Android.Mobidash, the elusive malware that loves to make a grand entrance once you’ve let your guard down. How so? Well, MobiDash employs an intriguing modus operandi—it lies dormant for about three days post-installation before it starts displaying pop-up ads.
 
 However, there’s a silver lining. MobiDash is more of an annoying, unwelcome guest than a damaging menace. So, while it might be a bother, it doesn’t pose any serious threat to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pandora.2: The Trojan Horse
 
 Last but certainly not least, we have Pandora.2, a trojan malware that’s been causing a stir since the onset of 2024\. This trojan covertly compromises Android devices during firmware updates or when installing apps for viewing pirated video content.
 
 What’s truly alarming? Pandora.2 uses your device as a pawn in its botnet chess game, initiating DDoS attacks. It’s a descendant of the notorious Linux.Mirai trojan, which has been instigating DDoS attacks against big players like GitHub, Twitter, Reddit, Netflix, Airbnb, and more since 2016.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### CherryBIOS and FakeTrade
 
@@ -93,20 +100,27 @@ The first campaign leveraged popular social networking platforms to promote frau
 
 Meanwhile, another campaign that employed several fraudulent money-earning apps involved the FakeTrade malware. These apps claim to be e-commerce platforms that promise increased income for users via referrals and top-ups. However, users will be unable to withdraw their funds when they attempt to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Unsupported Compression
 
 This is not a malware but a penetrate malware bypassing detection tools. According to a [blog post by Zimperium](https://www.zimperium.com/blog/over-3000-android-malware-samples-using-multiple-techniques-to-bypass-detection/), a cybersecurity company, threat actors are using Android Package (APK) files with unknown or unsupported compression methods to elude malware analysis. Zimperium found 3,300 apps leveraging such compression algorithms in the wild. Most of these samples are corrupted beyond the point that the OS is able to load them. However, their team identified 71 malicious samples that the Android OS is able to load properly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Joker Spyware
 
 Joker is a spyware that gathers contact lists, SMS messages, and details about affected devices. Joker also has the capacity to register the device for premium services without the owner’s consent, monetising the malware infection.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Harly Trojan
 
@@ -128,40 +142,13 @@ ExoBot is one of the most dangerous banking Android malware. Though it was parti
 
 Android Police Virus (APV) is a type of Ransomware. It can block the entire system and encrypt all the files and applications. The Android Police Virus is the newly designed Android version of the famous FBI virus.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **FakeInst**
 
 FakeInst is one of the most widely spread Android malware. It is categorized under Trojan malware and is responsible for 22% of the total Android malicious attacks. FakeInst appears to be an installer program, but after the execution, the malware automatically sends premium-rate text messages.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **BlackRock Malware**
 
 BlackRock is another Android trojan-type malware that is accounted for stealing banking information from the applications like Gmail, Uber, Amazon, Netflix, and others. It has made more than 300 apps its victim and millions of users along with it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **OpFake**
 
@@ -171,15 +158,28 @@ OpFake is a family of viruses that attacks Opera Browser and acts as its downloa
 
 Basebridge is a [spyware-type](https://tools.techidaily.com/malwarefox/products/) malware that infiltrates Android devices. It is known for spying on users, stealing sensitive data from the smartphone, and sending it remotely to the attackers behind it. Additionally, it can also block data consumption monitoring.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **KungFu**
 
 KungFu is a[rootkit-type malware](https://tools.techidaily.com/malwarefox/products/) that generally gets entry into the device by embedding itself into an application. After infiltrating the system, it quickly gets the root access of the device to hide from the security programs. KungFu comes with backdoor functionality that allows the intruders to secretly install malicious apps or scripts on the system, use the web browser to navigate to different websites, and steal the data or information stored in the device storage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Ghost Push virus**
@@ -187,10 +187,10 @@ KungFu is a[rootkit-type malware](https://tools.techidaily.com/malwarefox/produc
 Ghost Push is an Android malware that explicitly targets the device running on or below Android Nougat (Android 7.0). It is a type of rootkit that, after infiltrating the system, can perform various functions on the phone without user permission. The Ghost Push lives up to its name. It does not vanish even after hard resetting the system. Only reflashing the firmware can remove it from the device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## List of known Android Malware Apps 2024
@@ -243,16 +243,16 @@ If your phone carries one or multiple apps from the above list, it is advised to
 
 [How to Prevent Malware on Android](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom Line
 
 With the growing dependency on modern gadgets like smartphones, tablets, smart TVs, and more, the risk of cyberattacks is also expanding. It is essential to keep all your device protected from cyber attacks. For that, you require a robust security solution like **_Total AV_**. It is available for both [Android](https://tools.techidaily.com/malwarefox/products/) and [Windows](https://tools.techidaily.com/malwarefox/products/) devices.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1 thought on “List of Android Viruses and How to Protect”
 
@@ -287,24 +287,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ideal-mac-video-logic-tool/"><u>[Updated] 2024 Approved Ideal Mac Video Logic Tool</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-download-harmony-free-music-from-fb-for-2024/"><u>[Updated] Download Harmony Free Music From FB for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audio-liberation-from-youtube-three-safe-methods/"><u>[Updated] In 2024, Audio Liberation From YouTube Three Safe Methods</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevate-your-ae-projects-with-top-10-texts/"><u>[Updated] In 2024, Elevate Your AE Projects with Top 10 Texts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[Updated] Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-innovative-techniques-for-capturing-virtual-meetings-on-camera/"><u>1. Innovative Techniques for Capturing Virtual Meetings on Camera</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-13c-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi 13C Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-realme-gt-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme GT 3 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/dashlane-re-evaluated-is-it-still-the-top-choice-for-password-management/"><u>Dashlane Re-Evaluated: Is It Still the Top Choice for Password Management?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-screenshot-capture-mastering-full-screen-recording-on-windows-7-and-8/"><u>Effortless Screenshot Capture: Mastering Full Screen Recording on Windows 7 & 8</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/idpalexa51-removal-process-demystified-by-expert-malwarefox-techniques/"><u>IDP.ALEXA.51 Removal Process Demystified by Expert MalwareFox Techniques</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-the-art-of-face-concealment-techniques-for-blurring-visages-in-photographs/"><u>Master the Art of Face Concealment: Techniques for Blurring Visages in Photographs</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/navigating-the-perils-of-geek-squad-frauds-a-comprehensive-guide-for-email-security/"><u>Navigating the Perils of Geek Squad Frauds: A Comprehensive Guide for Email Security</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/seamless-steps-transferring-your-mac-data-to-windows/"><u>Seamless Steps: Transferring Your Mac Data to Windows</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/the-ultimate-starter-guide-to-creating-professional-music-videos-with-top-online-editing-tools/"><u>The Ultimate Starter Guide to Creating Professional Music Videos with Top Online Editing Tools</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-tutorial-on-creating-strong-and-safe-windows-installer-files/"><u>Ultimate Tutorial on Creating Strong & Safe Windows Installer Files</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/vidcollector-social-media-to-device-for-2024/"><u>VidCollector Social Media to Device for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-archive-everyday-moments-seamlessly-by-using-vlcs-webcam-function/"><u>[New] 2024 Approved Archive Everyday Moments Seamlessly by Using VLC's Webcam Function</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-effortless-selfie-sending-learn-the-technique-now/"><u>[New] 2024 Approved Effortless Selfie Sending - Learn the Technique Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-superior-camcorder-features-direct-look-up/"><u>[Updated] In 2024, Superior Camcorder Features – Direct Look-Up</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-techniques-for-interpreting-video-reactions-on-youtube/"><u>[Updated] Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-frame-grabbers-companion/"><u>2024 Approved Frame Grabber's Companion</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/chrome-users-rejoice-eliminate-all-pop-up-ads-with-these-4-effective-strategies/"><u>Chrome Users Rejoice: Eliminate All Pop-Up Ads with These 4 Effective Strategies</u></a></li>
+<li><a href="https://win-help.techidaily.com/complete-guide-mastering-the-apowermanager-in-android-sdk-version-30/"><u>Complete Guide: Mastering the ApowerManager in Android SDK Version 3.0</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/data-rescue-mission-how-to-retrieve-accidentally-deleted-items-from-an-external-storage-device/"><u>Data Rescue Mission: How to Retrieve Accidentally Deleted Items From an External Storage Device</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-methods-for-eliminating-intrusive-pop-ups-on-your-samsung-device-with-malwarefox/"><u>Effective Methods for Eliminating Intrusive Pop-Ups on Your Samsung Device with MalwareFox</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ilaunchconditionsmodule-optimize-your-software-release-process-with-our-advanced-component/"><u>ILaunchConditionsModule - Optimize Your Software Release Process with Our Advanced Component</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailoring-rss-files-for-impact-a-podcasters-blueprint/"><u>In 2024, Tailoring RSS Files for Impact A Podcaster's Blueprint</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-proper-discord-recording-techniques-a-step-by-step-guide/"><u>Mastering Proper Discord Recording Techniques: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-methods-to-transform-your-dvd-soundtracks-into-mp3-files/"><u>Quick Methods to Transform Your DVD Soundtracks Into MP3 Files</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unveiling-http3-an-in-depth-explanation-of-the-future-of-internet-technology/"><u>Unveiling HTTP/3: An In-Depth Explanation of the Future of Internet Technology</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-discover-the-ultimate-luts-for-wondershare-filmora-uncover-the-answer-for-2024/"><u>Updated Discover the Ultimate LUTs for Wondershare Filmora Uncover the Answer for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/windows-registry-techniques-for-effective-file-type-control-and-handling/"><u>Windows Registry Techniques for Effective File Type Control and Handling</u></a></li>
 </ul></div>
 
