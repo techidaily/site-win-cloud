@@ -1,7 +1,7 @@
 ---
 title: Behebt Den 'Boot-Sektor-Zugriffsverweigerung'-Fehler Bei Der Installation Von Windows 11 Mit Diesen Vier Schritten
-date: 2024-10-23T21:49:32.204Z
-updated: 2024-10-28T16:52:10.594Z
+date: 2024-11-02T16:48:52.439Z
+updated: 2024-11-03T16:07:12.629Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7aca198401046d15f1204860b0acf905dd286e143743513f29d02bcd22967183.jpg
@@ -42,13 +42,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
@@ -86,10 +79,10 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best free bootable media creation tool
@@ -108,16 +101,22 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -149,6 +148,13 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -178,6 +184,13 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 **✍Note**: Replace "**C**" with the system hard drive partition letter.
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
 
@@ -216,10 +229,10 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suggestion: backup your crucial loading files in advance
@@ -241,10 +254,17 @@ You just need to download this software and install it. Open it and navigate to 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -258,13 +278,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -290,13 +303,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -308,10 +314,10 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -329,18 +335,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-simplified-social-syncing-from-instagram-to-facebook/"><u>[New] Simplified Social Syncing From Instagram To Facebook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-new-horizons-with-iphone-xs-camera-tech-for-2024/"><u>[Updated] Exploring New Horizons with iPhone X's Camera Tech for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-video-chat-with-peace-of-mind-top-10-secure-call-apps-available-without-cost/"><u>[Updated] Video Chat with Peace of Mind Top 10 Secure Call Apps Available without Cost</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-veeam-vsphere-steps-for-establishing-an-efficient-vmware-resource-pool/"><u>1. Veeam vSphere: Steps for Establishing an Efficient VMware Resource Pool</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-see-what-you-just-watched-on-facebook/"><u>2024 Approved How to See What You Just Watched on Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispatched-guide-to-deciphering-and-dismantling-error-code-a00f4289-on-win11/"><u>Dispatched Guide to Deciphering & Dismantling Error Code A00F4289 on Win11</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/erstellen-sie-eine-windows-11-datensicherung-auf-einer-externen-festplatte-mit-bequemer-software-zwei-effiziente-methoden/"><u>Erstellen Sie Eine Windows 11-Datensicherung Auf Einer Externen Festplatte Mit Bequemer Software – Zwei Effiziente Methoden</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/get-aomei-backupper-now-the-best-free-windows-data-recovery-and-restore-tool/"><u>Get AOMEI Backupper Now! The Best FREE Windows Data Recovery & Restore Tool</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/guia-paso-a-paso-para-recuperar-archivos-eliminados-por-avast-cleanup/"><u>Guía Paso a Paso Para Recuperar Archivos Eliminados Por Avast Cleanup</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/guida-per-risolvere-lerrore-di-avvio-in-windows-nella-modalita-usb/"><u>Guida per Risolvere L'errore Di Avvio in Windows Nella Modalità USB</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-samsung-galaxy-xcover-7-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Samsung Galaxy XCover 7?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keeping-your-acer-nitro-5-performance-optimal-updating-essential-drivers/"><u>Keeping Your Acer Nitro 5 Performance Optimal: Updating Essential Drivers</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/restore-windows-previous-installation-from-old-backup/"><u>Restore Windows Previous Installation From .Old Backup</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-from-ground-to-greatness-photos-on-a-stretch/"><u>[New] 2024 Approved From Ground to Greatness Photos on a Stretch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-diy-audio-excellence-no-mic-necessary/"><u>[Updated] 2024 Approved DIY Audio Excellence No Mic Necessary</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-the-art-of-instagrams-musical-emoji-use/"><u>2024 Approved Mastering the Art of Instagram's Musical Emoji Use</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728471365540-windows-10/"><u>簡単な手順でWindows 10を整合性良く移行する方法</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-practices-in-pairing-your-pc-with-windows-10-the-file-synchronization-duo-explained/"><u>Best Practices in Pairing Your PC with Windows 10 - The File Synchronization Duo Explained</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/change-based-data-transfers-explained-robocopy-versus-simplified-migration-solutions/"><u>Change-Based Data Transfers Explained: Robocopy Versus Simplified Migration Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-encoding-showdown-how-h2-64-vs-mpeg-4-affects-iphone-x8-videos-in-terms-of-file-size-quality-and-processing-time/"><u>Efficient Encoding Showdown: How H.2 64 vs MPEG-4 Affects iPhone X/8 Videos in Terms of File Size, Quality, and Processing Time</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-your-video-experience-the-premium-perspective/"><u>Elevating Your Video Experience: The Premium Perspective</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-yuva-3-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Lava Yuva 3 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/inspecting-slowdown-in-your-photo-booth-recording/"><u>Inspecting Slowdown in Your Photo Booth Recording</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/les-plus-efficaces-methodes-de-preservation-pour-minecraft-sous-windows-11-10-et-vieux-systemes/"><u>Les Plus Efficaces Méthodes De Préservation Pour Minecraft Sous Windows 11, 10 Et Vieux Systèmes</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-adjusting-your-computers-storage-segments/"><u>Step-by-Step Guide: Adjusting Your Computer's Storage Segments</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-guide-moving-your-iphoneipad-videos-onto-an-exterior-hard-drive/"><u>Ultimate Guide: Moving Your iPhone/iPad Videos Onto an Exterior Hard Drive</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728505735520-windows-11/"><u>Windows 11 开机修复指令提示符使用手册 - 步骤指南</u></a></li>
 </ul></div>
 
