@@ -1,7 +1,7 @@
 ---
 title: 2 Methoden Zum Synchronisieren Von Dateien Auf Demselben Rechner - Einfache Lösungen Erklärt
-date: 2024-11-09T16:52:34.417Z
-updated: 2024-11-12T16:25:55.551Z
+date: 2024-11-17T10:25:51.181Z
+updated: 2024-11-21T17:44:42.796Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c801563eee3cb6a0837d30c326713.jpg
@@ -24,6 +24,10 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -43,14 +47,11 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -81,10 +82,7 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
@@ -99,13 +97,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -114,16 +105,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -132,6 +120,10 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -154,16 +146,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -194,14 +177,11 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -218,19 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-best-iphone-vr-games-today/"><u>[Updated] Explore the Best iPhone VR Games Today</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-state-of-the-art-devices-for-online-live-shows/"><u>[Updated] State-of-the-Art Devices for Online Live Shows</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-2021nelsonhall/"><u>「プロセスマイニング」技術進化：ABBYY が2021年に席巻した市場動向とNelsonHallの詳細分析</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-dial-up-the-impact-with-50-free-branding-graphics/"><u>2024 Approved Dial Up the Impact with 50 FREE Branding Graphics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-over-supplementary-film-sequences-b-roll/"><u>2024 Approved Mastery Over Supplementary Film Sequences (B-Roll)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728490724073-windows-11/"><u>迷你指南：在不超時的情況下，同時依照兩種技術安裝Windows 11到多台電腦</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/como-encontrar-y-restaurar-documentos-desaparecidos-de-onedrive-sin-estar-en-el-recycle-bin/"><u>Cómo Encontrar Y Restaurar Documentos Desaparecidos De OneDrive Sin Estar en El Recycle Bin</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/como-realizar-copias-de-seguridad-en-windows-10-hacia-una-unidad-nas-qnap-dos-metodos-efectivos/"><u>Cómo Realizar Copias De Seguridad en Windows 10 Hacia Una Unidad NAS QNAP: Dos Métodos Efectivos</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-guide-to-transferring-your-chosen-files-back-to-iphone/"><u>Easy Guide to Transferring Your Chosen Files Back to iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video-for-2024/"><u>Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-startup-to-success-skyrocketing-youtube-subs/"><u>From Startup to Success Skyrocketing Youtube Subs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-class-review-of-dji-inspire-2/"><u>In 2024, Master Class Review of DJI Inspire 2</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/meet-author-may-a-brief-biography/"><u>Meet Author May: A Brief Biography</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/microsoft-windows-11-critics-decry-new-release-as-unpopular-is-it-premature/"><u>Microsoft Windows 11: Critics Decry New Release as Unpopular - Is It Premature?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-to-tiktok-sound-as-your-phones-ringtone/"><u>[Updated] Step-by-Step Guide to TikTok Sound as Your Phone's Ringtone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/flash5/"><u>「如何輕鬆回復Flash存儲器的消失文件：5項新指南」</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-reduce-buffering-and-lag-turn-on-av1-in-youtube-settings/"><u>2024 Approved Reduce Buffering & Lag - Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/automatisierte-synchronisation-von-microsoft-outlook-auf-macos-beheben/"><u>Automatisierte Synchronisation Von Microsoft Outlook Auf macOS Beheben</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/datenverschiebung-wie-nie-zuvor-sichern-eine-vergleichende-analyse-von-onedrive-alternativen/"><u>Datenverschiebung Wie Nie Zuvor Sichern: Eine Vergleichende Analyse Von OneDrive Alternativen</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/enhance-your-windows-11-journey-mastering-the-media-creation-tool-for-optimal-performance/"><u>Enhance Your Windows 11 Journey: Mastering the Media Creation Tool for Optimal Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-asus-rog-phone-7-ultimate-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Asus ROG Phone 7 Ultimate to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>New Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211773409-no-luck-with-your-pdf-printer-let-us-guide-you-to-quick-fixes/"><u>No Luck with Your PDF Printer? Let Us Guide You to Quick Fixes.</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/not-found-retrieving-the-content-on-this-link-is-currently-unsuccessful-http-error-404/"><u>Not Found - Retrieving the Content on This Link Is Currently Unsuccessful (HTTP Error 404)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pixelpatch-artisan-online-design-symphony-for-2024/"><u>PixelPatch Artisan Online Design Symphony for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/resolution-de-problemes-comment-restaurer-une-partition-principale-inattendument-effacee-sur-votre-systeme-windows-10/"><u>Résolution De Problèmes : Comment Restaurer Une Partition Principale Inattendument Effacée Sur Votre Système Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-for-linking-gmail-accounts-to-apple-watches/"><u>Steps for Linking Gmail Accounts to Apple Watches</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-m2-ssd-cloner-programme-von-samsung-fur-windows-1110-empfehlungen-und-bewertungen/"><u>Top M.2 SSD Cloner Programme Von Samsung Für Windows 11/10 – Empfehlungen Und Bewertungen</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/transferring-your-sql-data-detailed-steps-for-rebuilding-from-backup-using-3-approaches/"><u>Transferring Your SQL Data: Detailed Steps for Rebuilding From Backup Using 3 Approaches</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-freeandpaid/"><u>Updated Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
 </ul></div>
 
