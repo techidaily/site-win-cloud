@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Discover the New DEX Version 3.8 RC - Free Trial for Enthusiasts!"
-date: 2024-11-28T18:36:18.890Z
-updated: 2024-11-30T16:53:02.558Z
+date: 2024-12-02T00:05:37.533Z
+updated: 2024-12-08T19:00:31.792Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,20 +79,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-cloud.techidaily.com/windows-server-ve/"><u>有効な起動パーティションをWindows Server Veに追加・削除する正しい手順</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-chronicle-of-significant-tech-milestones-post-1844-unveiling-the-top-eleven-achievements/"><u>A Chronicle of Significant Tech Milestones Post-1844: Unveiling the Top Eleven Achievements</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/anleitung-zum-loschen-veralteter-sicherungen-mithilfe-von-wbadmin-bei-verschiedenen-windows-server-editionen/"><u>Anleitung Zum Löschen Veralteter Sicherungen Mithilfe Von WBadmin Bei Verschiedenen Windows Server Editionen</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/enhanced-windows-protection-tips-successful-implementation-with-zero-issues-detected/"><u>Enhanced Windows Protection Tips: Successful Implementation with Zero Issues Detected</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-6s-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-xs-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone XS or iPad?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-y100-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y100 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-recover-faulty-windows-file-organizer/"><u>Methods to Recover Faulty Windows File Organizer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-14-pro-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 14 Pro</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/resolved-icloud-backup-interruption-caused-by-weak-internet-connectivity/"><u>Resolved: ICloud Backup Interruption Caused by Weak Internet Connectivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-error-code-1000-in-windows-7-8-and-10-environments/"><u>Step-by-Step Solution to Error Code 1000 in Windows 7, 8 and 10 Environments</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/stuck-on-a-windows-1n-update-discover-the-best-fixes-in-this-guide/"><u>Stuck on a Windows 1N Update? Discover the Best Fixes in This Guide!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/to-use-itop-recorder-a-compelling-case-for-2024/"><u>To Use ITop Recorder A Compelling Case for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/upgrade-your-ps4-game-library-by-transferring-data-from-small-to-big-drives-safely-and-effortlessly/"><u>Upgrade Your PS4 Game Library by Transferring Data From Small to Big Drives Safely and Effortlessly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-clear-youtubes-obscured-visual-field/"><u>[New] 2024 Approved Clear Youtube's Obscured Visual Field</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-online-beat-finder-no-cash-fb-for-2024/"><u>[New] Online Beat Finder No Cash (FB) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-securing-your-speech-on-the-ipad-for-2024/"><u>[New] Securing Your Speech on the iPad for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-windowwatcher-reviews-guide/"><u>[Updated] In 2024, WindowWatcher Reviews Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/a-step-by-step-tutorial-tweaking-the-clock-and-alarms-in-windows-os-with-yl-tech-solutions/"><u>A Step-by-Step Tutorial: Tweaking the Clock & Alarms in Windows OS with YL Tech Solutions</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/discover-how-to-identify-your-graphics-card-on-windows-10-a-comprehensive-guide-by-yl-computing/"><u>Discover How to Identify Your Graphics Card on Windows 10: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/diving-into-advanced-exposure-techniques-auto-smart-hdr-3-and-4-explained/"><u>Diving Into Advanced Exposure Techniques Auto, Smart HDR 3 & 4 Explained</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-can-you-repair-a-damaged-motherboard-expert-advice-from-yl-computing/"><u>How Can You Repair a Damaged Motherboard? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-lineup-8-prime-5k-display-models/"><u>In 2024, Premium Lineup 8 Prime 5K Display Models</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/onedrive-sicherung-vereinfacht-top-tools-zur-ubersicht/"><u>OneDrive Sicherung Vereinfacht: Top-Tools Zur Übersicht</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-a05-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy A05 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-to-repair-your-unresponsive-mouse-expert-advice-by-yl-software-specialists/"><u>Step-by-Step Guide to Repair Your Unresponsive Mouse, Expert Advice by YL Software Specialists</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-scanner-to-windows-links-a-step-by-step-guide-from-experts-at-yl-computing-solve-your-scanning-problems-today/"><u>Troubleshooting Scanner-to-Windows Links: A Step-by-Step Guide From Experts at YL Computing | Solve Your Scanning Problems Today</u></a></li>
 </ul></div>
 

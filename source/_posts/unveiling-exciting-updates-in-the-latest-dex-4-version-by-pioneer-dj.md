@@ -1,7 +1,7 @@
 ---
 title: Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ
-date: 2024-11-25T18:44:27.028Z
-updated: 2024-11-30T18:27:20.683Z
+date: 2024-12-06T17:31:26.925Z
+updated: 2024-12-08T20:06:18.742Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Additionally, the introduction of PADs with versatile modes like Loop Rolls, Sli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 4 Feature Highlights:
@@ -64,7 +64,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 * new controller: RANE Four
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other features:
@@ -91,7 +91,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 **_Stay tuned, we expect to drop DEX 4 very soon!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,22 +113,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2024/08/DEX34-preview-cover.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-accelerating-productivity-microsoft-azure-speech-recognition/"><u>[New] Accelerating Productivity Microsoft Azure Speech Recognition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-iconic-writings-distinguishing-film-types/"><u>[New] In 2024, Iconic Writings Distinguishing Film Types</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728508213460-windows-11/"><u>簡單規劃：如何解決 Windows 11 更新不成功的困境？</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728507233970-ssd5/"><u>新しいSSDへ簡単オペレーティングシステム転送手順：歩き方5つ分解</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-itel-p55t-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Itel P55T FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/guide-for-resolving-a-key-problem-unavailable-protect-system-feature-in-windows-server-2016/"><u>Guide for Resolving a Key Problem: Unavailable 'Protect System' Feature in Windows Server 2016</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1728508850381-hdd/"><u>HDDの完全データコピーに最適なパーティションサイズ調整手順</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-potential-a-step-by-step-solo-podcast-creation/"><u>In 2024, Unleash Potential A Step-By-Step Solo Podcast Creation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/insta-influence-unleashed-the-ultimate-guide-to-power-players-strategies-for-2024/"><u>Insta Influence Unleashed The Ultimate Guide to Power Players' Strategies for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/les-meilleurs-clones-de-superduper-adaptes-a-windows-11-10-et-7-explique/"><u>Les Meilleurs Clones De SuperDuper Adaptés À Windows : 11, 10 Et 7 Expliqué</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/melhores-metodos-de-copia-para-ssd-da-crucial-escolha-a-mais-adequada/"><u>Melhores Métodos De Cópia Para SSD Da Crucial - Escolha a Mais Adequada</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/nef/"><u>NEFファイル説明と修復方法：二つのアプローチ解説</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-methods-to-source-stock-photography-and-visuals/"><u>Optimal Methods to Source Stock Photography and Visuals</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/overcoming-lock-outs-key-insights-for-accessing-your-hp-laptop-without-a-password/"><u>Overcoming Lock-Outs: Key Insights for Accessing Your HP Laptop Without a Password</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solve-these-6-persistent-agv-configuration-hiccups-for-smooth-operation/"><u>Solve These 6 Persistent AGV Configuration Hiccups for Smooth Operation</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/syncing-issues-how-to-resolve-iphone-connected-to-a-different-itunes-account/"><u>Syncing Issues: How to Resolve iPhone Connected to a Different iTunes Account</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-resolving-missing-text-messages-on-your-android-device/"><u>Troubleshooting Steps: Resolving Missing Text Messages on Your Android Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-adding-impact-strategies-for-youtubes-last-impressions/"><u>[New] 2024 Approved Adding Impact Strategies for Youtubes' Last Impressions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-streamline-your-snapchat-chat-and-calls-with-3-key-steps/"><u>[New] 2024 Approved Streamline Your Snapchat Chat and Calls with 3 Key Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-ultra-details-in-minecraft-games/"><u>[New] Unveiling Ultra Details in Minecraft Games</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-journalistic-closing-statement-for-2024/"><u>Crafting a Journalistic Closing Statement for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/creating-a-new-folder-a-step-by-step-guide-yl-computings-ultimate-tutorial/"><u>Creating a New Folder: A Step-by-Step Guide - YL Computing's Ultimate Tutorial</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/download-the-latest-pcdj-dex-37-public-beta-advanced-djing-with-textimagevideo-overlays/"><u>Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/enhance-your-singing-experience-beat-karaoke-cloud-pros-latest-weekly-update/"><u>Enhance Your Singing Experience: Beat Karaoke Cloud Pro's Latest Weekly Update!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-honor-x50iplus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X50i+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/identifying-and-fixing-network-adapter-issues-a-comprehensive-guide-yl-technologies/"><u>Identifying and Fixing Network Adapter Issues: A Comprehensive Guide - YL Technologies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-a58-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo A58 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/selecting-the-perfect-graphics-card-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Perfect Graphics Card: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y100i-power-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/toggling-netflixs-closed-captions-a-step-by-step-guide/"><u>Toggling Netflix's Closed Captions: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

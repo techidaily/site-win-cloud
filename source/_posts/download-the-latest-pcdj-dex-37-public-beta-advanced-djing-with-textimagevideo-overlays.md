@@ -1,7 +1,7 @@
 ---
 title: Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays
-date: 2024-11-23T17:03:21.963Z
-updated: 2024-11-30T17:14:30.410Z
+date: 2024-12-03T21:06:25.538Z
+updated: 2024-12-08T19:05:39.823Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,17 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-insider-tips-creating-unique-podcast-names/"><u>[New] Insider Tips Creating Unique Podcast Names</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-kickstarting-a-vlog-key-hardware-and-apps/"><u>[New] Kickstarting a Vlog Key Hardware & Apps</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728507233970-ssd5/"><u>新しいSSDへ簡単オペレーティングシステム転送手順：歩き方5つ分解</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/altmans-departure-from-openai-impact-on-chatgpt-and-future-prospects/"><u>Altman's Departure From OpenAI: Impact on ChatGPT and Future Prospects</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/easy-path-sending-fb-videos-to-whatsapp-contacts/"><u>Easy Path Sending FB Videos to WhatsApp Contacts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-enriched-minecraft-experience-via-ram-expansion/"><u>In 2024, Enriched Minecraft Experience via RAM Expansion</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-video-posts-twitter-no-retweets-needed/"><u>In 2024, Mastering Video Posts Twitter, No Retweets Needed</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/lautsprecherwiederherstellung-eine-schritt-fur-schritt-anleitung-zur-behebung-eines-festplattenausfalls-auf-einem-laptop/"><u>Lautsprecherwiederherstellung: Eine Schritt-Für-Schritt-Anleitung Zur Behebung Eines Festplattenausfalls Auf Einem Laptop</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/les-meilleurs-clones-de-superduper-adaptes-a-windows-11-10-et-7-explique/"><u>Les Meilleurs Clones De SuperDuper Adaptés À Windows : 11, 10 Et 7 Expliqué</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/overcoming-lock-outs-key-insights-for-accessing-your-hp-laptop-without-a-password/"><u>Overcoming Lock-Outs: Key Insights for Accessing Your HP Laptop Without a Password</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reboot-issues-on-modern-win10-pc/"><u>Reboot Issues on Modern Win10 PC</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/syncing-issues-how-to-resolve-iphone-connected-to-a-different-itunes-account/"><u>Syncing Issues: How to Resolve iPhone Connected to a Different iTunes Account</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-basics-of-evolving-media-and-graphics/"><u>[New] Basics of Evolving Media and Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-battles-eliminating-stutter-from-age-of-empires-4/"><u>Boost Your Battles: Eliminating Stutter From Age of Empires 4</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/budget-friendly-techniques-for-boosting-your-pc-speed-by-experts-at-yl-software/"><u>Budget-Friendly Techniques for Boosting Your PC Speed by Experts at YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-y27s-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo Y27s Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-tech-troubleshooting-learn-how-to-refresh-video-card-drivers-with-guidance-from-yl-software-professionals/"><u>Easy Tech Troubleshooting: Learn How to Refresh Video Card Drivers with Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/elegant-icon-set-featuring-classic-red-designs-by-yl-computing-your-trusted-source-for-professional-graphics/"><u>Elegant Icon Set Featuring Classic Red Designs by YL Computing - Your Trusted Source for Professional Graphics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-expert-tips-for-crafting-professional-slug-line-notations/"><u>In 2024, Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-f15-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy F15 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigate-through-a-seamless-password-update-on-facebook-platform/"><u>Navigate Through a Seamless Password Update on Facebook Platform</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solving-the-issue-of-a-non-responsive-monitor-expert-advice-from-yl-computing/"><u>Solving the Issue of a Non-Responsive Monitor: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-samsung-galaxy-a20-affordable-quality-in-a-smartphone/"><u>The Complete Guide to Samsung Galaxy A20: Affordable Quality in a Smartphone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-rated-holiday-movie-collection-free-downloads-and-streaming/"><u>Top-Rated Holiday Movie Collection: Free Downloads and Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-lost-ark-cannot-connect-to-server-errors/"><u>Troubleshooting Steps for Lost Ark 'Cannot Connect to Server' Errors</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-system-crashes-for-a-stable-experience-with-yl-software-solutions/"><u>Troubleshooting System Crashes for a Stable Experience with YL Software Solutions</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unbeatable-deal-ends-soon-get-thousands-of-karaoke-tracks-at-just-050-each-order-before-july-31st/"><u>Unbeatable Deal Ends Soon: Get Thousands of Karaoke Tracks at Just $0.50 Each - Order Before July 31St!</u></a></li>
 </ul></div>
 

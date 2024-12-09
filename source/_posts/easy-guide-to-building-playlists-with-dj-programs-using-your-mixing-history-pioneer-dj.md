@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Building Playlists with DJ Programs Using Your Mixing History - Pioneer DJ
-date: 2024-11-23T18:05:51.607Z
-updated: 2024-11-30T17:00:14.466Z
+date: 2024-12-07T16:16:34.017Z
+updated: 2024-12-08T16:43:50.556Z
 tags:
   - product
 categories:
@@ -19,13 +19,13 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to create a playlist or sidelist from a specific gig’s history
@@ -41,7 +41,7 @@ The combination of the new date and time stamped history list, and the ability t
 **Watch: How To Generate Playlists From History In RED Mobile 3 or DEX 3**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,18 +63,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/creatingplaylistsfromhisto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-your-ultimate-guide-to-outstanding-streamers-for-2024/"><u>[New] Your Ultimate Guide to Outstanding Streamers for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance/"><u>[Updated] 2024 Approved Propel Your Brand with a 10-Step Blueprint for Top SMM Performance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/a-printers-victory-over-the-white-paper-plague/"><u>A Printer's Victory Over the White Paper Plague</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comment-recuperer-lelement-manquant-dans-les-fichiers-dhistorique-de-windows-11/"><u>Comment Récupérer L’élément Manquant Dans Les Fichiers D'historique De Windows 11</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comment-reparer-le-centre-de-synchronisation-sous-windows-11-lorsquil-arrete-dexecuter/"><u>Comment Réparer Le Centre De Synchronisation Sous Windows 11 Lorsqu'il Arrête D’Exécuter ?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comparing-strategies-how-backups-and-archives-serve-unique-roles-in-data-preservation/"><u>Comparing Strategies: How Backups and Archives Serve Unique Roles in Data Preservation</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/garantia-de-seguranca-para-seus-dados-escolha-o-aomei-backupper-a-solucao-superior-para-back-up-e-restauracao-no-windows/"><u>Garantia De Segurança Para Seus Dados: Escolha O AOMEI Backupper, a Solução Superior Para Back-Up E Restauração No Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oneplus-ace-3-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Ace 3</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-docs-transcription-feature-a-beginners-guide/"><u>Unlocking Docs' Transcription Feature A Beginner’s Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-potential-of-the-samsung-galaxy-tab-s6-a-close-examination-of-its-versatile-s-pen-and-dex-mode/"><u>Unlocking the Potential of the Samsung Galaxy Tab S6: A Close Examination of Its Versatile S Pen & Dex Mode</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/windows-10-system-backup-restore-across-hardware-variants/"><u>Windows 10 System Backup Restore Across Hardware Variants</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728487921139-windows-server-2016/"><u>ファイル履歴を安全にバックアップする：Windows Server 2016のガイド</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/inalizing-your-video-with-a-bold-statement-for-2024/"><u>[New] Finalizing Your Video with a Bold Statement for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-archive-game-creating-win11-sefx-packages-now/"><u>Boost Your Archive Game: Creating Win11 SEFx Packages Now</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/elevate-your-dj-skills-for-zero-cost-explore-the-magic-of-pcdj-dex-2-le-showcased-by-beat-magazine/"><u>Elevate Your DJ Skills for Zero Cost - Explore the Magic of PCDJ Dex 2 Le Showcased by Beat Magazine!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/hd-desktop-walls-premium-alone-themed-graphics-by-yl-computing-high-quality-screen-savers-and-photo-collections/"><u>HD Desktop Walls: Premium Alone Themed Graphics by YL Computing - High-Quality Screen Savers & Photo Collections</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/high-definition-aston-martin-db11-wallpapers-and-visuals-download-premium-graphics-by-yl-computing/"><u>High-Definition Aston Martin DB11 Wallpapers and Visuals - Download Premium Graphics by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-book-metadata-using-calibres-copy-features/"><u>How to Transfer Book Metadata Using Calibre's Copy Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-f23-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo F23 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-introductory-tutorial-utilizing-video-chat-features-on-insta/"><u>In 2024, Introductory Tutorial Utilizing Video Chat Features on Insta</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speed-on-thin-ice-top-performances-from-the-olympics-for-2024/"><u>Speed on Thin Ice Top Performances From the Olympics for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tecnicas-para-articulacion-de-colores/"><u>Técnicas Para Articulación De Colores</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-prolonged-startup-for-pc-players-of-star-wars-battlefront-ii/"><u>Troubleshooting Prolonged Startup for PC Players of Star Wars: Battlefront II</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-black-screens-on-pcs-guidance-by-yl-software-professionals/"><u>Understanding Black Screens on PCs - Guidance by YL Software Professionals</u></a></li>
 </ul></div>
 
