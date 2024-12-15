@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tech Hack - Configuring Your DEX 3 DJ Controller with a Second Screen Setup for Optimal Karaoke Performance
-date: 2024-12-04T17:00:12.647Z
-updated: 2024-12-08T19:26:28.766Z
+date: 2024-12-09T16:55:11.673Z
+updated: 2024-12-14T17:13:03.238Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,24 +42,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-automatic-youtube-playback-on-social-media-hubs/"><u>[New] 2024 Approved Mastering Automatic YouTube Playback on Social Media Hubs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/op-earning-youtube-star-globally-for-2024/"><u>[New] Top Earning YouTube Star Globally for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expertly-edit-extravagant-tiktoks-your-key-to-less-overloaded-drafts/"><u>[Updated] 2024 Approved Expertly Edit Extravagant TikToks Your Key to Less Overloaded Drafts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[Updated] 2024 Approved How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-closer-look-at-immersive-virtual-reality-tech/"><u>A Closer Look at Immersive Virtual Reality Tech</u></a></li>
-<li><a href="https://discover-able.techidaily.com/aomei-backupper-update-log-tracking-enhancements-and-fixes/"><u>AOMEI Backupper Update Log: Tracking Enhancements and Fixes</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ensuring-optimal-ram-operation-on-your-desktop-or-laptop-expert-advice-from-coretech-solutions/"><u>Ensuring Optimal RAM Operation on Your Desktop or Laptop: Expert Advice From CoreTech Solutions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fixing-damaged-files-a-step-by-step-guide-by-yl-computing/"><u>Fixing Damaged Files: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/front-runners-in-4k-gaming-graphics-for-2024/"><u>Front-Runners in 4K Gaming Graphics for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/is-your-pc-infected-identifying-signs-of-virus-or-malware-with-yls-expertise/"><u>Is Your PC Infected? Identifying Signs of Virus or Malware with YL's Expertise</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-starting-your-sound-journey-right-2023s-top-6-affordable-daw-tools-for-beginners/"><u>New Starting Your Sound Journey Right 2023S Top 6 Affordable DAW Tools for Beginners</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/pcdj-masterclass-beats-matching-and-sync-techniques-with-bpm-guide/"><u>PCDJ Masterclass - Beats Matching & Sync Techniques with BPM Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/professional-urban-street-scenes-high-quality-imagery-and-bgs-by-yl-computing-your-source-for-city-vistas/"><u>Professional Urban Street Scenes: High-Quality Imagery & BGs by YL Computing - Your Source for City Vistas</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-guide-identifying-issues-that-may-cause-your-screen-to-remain-black-insights-from-yl-computing-and-yl-software/"><u>Troubleshooting Guide: Identifying Issues That May Cause Your Screen To Remain Black - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/uncover-troublesome-devices-a-guide-by-yl-software-for-resolving-technical-glitches/"><u>Uncover Troublesome Devices: A Guide by YL Software for Resolving Technical Glitches</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-softwares-quick-how-to-relocating-documents-within-windows-folders-efficiently/"><u>YL Software's Quick How-To: Relocating Documents Within Windows Folders Efficiently</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-softwares-ultimate-troubleshooting-tips-for-correcting-memory-errors-in-windows/"><u>YL Software's Ultimate Troubleshooting Tips for Correcting Memory Errors in Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-deciphering-sharex-comparisons-and-replacements/"><u>2024 Approved Deciphering ShareX Comparisons & Replacements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-the-science-of-quantum-hdr/"><u>2024 Approved Mastering the Science of Quantum HDR</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/diy-fixes-for-your-wi-fi-woes-learn-network-troubleshooting-with-yl-software/"><u>DIY Fixes for Your Wi-Fi Woes: Learn Network Troubleshooting with YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fix-non-functional-screen-troubleshooting-and-effective/"><u>Fix, Non-Functional Screen, Troubleshooting, and Effective.</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/get-your-hands-on-free-premium-american-crafted-dj-headphones-etr-1000-and-red-software-at-no-cost/"><u>Get Your Hands on FREE Premium American-Crafted DJ Headphones ETR-1000 and RED Software at No Cost!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/high-definition-vehicle-wallpaper-collection-premium-car-graphics-and-auto-decor-create-a-stunning-visual-experience-with-yl-computings-expertise/"><u>High-Definition Vehicle Wallpaper Collection: Premium Car Graphics & Auto Décor - Create a Stunning Visual Experience with YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-ranked-5-backdrop-change-apps-for-iphones-x-8-7/"><u>In 2024, Top-Ranked 5 Backdrop Change Apps for iPhones (X, 8, 7)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-narzo-n55-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme Narzo N55 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/saving-and-streamlining-eliminate-photos-from-icloud-while-retaining-originals-on-iphone/"><u>Saving & Streamlining: Eliminate Photos From iCloud While Retaining Originals on iPhone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/taking-control-your-comprehensive-yt-studio-manual/"><u>Taking Control Your Comprehensive YT Studio Manual</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ubertreffen-sie-digitale-natives-im-finanzdienstleistungssektor-erfolgstechniken-mit-abbyys-checkliste-ihre-roadmap-zum-erfolg/"><u>Übertreffen Sie Digitale Natives Im Finanzdienstleistungssektor: Erfolgstechniken Mit ABBYY's Checkliste - Ihre Roadmap Zum Erfolg</u></a></li>
 </ul></div>
 

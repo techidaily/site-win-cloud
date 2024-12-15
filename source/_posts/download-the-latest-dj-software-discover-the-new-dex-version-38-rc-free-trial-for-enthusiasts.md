@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Discover the New DEX Version 3.8 RC - Free Trial for Enthusiasts!"
-date: 2024-12-02T00:05:37.533Z
-updated: 2024-12-08T19:00:31.792Z
+date: 2024-12-14T00:08:32.775Z
+updated: 2024-12-14T23:06:00.649Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,18 +79,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-clear-youtubes-obscured-visual-field/"><u>[New] 2024 Approved Clear Youtube's Obscured Visual Field</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-online-beat-finder-no-cash-fb-for-2024/"><u>[New] Online Beat Finder No Cash (FB) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-securing-your-speech-on-the-ipad-for-2024/"><u>[New] Securing Your Speech on the iPad for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-windowwatcher-reviews-guide/"><u>[Updated] In 2024, WindowWatcher Reviews Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/a-step-by-step-tutorial-tweaking-the-clock-and-alarms-in-windows-os-with-yl-tech-solutions/"><u>A Step-by-Step Tutorial: Tweaking the Clock & Alarms in Windows OS with YL Tech Solutions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/discover-how-to-identify-your-graphics-card-on-windows-10-a-comprehensive-guide-by-yl-computing/"><u>Discover How to Identify Your Graphics Card on Windows 10: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/diving-into-advanced-exposure-techniques-auto-smart-hdr-3-and-4-explained/"><u>Diving Into Advanced Exposure Techniques Auto, Smart HDR 3 & 4 Explained</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-can-you-repair-a-damaged-motherboard-expert-advice-from-yl-computing/"><u>How Can You Repair a Damaged Motherboard? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-lineup-8-prime-5k-display-models/"><u>In 2024, Premium Lineup 8 Prime 5K Display Models</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/onedrive-sicherung-vereinfacht-top-tools-zur-ubersicht/"><u>OneDrive Sicherung Vereinfacht: Top-Tools Zur Übersicht</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-a05-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy A05 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-to-repair-your-unresponsive-mouse-expert-advice-by-yl-software-specialists/"><u>Step-by-Step Guide to Repair Your Unresponsive Mouse, Expert Advice by YL Software Specialists</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-scanner-to-windows-links-a-step-by-step-guide-from-experts-at-yl-computing-solve-your-scanning-problems-today/"><u>Troubleshooting Scanner-to-Windows Links: A Step-by-Step Guide From Experts at YL Computing | Solve Your Scanning Problems Today</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-visual-voyage-through-youtubes-2017-data-deluge-for-2024/"><u>[New] A Visual Voyage Through Youtube's 2017 Data Deluge for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-creating-a-narrative-structure-in-online-video-tutorials-for-2024/"><u>[New] Creating a Narrative Structure in Online Video Tutorials for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uide-to-creating-content-top-10-inclusive-video-ideas-for-anyone-for-2024/"><u>[New] Guide to Creating Content Top 10 Inclusive Video Ideas for Anyone for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-and-easy-skype-calls-to-mp3-files-free/"><u>[New] Quick & Easy Skype Calls to MP3 Files (Free)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-novice-to-pro-your-journey-with-the-io-screener/"><u>[Updated] From Novice to Pro Your Journey with the IO Screener</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-mobile-experience-apple-android-and-youtube/"><u>2024 Approved The Ultimate Mobile Experience Apple, Android and YouTube</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/adjusting-screen-display-resolution-via-control-panel-step-by-step-guide-by-yl-computing/"><u>Adjusting Screen Display Resolution via Control Panel - Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/exploring-key-contrasts-in-cryptocurrency-options-insights-from-yl-software-experts/"><u>Exploring Key Contrasts in Cryptocurrency Options - Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/revamp-your-dj-online-presence-expert-advice-on-masterful-seo-techniques-for-pcdj-enthusiasts/"><u>Revamp Your DJ Online Presence: Expert Advice on Masterful SEO Techniques for PCDJ Enthusiasts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solving-graphics-card-drivers-issues-expert-tips-from-yl-computing/"><u>Solving Graphics Card Drivers Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/taiping-rebellion-unraveling-its-origins-and-consequences-in-qing-dynastys-history-1850-1864/"><u>Taiping Rebellion: Unraveling Its Origins & Consequences in Qing Dynasty's History (1850-1864)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DJing Made Easy: Upgraded DEX 3 LE & Red Editions Now at Version 3.6.1"
-date: 2024-12-03T21:05:36.100Z
-updated: 2024-12-08T16:05:14.491Z
+date: 2024-12-13T17:53:51.776Z
+updated: 2024-12-14T22:40:08.227Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ So yeah, it may not be as exciting as with feature-loaded updates but this is an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New And Improved In DEX 3 LE and DEX 3 RE 3.6.1
@@ -45,7 +45,7 @@ _**NOTE:** Install the 3.6.1 update with your existing version closed. 3.6.1 wil
 _Have questions about our 3.6.1 update to our **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,21 +67,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/dex3ledex3re361-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-implementing-photography-snippets-from-videos/"><u>[New] Implementing Photography Snippets From Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-which-frame-rate-is-ideal-analyzing-benefits-of-30fps-and-60fps/"><u>[New] In 2024, Which Frame Rate Is Ideal? Analyzing Benefits of 30Fps and 60Fps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nnovating-your-approach-a-compre-written-by-an-industry-expert-on-effective-youtube-banner-strategies-for-advertisers-for-2024/"><u>[New] Innovating Your Approach A Compre Written by an Industry Expert on Effective YouTube Banner Strategies for Advertisers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-mic-matches-for-video-editors/"><u>[Updated] Best Mic Matches for Video Editors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-is-your-facebook-video-more-engaging-in-a-vertical-format-in-2024/"><u>[Updated] Is Your Facebook Video More Engaging in a Vertical Format, In 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-who-wins-the-battle-of-cinematic-quality-and-durability-in-2024/"><u>[Updated] Who Wins the Battle of Cinematic Quality and Durability, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-through-chatgpts-token-ceiling-barrier/"><u>Breaking Through ChatGPT’s Token Ceiling Barrier</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-steps-to-change-your-file-format-a-guide-by-yl-software-solutions/"><u>Easy Steps to Change Your File Format: A Guide by YL Software Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhanced-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhanced Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mastering-pc-hardware-repairs-on-windows-expert-advice-by-yl-software-professionals/"><u>Mastering PC Hardware Repairs on Windows: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/post-restart-issues-troubleshooting-a-missing-sound-card-in-windows-tips-from-yl-computing/"><u>Post-Restart Issues: Troubleshooting a Missing Sound Card in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/repairing-a-damaged-windows-registry-key-a-comprehensive-guide/"><u>Repairing a Damaged Windows Registry Key: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-potential-dangers-a-deep-dive-into-cryptocurrency-investment-risks-yl-computing/"><u>Understanding Potential Dangers: A Deep Dive Into Cryptocurrency Investment Risks - YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-the-reasons-behind-blue-screen-errors-insights-from-yl-computing/"><u>Understanding the Reasons Behind Blue Screen Errors: Insights From YL Computing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-and-affordable-video-editing-software/"><u>Updated In 2024, Free and Affordable Video Editing Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-software-insights-resolving-scanner-issues-when-unresponsive/"><u>YL Software Insights: Resolving Scanner Issues When Unresponsive</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-optimize-solo-streaming-with-flawless-execution/"><u>[New] 2024 Approved How to Optimize Solo Streaming with Flawless Execution</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-polishing-your-figma-creations-expert-backdrop-extraction/"><u>[Updated] Polishing Your Figma Creations Expert Backdrop Extraction</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/checking-your-scanner-drivers-are-they-current-and-optimized-innovative-solutions-by-yl-software/"><u>Checking Your Scanner Drivers: Are They Current and Optimized? - Innovative Solutions by YL Software</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-solutions-streamlining-your-websites-analytics-and-personalization/"><u>Cookiebot-Driven Solutions: Streamlining Your Website's Analytics and Personalization</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-solutions-for-fixing-common-printer-issues-insights-from-yl-computing/"><u>Effective Solutions for Fixing Common Printer Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/enhance-your-scan-results-overcoming-poor-image-output-with-tips-from-yl-software-experts/"><u>Enhance Your Scan Results: Overcoming Poor Image Output with Tips From YL Software Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-poco-m6-pro-4g-lock-screen-password-by-drfone-android/"><u>How to Reset your Poco M6 Pro 4G Lock Screen Password</u></a></li>
+<li><a href="https://discover-help.techidaily.com/identifying-a-defective-processor-a-guide-by-yl-computing/"><u>Identifying a Defective Processor: A Guide by YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rewiring-windows-photo-viewer-on-windows-10-two-methods-explored/"><u>In 2024, Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solutions-for-non-responsive-graphics-cards-expert-advice-from-yl-computing/"><u>Solutions for Non-Responsive Graphics Cards - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-unresponsive-controllers-expert-tips-for-connecting-your-xbox-one-device/"><u>Solving Unresponsive Controllers: Expert Tips for Connecting Your Xbox One Device</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-your-unresponsive-keyboard-insights-from-yl-computing/"><u>Troubleshooting Your Unresponsive Keyboard: Insights From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unlocking-bios-configuration-comprehensive-tutorial-by-yl-software-professionals/"><u>Unlocking BIOS Configuration: Comprehensive Tutorial by YL Software Professionals</u></a></li>
 </ul></div>
 

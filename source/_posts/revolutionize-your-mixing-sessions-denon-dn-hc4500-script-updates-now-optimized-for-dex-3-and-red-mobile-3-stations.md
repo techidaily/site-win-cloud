@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Mixing Sessions: Denon DN-HC4500 Script Updates Now Optimized for DEX 3 & RED Mobile 3 Stations!"
-date: 2024-12-07T21:00:47.799Z
-updated: 2024-12-08T20:58:32.800Z
+date: 2024-12-07T20:40:01.588Z
+updated: 2024-12-14T17:40:56.431Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,18 +52,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-key-disparities-in-360-degree-and-vr-videos/"><u>[New] 2024 Approved The Key Disparities in 360-Degree & VR Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-top-5-high-definition-screens-for-ps5/"><u>[New] In 2024, Top 5 High-Definition Screens for PS5</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-instagram-broadcasting-with-obs-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Instagram Broadcasting with OBS A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-pixelmaster-360-multiplatform-resolution-booster/"><u>[Updated] PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-80-pro-straight-screen-edition-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor 80 Pro Straight Screen Edition Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/bikers-perspective-on-days-gone-an-in-depth-game-analysis/"><u>Biker's Perspective on Days Gone: An In-Depth Game Analysis</u></a></li>
-<li><a href="https://win-popular.techidaily.com/expert-tips-for-preventing-and-managing-laptop-heat-issues-the-ultimate-guide/"><u>Expert Tips for Preventing and Managing Laptop Heat Issues - The Ultimate Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/introductory-insights-crafting-listener-love-for-2024/"><u>Introductory Insights Crafting Listener-Love for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/revolutionary-editing-video-tools-triumph-on-m1-power/"><u>Revolutionary Editing Video Tools Triumph on M1 Power</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/switching-from-internal-to-external-audio-a-step-by-step-guide-tips-by-yl-computing/"><u>Switching From Internal to External Audio: A Step-by-Step Guide - Tips by YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-collection-of-jujutsu-kaisen-season-16-backgrounds-professional-quality-images-from-yl-software/"><u>Ultimate Collection of Jujutsu Kaisen Season 16 Backgrounds – Professional Quality Images From YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unveiling-the-functionality-of-yl-software-an-expert-insight-into-its-operational-mechanism/"><u>Unveiling the Functionality of YL Software: An Expert Insight Into Its Operational Mechanism</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-computings-guide-top-strategies-for-enhancing-your-pcs-efficiency-and-speed/"><u>YL Computing's Guide: Top Strategies for Enhancing Your PC's Efficiency and Speed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-is-itops-performance-worth-your-investment/"><u>[New] Is ITop's Performance Worth Your Investment?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-common-video-downloadupload-pitfalls-on-fb-for-2024/"><u>[New] Navigating Common Video Download/Upload Pitfalls on FB for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-redefining-visual-storytelling-adding-and-altering-twitter-video-thumbnails/"><u>[New] Redefining Visual Storytelling Adding and Altering Twitter Video Thumbnails</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-selfie-verification-examining-its-impact-on-social-platforms-for-2024/"><u>[New] Selfie Verification Examining Its Impact on Social Platforms for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-superior-select-ringtone-makers-guidebook-for-2024/"><u>[New] Superior Select Ringtone Makers' Guidebook for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-swiftly-navigate-through-tiktok-videos/"><u>[Updated] 2024 Approved Swiftly Navigate Through TikTok Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-leading-voice-customization-go-beyond-echoes/"><u>[Updated] Leading Voice Customization Go Beyond Echoes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>2024 Approved Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/accelerating-your-computer-essential-hardware-improvements-for-a-faster-pc-insights-from-yl-computing/"><u>Accelerating Your Computer: Essential Hardware Improvements for a Faster PC - Insights From YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-8-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Google Pixel 8 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-can-you-repair-a-damaged-motherboard-expert-advice-from-yl-computing/"><u>How Can You Repair a Damaged Motherboard? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-personalize-mouse-and-touchpad-configuration-via-control-panel-with-guidance-from-yl-computing/"><u>How to Personalize Mouse and Touchpad Configuration via Control Panel with Guidance From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/identifying-and-avoiding-cryptocurrency-frauds-expert-guide-by-yl-computing/"><u>Identifying & Avoiding Cryptocurrency Frauds: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/key-registry-districts-you-need-to-know-insights-from-yl-computing-and-yl-software/"><u>Key Registry Districts You Need To Know: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/masterful-strategies-for-prolonged-battery-life-in-your-portable-pc-guided-by-yl-computing-experts/"><u>Masterful Strategies for Prolonged Battery Life in Your Portable PC – Guided by YL Computing Experts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/tibet-china-dialogue-ignites-through-cinema-events-in-san-francisco-and-new-york-with-yl-computing-support/"><u>Tibet-China Dialogue Ignites Through Cinema Events in San Francisco and New York with YL Computing Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-dxvks-role-in-graphics-boosting-windows-games/"><u>Understanding DXVK's Role in Graphics Boosting Windows Games</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unveiling-exciting-updates-in-the-latest-dex-4-version-by-pioneer-dj/"><u>Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/what-to-do-when-your-pc-doesnt-see-the-external-hddssd-solutions-by-yl-software-experts/"><u>What to Do When Your PC Doesn't See the External HDD/SSD - Solutions by YL Software Experts</u></a></li>
 </ul></div>
 

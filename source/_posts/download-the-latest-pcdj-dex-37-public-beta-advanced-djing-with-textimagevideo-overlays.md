@@ -1,7 +1,7 @@
 ---
 title: Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays
-date: 2024-12-03T21:06:25.538Z
-updated: 2024-12-08T19:05:39.823Z
+date: 2024-12-09T21:30:56.886Z
+updated: 2024-12-15T00:00:24.547Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,20 +77,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-basics-of-evolving-media-and-graphics/"><u>[New] Basics of Evolving Media and Graphics</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-battles-eliminating-stutter-from-age-of-empires-4/"><u>Boost Your Battles: Eliminating Stutter From Age of Empires 4</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/budget-friendly-techniques-for-boosting-your-pc-speed-by-experts-at-yl-software/"><u>Budget-Friendly Techniques for Boosting Your PC Speed by Experts at YL Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-y27s-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo Y27s Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-tech-troubleshooting-learn-how-to-refresh-video-card-drivers-with-guidance-from-yl-software-professionals/"><u>Easy Tech Troubleshooting: Learn How to Refresh Video Card Drivers with Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/elegant-icon-set-featuring-classic-red-designs-by-yl-computing-your-trusted-source-for-professional-graphics/"><u>Elegant Icon Set Featuring Classic Red Designs by YL Computing - Your Trusted Source for Professional Graphics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-expert-tips-for-crafting-professional-slug-line-notations/"><u>In 2024, Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-f15-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy F15 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigate-through-a-seamless-password-update-on-facebook-platform/"><u>Navigate Through a Seamless Password Update on Facebook Platform</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/solving-the-issue-of-a-non-responsive-monitor-expert-advice-from-yl-computing/"><u>Solving the Issue of a Non-Responsive Monitor: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-samsung-galaxy-a20-affordable-quality-in-a-smartphone/"><u>The Complete Guide to Samsung Galaxy A20: Affordable Quality in a Smartphone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-rated-holiday-movie-collection-free-downloads-and-streaming/"><u>Top-Rated Holiday Movie Collection: Free Downloads and Streaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-lost-ark-cannot-connect-to-server-errors/"><u>Troubleshooting Steps for Lost Ark 'Cannot Connect to Server' Errors</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-system-crashes-for-a-stable-experience-with-yl-software-solutions/"><u>Troubleshooting System Crashes for a Stable Experience with YL Software Solutions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unbeatable-deal-ends-soon-get-thousands-of-karaoke-tracks-at-just-050-each-order-before-july-31st/"><u>Unbeatable Deal Ends Soon: Get Thousands of Karaoke Tracks at Just $0.50 Each - Order Before July 31St!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cutting-edge-gaming-setup-unpacking-samsungs-ue590-panel/"><u>[Updated] In 2024, Cutting Edge Gaming Setup Unpacking Samsung's UE590 Panel</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-photo-uploads-a-comprehensive-youtube-strategy/"><u>[Updated] Mastering Photo Uploads A Comprehensive YouTube Strategy</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1732515093796-yl/"><u>等待时刻：与YL计算公司一起深入分析房地产股票 - 新视野</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/changing-screen-configuration-a-step-by-step-guide-with-yl-software/"><u>Changing Screen Configuration: A Step-by-Step Guide with YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/exploring-cryptocurrency-risks-expert-analysis-by-yl-computings-tech-team-at-yl-software/"><u>Exploring Cryptocurrency Risks: Expert Analysis by YL Computing's Tech Team at YL Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fresh-filmmakers-footnotes-unveiling-video-quality-terms/"><u>Fresh Filmmaker's Footnotes Unveiling Video Quality Terms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-moto-g13-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G13</u></a></li>
+<li><a href="https://blog-min.techidaily.com/het-allerbeste-giftige-programmas-voor-gratis-video-versterking-in-nederland/"><u>Het Allerbeste Giftige Programma's Voor Gratis Video-Versterking in Nederland</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/high-resolution-japanese-art-hd-wallpapers-and-inspirational-backgrounds-digital-creations-by-yl-software/"><u>High-Resolution Japanese Art HD Wallpapers & Inspirational Backgrounds - Digital Creations by YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-customize-windows-power-settings-via-control-panel-expert-guide-by-yl-software/"><u>How to Customize Windows Power Settings Via Control Panel - Expert Guide by YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-examination-of-rode-x-xdm-100-the-ultimate-usb-mic-for-professionals-techspot-insights/"><u>In-Depth Examination of RODE X XDM-100: The Ultimate USB Mic for Professionals | TechSpot Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-selection-top-8-webcams-to-upgrade-streaming/"><u>Prime Selection Top 8 Webcams to Upgrade Streaming</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-retrieving-data-from-a-non-responsive-windows-machine-tips-by-yl-computing/"><u>Step-by-Step Guide: Retrieving Data From a Non-Responsive Windows Machine - Tips by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/strategies-for-successful-crypto-investments-insights-from-yl-computing/"><u>Strategies for Successful Crypto Investments: Insights From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-essential-graphics-card-inspection-programs-a-comprehensive-review-from-yl-software/"><u>The Essential Graphics Card Inspection Programs: A Comprehensive Review From YL Software</u></a></li>
 </ul></div>
 
