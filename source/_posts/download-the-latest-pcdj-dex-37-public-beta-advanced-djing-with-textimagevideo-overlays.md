@@ -1,7 +1,7 @@
 ---
 title: Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays
-date: 2024-12-09T21:30:56.886Z
-updated: 2024-12-15T00:00:24.547Z
+date: 2024-12-21T18:19:42.035Z
+updated: 2024-12-24T04:17:40.080Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,22 +77,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cutting-edge-gaming-setup-unpacking-samsungs-ue590-panel/"><u>[Updated] In 2024, Cutting Edge Gaming Setup Unpacking Samsung's UE590 Panel</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-photo-uploads-a-comprehensive-youtube-strategy/"><u>[Updated] Mastering Photo Uploads A Comprehensive YouTube Strategy</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1732515093796-yl/"><u>等待时刻：与YL计算公司一起深入分析房地产股票 - 新视野</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/changing-screen-configuration-a-step-by-step-guide-with-yl-software/"><u>Changing Screen Configuration: A Step-by-Step Guide with YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/exploring-cryptocurrency-risks-expert-analysis-by-yl-computings-tech-team-at-yl-software/"><u>Exploring Cryptocurrency Risks: Expert Analysis by YL Computing's Tech Team at YL Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fresh-filmmakers-footnotes-unveiling-video-quality-terms/"><u>Fresh Filmmaker's Footnotes Unveiling Video Quality Terms</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-moto-g13-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G13</u></a></li>
-<li><a href="https://blog-min.techidaily.com/het-allerbeste-giftige-programmas-voor-gratis-video-versterking-in-nederland/"><u>Het Allerbeste Giftige Programma's Voor Gratis Video-Versterking in Nederland</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/high-resolution-japanese-art-hd-wallpapers-and-inspirational-backgrounds-digital-creations-by-yl-software/"><u>High-Resolution Japanese Art HD Wallpapers & Inspirational Backgrounds - Digital Creations by YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-customize-windows-power-settings-via-control-panel-expert-guide-by-yl-software/"><u>How to Customize Windows Power Settings Via Control Panel - Expert Guide by YL Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/in-depth-examination-of-rode-x-xdm-100-the-ultimate-usb-mic-for-professionals-techspot-insights/"><u>In-Depth Examination of RODE X XDM-100: The Ultimate USB Mic for Professionals | TechSpot Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-selection-top-8-webcams-to-upgrade-streaming/"><u>Prime Selection Top 8 Webcams to Upgrade Streaming</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-retrieving-data-from-a-non-responsive-windows-machine-tips-by-yl-computing/"><u>Step-by-Step Guide: Retrieving Data From a Non-Responsive Windows Machine - Tips by YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/strategies-for-successful-crypto-investments-insights-from-yl-computing/"><u>Strategies for Successful Crypto Investments: Insights From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/the-essential-graphics-card-inspection-programs-a-comprehensive-review-from-yl-software/"><u>The Essential Graphics Card Inspection Programs: A Comprehensive Review From YL Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-downloading-youtube-subtitled-content-in-3-ways-for-2024/"><u>[New] Downloading YouTube Subtitled Content in 3 Ways for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlocking-the-secrets-of-lut-production/"><u>[New] In 2024, Unlocking the Secrets of LUT Production</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-supercharge-your-account-top-10-instagram-must-haves-for-2024/"><u>[New] Supercharge Your Account Top 10 Instagram Must-Haves for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2-easy-ways-to-record-google-meet/"><u>2 Easy Ways to Record Google Meet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-sustaining-an-engaged-online-community-the-facebook-way/"><u>2024 Approved Sustaining an Engaged Online Community The Facebook Way</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-guide-steps-to-successfully-setup-applications-on-your-pc-with-windows-11-tips-from-yl-computing/"><u>Easy Guide: Steps to Successfully Setup Applications on Your PC with Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ensuring-your-security-how-to-confirm-windows-defenders-optimal-performance-with-tips-from-yl-software-experts/"><u>Ensuring Your Security: How to Confirm Windows Defender's Optimal Performance with Tips From YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973860597-quick-and-easy-access-downloading-your-asus-pce-ac68-support-files-now/"><u>Quick and Easy Access: Downloading Your ASUS PCE-AC68 Support Files Now</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/spider-man-and-venom-high-resolution-screen-savers-professional-quality-wallpaper-by-yl-computing/"><u>Spider-Man & Venom High-Resolution Screen Savers - Professional Quality Wallpaper by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-to-detecting-and-resolving-graphics-card-issues-on-windows-by-yl-computing-experts/"><u>Step-by-Step Guide to Detecting and Resolving Graphics Card Issues on Windows by YL Computing Experts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-accessing-your-installed-applications-via-windows-control-panel/"><u>Step-by-Step Guide: Accessing Your Installed Applications via Windows Control Panel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-anatomy-of-a-hack-attempt-on-linus-tech-tips-lessons-learned-for-better-security-practices/"><u>The Anatomy of a Hack Attempt on Linus Tech Tips: Lessons Learned for Better Security Practices</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-windows-hardware-compatibility-concerns-insights-and-tips-yl-computing-experts/"><u>Troubleshooting Window's Hardware Compatibility Concerns: Insights and Tips – YL Computing Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshoot-and-prevent-sea-of-thieves-from-freezingcrashing/"><u>Ultimate Guide: Troubleshoot & Prevent Sea of Thieves From Freezing/Crashing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-tech-hack-configuring-your-dex-3-dj-controller-with-a-second-screen-setup-for-optimal-karaoke-performance/"><u>Ultimate Tech Hack - Configuring Your DEX 3 DJ Controller with a Second Screen Setup for Optimal Karaoke Performance</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultra-hd-hatsune-miku-alive-with-vocaloid-4-features-premium-4k-desktop-background-for-enthusiasts-by-yl-technologies/"><u>Ultra HD Hatsune Miku Alive with Vocaloid 4 Features: Premium 4K Desktop Background for Enthusiasts by YL Technologies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y28-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y28 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

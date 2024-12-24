@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tech Hack - Configuring Your DEX 3 DJ Controller with a Second Screen Setup for Optimal Karaoke Performance
-date: 2024-12-09T16:55:11.673Z
-updated: 2024-12-14T17:13:03.238Z
+date: 2024-12-19T18:38:52.790Z
+updated: 2024-12-24T02:54:00.903Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,17 +42,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-deciphering-sharex-comparisons-and-replacements/"><u>2024 Approved Deciphering ShareX Comparisons & Replacements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-the-science-of-quantum-hdr/"><u>2024 Approved Mastering the Science of Quantum HDR</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/diy-fixes-for-your-wi-fi-woes-learn-network-troubleshooting-with-yl-software/"><u>DIY Fixes for Your Wi-Fi Woes: Learn Network Troubleshooting with YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fix-non-functional-screen-troubleshooting-and-effective/"><u>Fix, Non-Functional Screen, Troubleshooting, and Effective.</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/get-your-hands-on-free-premium-american-crafted-dj-headphones-etr-1000-and-red-software-at-no-cost/"><u>Get Your Hands on FREE Premium American-Crafted DJ Headphones ETR-1000 and RED Software at No Cost!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/high-definition-vehicle-wallpaper-collection-premium-car-graphics-and-auto-decor-create-a-stunning-visual-experience-with-yl-computings-expertise/"><u>High-Definition Vehicle Wallpaper Collection: Premium Car Graphics & Auto Décor - Create a Stunning Visual Experience with YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-top-ranked-5-backdrop-change-apps-for-iphones-x-8-7/"><u>In 2024, Top-Ranked 5 Backdrop Change Apps for iPhones (X, 8, 7)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-narzo-n55-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme Narzo N55 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/saving-and-streamlining-eliminate-photos-from-icloud-while-retaining-originals-on-iphone/"><u>Saving & Streamlining: Eliminate Photos From iCloud While Retaining Originals on iPhone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/taking-control-your-comprehensive-yt-studio-manual/"><u>Taking Control Your Comprehensive YT Studio Manual</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/ubertreffen-sie-digitale-natives-im-finanzdienstleistungssektor-erfolgstechniken-mit-abbyys-checkliste-ihre-roadmap-zum-erfolg/"><u>Übertreffen Sie Digitale Natives Im Finanzdienstleistungssektor: Erfolgstechniken Mit ABBYY's Checkliste - Ihre Roadmap Zum Erfolg</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-eternal-banishment-of-youtubes-quick-clips-for-2024/"><u>[New] Eternal Banishment of YouTube's Quick Clips for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevate-your-chat-game-with-astrological-bios/"><u>[Updated] 2024 Approved Elevate Your Chat Game with Astrological Bios</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dominate-the-chart-with-this-high-engagement-video/"><u>[Updated] Dominate the Chart with This High-Engagement Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-script-to-screen-crafting-your-unique-youtube-tale/"><u>[Updated] From Script to Screen Crafting Your Unique YouTube Tale</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-social-blade-the-comprehensive-guide-to-youtube-performance-tracking/"><u>[Updated] Social Blade The Comprehensive Guide to YouTube Performance Tracking</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/elevate-your-dj-skills-for-zero-cost-explore-the-magic-of-pcdj-dex-2-le-showcased-by-beat-magazine/"><u>Elevate Your DJ Skills for Zero Cost - Explore the Magic of PCDJ Dex 2 Le Showcased by Beat Magazine!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/historical-analysis-victories-against-mongols-in-han-era-by-yl-tech-experts/"><u>Historical Analysis: Victories Against Mongols in Han Era by YL Tech Experts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-set-up-automatic-windows-defender-scans-a-comprehensive-guide-tips-from-yl-computing/"><u>How to Set Up Automatic Windows Defender Scans: A Comprehensive Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/navigating-the-ups-and-downs-of-gold-price-fluctuations-strategies-for-trading-stability-insights-from-yl-computing-and-yl-software/"><u>Navigating the Ups and Downs of Gold Price Fluctuations: Strategies for Trading Stability - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nubia-red-magic-8s-proplus-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nubia Red Magic 8S Pro+ without backup.</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/update-your-music-mixing-game-on-ipad-get-the-latest-dj-dex-version-at-app-store/"><u>Update Your Music Mixing Game on iPad - Get the Latest DJ DEX Version at App Store</u></a></li>
 </ul></div>
 

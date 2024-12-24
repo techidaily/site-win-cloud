@@ -1,7 +1,7 @@
 ---
 title: Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ
-date: 2024-12-10T20:07:23.337Z
-updated: 2024-12-15T00:39:40.007Z
+date: 2024-12-22T20:16:50.050Z
+updated: 2024-12-23T18:38:55.571Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Additionally, the introduction of PADs with versatile modes like Loop Rolls, Sli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 4 Feature Highlights:
@@ -64,7 +64,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 * new controller: RANE Four
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other features:
@@ -91,7 +91,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 **_Stay tuned, we expect to drop DEX 4 very soon!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,21 +113,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2024/08/DEX34-preview-cover.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cyber-cracked-joke-creator/"><u>[New] 2024 Approved Cyber Cracked Joke Creator</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-roadmap-to-selecting-top-tier-visual-storytellers/"><u>[New] The Roadmap to Selecting Top-Tier Visual Storytellers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[Updated] In 2024, Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1732512076259-yl/"><u>神赐之言 - 握住宝贵的机会，发现YL计算的独特解决方案</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/deciphering-digital-coin-values-with-expert-tips-from-yl-software/"><u>Deciphering Digital Coin Values with Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/identifying-defective-cpu-units-a-comprehensive-guide-by-yl-computing/"><u>Identifying Defective CPU Units: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-free-youtube-endings-that-stand-out-ranked/"><u>In 2024, Free YouTube Endings That Stand Out - Ranked!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-audio-excellence-in-ios-settings/"><u>In 2024, Unlocking Audio Excellence in iOS Settings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/insiders-choice-selecting-the-superior-screen-recorder-for-2024/"><u>Insider’s Choice Selecting the Superior Screen Recorder for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-guide-how-to-instantly-open-the-control-panel-on-windows-11-by-tech-wizard/"><u>Quick Guide: How to Instantly Open the Control Panel on Windows 11 - By Tech Wizard</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/resolving-pc-hardware-problems-in-your-windows-machine-expert-tips-from-yl-computing/"><u>Resolving PC Hardware Problems in Your Windows Machine: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/switching-applications-a-step-by-step-guide-on-how-to-open-files-with-alternative-programs-tips-from-yl-computing/"><u>Switching Applications: A Step-by-Step Guide on How to Open Files with Alternative Programs - Tips From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-12-pro-4g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Redmi Note 12 Pro 4G Phone Pattern Lock</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforming-business-with-metaverse-ideas-for-2024/"><u>Transforming Business with Metaverse Ideas for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-apples-latest-travel-companions-with-distinct-characteristics-insider-information-from-this-week-tech-reviews-at-zdnet/"><u>Unveiling Apple's Latest Travel Companions with Distinct Characteristics – Insider Information From This Week | Tech Reviews at ZDNET</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-software-expertise-the-ultimate-methods-for-removing-digital-data/"><u>YL Software Expertise: The Ultimate Methods for Removing Digital Data</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-cinema-teasers-compilation-for-2024/"><u>[New] Top Cinema Teasers Compilation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-screen-recording-potential-on-your-hp-notebook/"><u>[New] Unlocking Screen Recording Potential on Your HP Notebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-best-instagram-highlight-cover-maker-online/"><u>[Updated] Best Instagram Highlight Cover Maker Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-never-compromise-on-security-try-our-list-of-top-10-secure-free-video-calling-apps/"><u>2024 Approved Never Compromise on Security – Try Our List of Top 10 Secure, Free Video Calling Apps</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/detecting-signs-of-a-faulty-motherboard-a-comprehensive-guide-by-yl-computing/"><u>Detecting Signs of a Faulty Motherboard: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-strategies-to-fix-a-blue-screen-of-death-insights-by-yl-computing/"><u>Effective Strategies to Fix a Blue Screen of Death - Insights by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-discover-these-exciting-free-tools-to-elevate-your-tiktok-videos-top-10/"><u>In 2024, Discover These Exciting Free Tools to Elevate Your TikTok Videos (Top 10)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/is-it-possible-to-use-windows-defender-with-a-mac-computer-insights-from-yl-computing/"><u>Is It Possible to Use Windows Defender with a Mac Computer?: Insights From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/maximize-efficiency-with-yl-softwares-top-tips-for-keeping-your-pc-optimal/"><u>Maximize Efficiency with YL Software’s Top Tips for Keeping Your PC Optimal</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/pcdj-unveils-new-karaoke-tools-slideshow-and-advertising-features/"><u>PCDJ Unveils New Karaoke Tools: Slideshow & Advertising Features</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/setting-up-effective-parent-controls-a-step-by-step-guide-with-yl-computings-software/"><u>Setting Up Effective Parent Controls: A Step-by-Step Guide with YL Computing's Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-demystified-follow-our-8-essential-fixes/"><u>Tablet Touch Issues Demystified: Follow Our 8 Essential Fixes!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210790301-9798218060787-the-recovering-people-pleaser/"><u>The Recovering People Pleaser | Free Book</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/zip-file-name-change-techniques-explained-by-experts-at-yl-software/"><u>Zip File Name Change Techniques Explained by Experts at YL Software</u></a></li>
 </ul></div>
 
