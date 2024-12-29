@@ -1,7 +1,7 @@
 ---
 title: 1. Restore Read-Only NTFS Drive via Five Effective Methods
-date: 2024-12-10T18:09:47.012Z
-updated: 2024-12-14T22:58:02.421Z
+date: 2024-12-24T16:51:11.968Z
+updated: 2024-12-29T17:00:59.024Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b73decee245e264928d768a5a.jpg
@@ -25,12 +25,16 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -61,7 +65,7 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
@@ -84,14 +88,10 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -113,15 +113,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -130,6 +122,10 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -152,6 +148,10 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -171,7 +171,7 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 👉 **Notes:**
@@ -193,11 +193,7 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Clone Hard Drive
@@ -218,6 +214,10 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -269,10 +269,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -280,6 +276,10 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -298,21 +298,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-cinematic-wisdom-bank/"><u>[Updated] 2024 Approved Cinematic Wisdom Bank</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-swift-systems-for-securing-presentations/"><u>[Updated] In 2024, Swift Systems for Securing Presentations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-note-30i-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Note 30i Phone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/cant-get-your-scanner-working-on-windows-heres-what-you-need-to-know-yl-software-guide/"><u>Can’t Get Your Scanner Working on Windows? Here's What You Need to Know (YL Software Guide)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comparing-agp-vs-pci-graphics-cards-key-distinctions-explained-by-yl-computing/"><u>Comparing AGP Vs. PCI Graphics Cards: Key Distinctions Explained by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-15-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 15</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-ready-iphone-lineup-unveiling-devices-compatible-with-apples-next-ai-breakthroughs-and-the-evolved-version-of-siri/"><u>Future-Ready iPhone Lineup: Unveiling Devices Compatible with Apple's Next AI Breakthroughs and the Evolved Version of Siri</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-fix-a-persistent-disconnection-issue-with-your-network-adapter-solutions-from-yl-computing/"><u>How to Fix a Persistent Disconnection Issue with Your Network Adapter - Solutions From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-tecno-pova-5-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Tecno Pova 5?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/revolutionize-your-mixing-sessions-denon-dn-hc4500-script-updates-now-optimized-for-dex-3-and-red-mobile-3-stations/"><u>Revolutionize Your Mixing Sessions: Denon DN-HC4500 Script Updates Now Optimized for DEX 3 & RED Mobile 3 Stations!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-setting-up-network-connections-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Network Connections via Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-guide-how-to-fix-a-blank-screen-on-your-computer-tips-by-yl-computing/"><u>Troubleshooting Guide: How to Fix a Blank Screen on Your Computer - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-tough-hardware-problems-expert-advice-from-yl-computing-and-yl-software/"><u>Troubleshooting Tough Hardware Problems: Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/unveiling-the-secrets-of-easy-and-effective-video-clipping-from-streamtape/"><u>Unveiling the Secrets of Easy and Effective Video Clipping From Streamtape</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/why-is-your-computer-input-devices-not-responding-solutions-by-yl-software-professionals/"><u>Why Is Your Computer Input Devices Not Responding? Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-art-of-hiding-while-livestreaming-on-instagram/"><u>[New] 2024 Approved The Art of Hiding While Livestreaming on Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>[Updated] In 2024, A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-side-by-side-hero4-vs-hero5-analysis/"><u>[Updated] In 2024, Side by Side Hero4 vs Hero5 Analysis</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210310468-9781778320095-10-hours-of-guided-meditations-for-deep-sleep-anxiety-depression-overthinking/"><u>10 Hours Of Guided Meditations For Deep Sleep, Anxiety, Depression & Overthinking | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y100t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y100t Fingerprint Lock</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/high-definition-wallpaper-collections-professional-hd-photo-backgrounds-from-yl-computing/"><u>High-Definition Wallpaper Collections: Professional HD Photo Backgrounds From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-can-i-confirm-proper-functionality-of-my-graphics-card-tips-and-tools-by-yl-computing/"><u>How Can I Confirm Proper Functionality of My Graphics Card - Tips & Tools by YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-livestream-on-facebook-from-android-and-ios-for-2024/"><u>How to Livestream on Facebook From Android and iOS for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-direct-data-delivery-master-5-techniques-for-uploading-files/"><u>In 2024, Direct Data Delivery Master 5 Techniques for Uploading Files</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/pcdj-insights-a-unique-perspective-on-music-production/"><u>PCDJ Insights: A Unique Perspective on Music Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>Rotate iPhone Pics Sideways & Upside Down Made Easy</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solving-pc-fan-noise-problems-tips-and-tricks-tech-guides-by-yl/"><u>Solving PC Fan Noise Problems: Tips & Tricks - Tech Guides by YL</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/stunning-blue-blossom-hd-wallscapes-crisp-photographs-and-captivating-pictures-for-pcmac-created-with-care-at-yl-software/"><u>Stunning Blue Blossom HD Wallscapes, Crisp Photographs & Captivating Pictures for PC/Mac – Created with Care at YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/stunning-bmw-7-series-2019-high-definition-wallpaper-and-desktop-backgrounds-image-collection-by-yl-computing/"><u>Stunning BMW 7 Series 2019 High-Definition Wallpaper & Desktop Backgrounds - Image Collection by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-maldives-visuals-for-your-screen-premium-hd-walls-photos-and-pictures-from-yl-softwares-image-library/"><u>Ultimate Maldives Visuals for Your Screen: Premium HD Walls, Photos & Pictures From YL Software's Image Library</u></a></li>
 </ul></div>
 

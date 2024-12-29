@@ -1,7 +1,7 @@
 ---
 title: Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ
-date: 2024-12-22T20:16:50.050Z
-updated: 2024-12-23T18:38:55.571Z
+date: 2024-12-28T17:26:32.139Z
+updated: 2024-12-29T16:57:54.559Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Additionally, the introduction of PADs with versatile modes like Loop Rolls, Sli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 4 Feature Highlights:
@@ -64,7 +64,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 * new controller: RANE Four
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other features:
@@ -91,7 +91,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 **_Stay tuned, we expect to drop DEX 4 very soon!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,20 +113,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2024/08/DEX34-preview-cover.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-top-cinema-teasers-compilation-for-2024/"><u>[New] Top Cinema Teasers Compilation for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-screen-recording-potential-on-your-hp-notebook/"><u>[New] Unlocking Screen Recording Potential on Your HP Notebook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-best-instagram-highlight-cover-maker-online/"><u>[Updated] Best Instagram Highlight Cover Maker Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-never-compromise-on-security-try-our-list-of-top-10-secure-free-video-calling-apps/"><u>2024 Approved Never Compromise on Security – Try Our List of Top 10 Secure, Free Video Calling Apps</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/detecting-signs-of-a-faulty-motherboard-a-comprehensive-guide-by-yl-computing/"><u>Detecting Signs of a Faulty Motherboard: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effective-strategies-to-fix-a-blue-screen-of-death-insights-by-yl-computing/"><u>Effective Strategies to Fix a Blue Screen of Death - Insights by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-discover-these-exciting-free-tools-to-elevate-your-tiktok-videos-top-10/"><u>In 2024, Discover These Exciting Free Tools to Elevate Your TikTok Videos (Top 10)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/is-it-possible-to-use-windows-defender-with-a-mac-computer-insights-from-yl-computing/"><u>Is It Possible to Use Windows Defender with a Mac Computer?: Insights From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/maximize-efficiency-with-yl-softwares-top-tips-for-keeping-your-pc-optimal/"><u>Maximize Efficiency with YL Software’s Top Tips for Keeping Your PC Optimal</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/pcdj-unveils-new-karaoke-tools-slideshow-and-advertising-features/"><u>PCDJ Unveils New Karaoke Tools: Slideshow & Advertising Features</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/setting-up-effective-parent-controls-a-step-by-step-guide-with-yl-computings-software/"><u>Setting Up Effective Parent Controls: A Step-by-Step Guide with YL Computing's Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-demystified-follow-our-8-essential-fixes/"><u>Tablet Touch Issues Demystified: Follow Our 8 Essential Fixes!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210790301-9798218060787-the-recovering-people-pleaser/"><u>The Recovering People Pleaser | Free Book</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/zip-file-name-change-techniques-explained-by-experts-at-yl-software/"><u>Zip File Name Change Techniques Explained by Experts at YL Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-video-segmentation-the-easy-fades-way/"><u>[New] In 2024, Mastering Video Segmentation The Easy Fades Way</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-techniques-capturing-teams-screen-content/"><u>[Updated] 2024 Approved Advanced Techniques Capturing Teams' Screen Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-facebook-fam-bites-in-snapchat-spotlight/"><u>[Updated] In 2024, Facebook Fam Bites in Snapchat Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/799-google-pixel-9-shines-bright-in-this-years-android-showcase/"><u>$799 Google Pixel 9 Shines Bright in This Year's Android Showcase</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/accelerate-your-system-how-to-enhance-computer-speed-with-key-hardware-upgrades-tips-from-yl-software-experts/"><u>Accelerate Your System: How to Enhance Computer Speed with Key Hardware Upgrades - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-touch-input-in-windows-enabledisable-steps/"><u>Configure Touch Input in Windows: Enable/Disable Steps</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-steps-to-adjust-power-settings-via-control-panel-tips-from-yl-software/"><u>Easy Steps to Adjust Power Settings via Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/is-av1-the-clear-winner-against-vp9/"><u>Is AV1 The Clear Winner Against VP9?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/section-3c-qandas/"><u>Section 3C: Q&As</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-adjusting-your-screen-preferences-through-windows-control-panel-tips-from-yl-computing-experts/"><u>Step-by-Step Guide: Adjusting Your Screen Preferences Through Windows Control Panel - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-spotting-misleading-play-promos/"><u>The Art of Spotting Misleading Play Promos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-professional-photo-coloring/"><u>The Ultimate Guide to Professional Photo Coloring</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/update-your-microsoft-account-settings-for-windows-11-with-our-easy-walkthrough-yl-solutions-blog/"><u>Update Your Microsoft Account Settings for Windows 11 with Our Easy Walkthrough - YL Solutions Blog</u></a></li>
 </ul></div>
 

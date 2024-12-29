@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Mixing Sessions: Denon DN-HC4500 Script Updates Now Optimized for DEX 3 & RED Mobile 3 Stations!"
-date: 2024-12-22T16:58:51.745Z
-updated: 2024-12-23T18:20:11.672Z
+date: 2024-12-26T17:18:54.657Z
+updated: 2024-12-29T17:05:53.299Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,22 +52,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-gameplay-capture-simplified-the-ultimate-win10-guide/"><u>[Updated] In 2024, Gameplay Capture Simplified The Ultimate Win10 Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-up-to-date-strategies-for-youtube-earnings/"><u>[Updated] In 2024, Up-to-Date Strategies for YouTube Earnings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-video-editing-on-iphone-trim-and-adjust-sizes/"><u>[Updated] Simplifying Video Editing on iPhone Trim & Adjust Sizes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-your-images-right-best-tools-and-sites-of-2023/"><u>2024 Approved Frame Your Images Right Best Tools & Sites of 2023</u></a></li>
-<li><a href="https://techtrends.techidaily.com/catch-copa-america-2021-top-sites-offering-free-live-streams/"><u>Catch Copa America 2021: Top Sites Offering FREE Live Streams</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/cryptosphere-roundup-key-developments-in-digital-assets-this-weekend-reviewed-by-yl-software-experts/"><u>Cryptosphere Roundup: Key Developments in Digital Assets This Weekend Reviewed by YL Software Experts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/download-the-latest-pcdj-dex-37-public-beta-advanced-djing-with-textimagevideo-overlays/"><u>Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effective-techniques-for-resolving-memory-issues-on-windows-systems-insights-by-yl-computing/"><u>Effective Techniques for Resolving Memory Issues on Windows Systems - Insights by YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-pdf-viewing-on-windows-systems-a-comprehensive-tutorial-by-yl-software-professionals/"><u>Effortless PDF Viewing on Windows Systems: A Comprehensive Tutorial by YL Software Professionals</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-12-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus 12? Try These Fixes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-motorola-razr-40-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Motorola Razr 40 Ultra to iPad | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/navigating-the-risks-of-digital-asset-portfolios-your-guide-to-secure-cryptocurrency-ventures-by-yl-software/"><u>Navigating the Risks of Digital Asset Portfolios: Your Guide to Secure Cryptocurrency Ventures by YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/networking-your-printer-a-step-by-step-guide-yl-software-solutions/"><u>Networking Your Printer: A Step-by-Step Guide - YL Software Solutions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/revamp-twitter-video-summary-for-2024/"><u>Revamp Twitter Video Summary for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snapchat-my-ai-the-6-significant-aspects-you-overlooked/"><u>Snapchat My AI: The 6 Significant Aspects You Overlooked</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/upcoming-objectives-exploring-key-targets-and-plans-for-2017-at-pcdj/"><u>Upcoming Objectives: Exploring Key Targets and Plans for 2017 at PCDJ</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/verifying-your-digital-wallets-crypto-assets-a-step-by-step-guide-with-yl-computing/"><u>Verifying Your Digital Wallet's Crypto Assets - A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-social-media-hash-tracking-software-fb-tweet-and-ig-edition/"><u>[New] In 2024, Top Social Media Hash Tracking Software FB, Tweet & IG Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-x9b-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor X9b to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/djing-made-easy-upgraded-dex-3-le-and-red-editions-now-at-version-361/"><u>DJing Made Easy: Upgraded DEX 3 LE & Red Editions Now at Version 3.6.1</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/download-premium-hd-wallpapers-for-pcmac-professional-photos-and-eye-catching-background-pictures-yl-software-solutions/"><u>Download Premium HD Wallpapers for PC/Mac: Professional Photos & Eye-Catching Background Pictures | YL Software Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-enhanced-performance-free-windows-11-drivers-for-intel-iris-xe-graphics-now-available/"><u>Get Enhanced Performance: [Free] Windows 11 Drivers for Intel Iris XE Graphics Now Available</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-can-i-fix-a-fluctuating-sluggish-wi-fi-or-ethernet-link-a-guide-by-yl-software/"><u>How Can I Fix a Fluctuating, Sluggish Wi-Fi or Ethernet Link: A Guide by YL Software</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 15/iPad | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-navigating-frames-per-second-in-video-recording-the-3060-dilemma/"><u>In 2024, Navigating Frames Per Second in Video Recording - The 30/60 Dilemma</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quick-guide-capturing-time-lapse-on-your-ipad/"><u>In 2024, Quick Guide Capturing Time Lapse on Your iPad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-7-plus-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 7 Plus Activation Lock</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/navigating-the-future-with-blockchain-smart-investment-tips-from-yl-software-experts/"><u>Navigating the Future with Blockchain: Smart Investment Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/preventing-cpu-breakdowns-with-expert-strategies-by-yl-software-experts/"><u>Preventing CPU Breakdowns with Expert Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/switching-from-internal-to-external-audio-a-step-by-step-guide-tips-by-yl-computing/"><u>Switching From Internal to External Audio: A Step-by-Step Guide - Tips by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-basketball-decor-kyrie-irving-inspired-nets-wallpapers-by-yl-computing-elevate-your-rooms-game/"><u>Ultimate Basketball Decor: Kyrie Irving Inspired Nets Wallpapers by YL Computing – Elevate Your Room's Game!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-stable-fifa-22-gaming-experience-on-windowsmac/"><u>Ultimate Solution for Stable FIFA 22 Gaming Experience on Windows/Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-display-intels-new-iris-plus-655-gpu-drivers-for-windows-10-and-11-users/"><u>Upgrade Your Display: Intel's New Iris Plus 655 GPU Drivers for WINDOWS 10 & 11 Users</u></a></li>
 </ul></div>
 

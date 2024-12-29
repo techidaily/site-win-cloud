@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Building Playlists with DJ Programs Using Your Mixing History - Pioneer DJ
-date: 2024-12-20T16:09:06.592Z
-updated: 2024-12-24T03:15:47.538Z
+date: 2024-12-24T16:07:08.523Z
+updated: 2024-12-29T17:17:45.916Z
 tags:
   - product
 categories:
@@ -19,13 +19,13 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to create a playlist or sidelist from a specific gig’s history
@@ -41,7 +41,7 @@ The combination of the new date and time stamped history list, and the ability t
 **Watch: How To Generate Playlists From History In RED Mobile 3 or DEX 3**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,20 +63,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/creatingplaylistsfromhisto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-backupbuddy-reviewers-thoughts/"><u>[New] In 2024, BackupBuddy Reviewers Thoughts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-free-software-showdown-the-leading-10-audio-capture-utilities/"><u>2024 Approved Free Software Showdown The Leading 10 Audio Capture Utilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>2024 Approved Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/a-step-by-step-tutorial-tweaking-the-clock-and-alarms-in-windows-os-with-yl-tech-solutions/"><u>A Step-by-Step Tutorial: Tweaking the Clock & Alarms in Windows OS with YL Tech Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/advanced-chat-services-optimizing-teleconferences-for-2024/"><u>Advanced Chat Services Optimizing Teleconferences for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/discover-how-to-identify-your-graphics-card-on-windows-10-a-comprehensive-guide-by-yl-computing/"><u>Discover How to Identify Your Graphics Card on Windows 10: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210820685-9781493070336-haunted-las-vegas-2nd-ed/"><u>Haunted Las Vegas (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-can-you-repair-a-damaged-motherboard-expert-advice-from-yl-computing/"><u>How Can You Repair a Damaged Motherboard? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/identifying-and-avoiding-cryptocurrency-frauds-expert-guide-by-yl-computing/"><u>Identifying & Avoiding Cryptocurrency Frauds: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-14-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 14 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-htc-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on HTC </u></a></li>
-<li><a href="https://win-cloud.techidaily.com/masterful-strategies-for-prolonged-battery-life-in-your-portable-pc-guided-by-yl-computing-experts/"><u>Masterful Strategies for Prolonged Battery Life in Your Portable PC – Guided by YL Computing Experts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722967580251-startech-vga-drivers-get-your-free-installation-file-here/"><u>StarTech VGA Drivers - Get Your Free Installation File Here!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/tibet-china-dialogue-ignites-through-cinema-events-in-san-francisco-and-new-york-with-yl-computing-support/"><u>Tibet-China Dialogue Ignites Through Cinema Events in San Francisco and New York with YL Computing Support</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/what-to-do-when-your-pc-doesnt-see-the-external-hddssd-solutions-by-yl-software-experts/"><u>What to Do When Your PC Doesn't See the External HDD/SSD - Solutions by YL Software Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-android-and-ios-leading-titles-mimicking-playstation-games-for-2024/"><u>[New] Android & iOS Leading Titles Mimicking PlayStation Games for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/resh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content-for-2024/"><u>[New] Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-high-definition-recording-mastering-live-footage-using-logitech-cam/"><u>[New] In 2024, High Definition Recording Mastering Live Footage Using Logitech Cam</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-impact-strategies-for-going-viral-on-instagram-for-2024/"><u>[New] Maximizing Impact Strategies for Going Viral on Instagram for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-path-to-perfect-streams-streamlabs-plus-obs-for-mac-users/"><u>[New] The Path to Perfect Streams Streamlabs + OBS for Mac Users</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ensuring-optimal-ram-operation-on-your-desktop-or-laptop-expert-advice-from-coretech-solutions/"><u>Ensuring Optimal RAM Operation on Your Desktop or Laptop: Expert Advice From CoreTech Solutions</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fixing-damaged-files-a-step-by-step-guide-by-yl-computing/"><u>Fixing Damaged Files: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-your-vantage-point-to-the-worlds-sharing-immersive-photos-online/"><u>In 2024, From Your Vantage Point to the World's Sharing Immersive Photos Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/macvideo-editor/"><u>MacVideo Editor</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/pcdj-masterclass-beats-matching-and-sync-techniques-with-bpm-guide/"><u>PCDJ Masterclass - Beats Matching & Sync Techniques with BPM Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/professional-urban-street-scenes-high-quality-imagery-and-bgs-by-yl-computing-your-source-for-city-vistas/"><u>Professional Urban Street Scenes: High-Quality Imagery & BGs by YL Computing - Your Source for City Vistas</u></a></li>
+<li><a href="https://win11.techidaily.com/top-ranking-windows-11-media-converter-effortlessly-transform-dvds-into-mp4-mkv-and-more/"><u>Top-Ranking Windows 11 Media Converter: Effortlessly Transform DVDs Into MP4, MKV, and More</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-guide-identifying-issues-that-may-cause-your-screen-to-remain-black-insights-from-yl-computing-and-yl-software/"><u>Troubleshooting Guide: Identifying Issues That May Cause Your Screen To Remain Black - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/yl-softwares-quick-how-to-relocating-documents-within-windows-folders-efficiently/"><u>YL Software's Quick How-To: Relocating Documents Within Windows Folders Efficiently</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/yl-softwares-ultimate-troubleshooting-tips-for-correcting-memory-errors-in-windows/"><u>YL Software's Ultimate Troubleshooting Tips for Correcting Memory Errors in Windows</u></a></li>
 </ul></div>
 
