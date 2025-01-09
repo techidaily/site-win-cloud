@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tech Hack - Configuring Your DEX 3 DJ Controller with a Second Screen Setup for Optimal Karaoke Performance
-date: 2024-12-28T17:25:52.976Z
-updated: 2024-12-29T17:36:41.423Z
+date: 2025-01-03T00:46:30.008Z
+updated: 2025-01-09T00:22:50.171Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,19 +42,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>[New] Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-enhance-visibility-amplify-impact-video-seo/"><u>[New] In 2024, Enhance Visibility, Amplify Impact (Video SEO)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-full-breakdown-mastering-facetune-for-photo-enhancement/"><u>[New] The Full Breakdown Mastering Facetune for Photo Enhancement</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-advice-on-flawless-ipad-screen-captures/"><u>[Updated] Expert Advice on Flawless iPad Screen Captures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-critical-appraisal-chatgpt-and-its-8-major-flaws/"><u>A Critical Appraisal: ChatGPT and Its 8 Major Flaws</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/cryptosphere-roundup-key-developments-in-digital-assets-this-weekend-reviewed-by-yl-software-experts/"><u>Cryptosphere Roundup: Key Developments in Digital Assets This Weekend Reviewed by YL Software Experts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/direct-twitter-media-transfer-to-whatsapp/"><u>Direct Twitter Media Transfer to WhatsApp</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/download-the-latest-pcdj-dex-37-public-beta-advanced-djing-with-textimagevideo-overlays/"><u>Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-pdf-viewing-on-windows-systems-a-comprehensive-tutorial-by-yl-software-professionals/"><u>Effortless PDF Viewing on Windows Systems: A Comprehensive Tutorial by YL Software Professionals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/email-account-search-strategies-steps-to-locate-your-unknown-login-details/"><u>Email Account Search Strategies: Steps to Locate Your Unknown Login Details</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/navigating-the-risks-of-digital-asset-portfolios-your-guide-to-secure-cryptocurrency-ventures-by-yl-software/"><u>Navigating the Risks of Digital Asset Portfolios: Your Guide to Secure Cryptocurrency Ventures by YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/networking-your-printer-a-step-by-step-guide-yl-software-solutions/"><u>Networking Your Printer: A Step-by-Step Guide - YL Software Solutions</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/new-tricks-for-powering-up-your-iphone-1514-following-a-data-swap-fiasco/"><u>New Tricks for Powering Up Your iPhone 15/14 Following a Data Swap Fiasco!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/verifying-your-digital-wallets-crypto-assets-a-step-by-step-guide-with-yl-computing/"><u>Verifying Your Digital Wallet's Crypto Assets - A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-drone-footage-showdown-dji-mavic-2-vs-gopro-hero6-black/"><u>[New] 2024 Approved Drone Footage Showdown DJi Mavic 2 Vs GoPro Hero6 Black</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>[Updated] In 2024, Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-media-consumption-enable-automatic-playback-of-youtube-content-on-fb-for-2024/"><u>[Updated] Seamless Media Consumption Enable Automatic Playback of YouTube Content on FB for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/chinese-envoy-demands-legal-action-as-japan-addresses-phone-misconduct-targeting-beijings-embassy/"><u>Chinese Envoy Demands Legal Action as Japan Addresses Phone Misconduct Targeting Beijing's Embassy</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/common-issues-with-non-responsive-mice-explained-by-yl-computings-software-solutions-team/"><u>Common Issues with Non-Responsive Mice Explained by YL Computing's Software Solutions Team</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/finding-and-using-the-device-manager-in-windows-a-quick-guide-by-yl-software-experts/"><u>Finding & Using the Device Manager in Windows: A Quick Guide by YL Software Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-x50-gt-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X50 GT Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-exploring-televised-facebook-live-4-strategies/"><u>In 2024, Exploring Televised Facebook Live 4 Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-fixing-xc0351000-issue-absence-of-hyprocvisor/"><u>Methods for Fixing XC0351000 Issue - Absence of Hyprocvisor</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solving-the-common-issue-of-paper-jams-in-printers-expert-advice-from-yl-software-solutions/"><u>Solving the Common Issue of Paper Jams in Printers - Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://techidaily.com/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/"><u>The Essential Tutorial: Convert Strings with Base64 in the Linux Environment</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-eerie-computer-noises-solutions-for-quieter-operation-with-yl-software-insights/"><u>Troubleshooting Eerie Computer Noises: Solutions for Quieter Operation with YL Software Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Sony Xperia 1 V? | Dr.fone</u></a></li>
 </ul></div>
 

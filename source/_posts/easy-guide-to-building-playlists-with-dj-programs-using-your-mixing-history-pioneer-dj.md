@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Building Playlists with DJ Programs Using Your Mixing History - Pioneer DJ
-date: 2024-12-24T16:07:08.523Z
-updated: 2024-12-29T17:17:45.916Z
+date: 2025-01-01T20:22:25.313Z
+updated: 2025-01-08T17:01:57.566Z
 tags:
   - product
 categories:
@@ -19,13 +19,13 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to create a playlist or sidelist from a specific gig’s history
@@ -41,7 +41,7 @@ The combination of the new date and time stamped history list, and the ability t
 **Watch: How To Generate Playlists From History In RED Mobile 3 or DEX 3**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,20 +63,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/creatingplaylistsfromhisto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-android-and-ios-leading-titles-mimicking-playstation-games-for-2024/"><u>[New] Android & iOS Leading Titles Mimicking PlayStation Games for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/resh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content-for-2024/"><u>[New] Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-high-definition-recording-mastering-live-footage-using-logitech-cam/"><u>[New] In 2024, High Definition Recording Mastering Live Footage Using Logitech Cam</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-impact-strategies-for-going-viral-on-instagram-for-2024/"><u>[New] Maximizing Impact Strategies for Going Viral on Instagram for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-path-to-perfect-streams-streamlabs-plus-obs-for-mac-users/"><u>[New] The Path to Perfect Streams Streamlabs + OBS for Mac Users</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ensuring-optimal-ram-operation-on-your-desktop-or-laptop-expert-advice-from-coretech-solutions/"><u>Ensuring Optimal RAM Operation on Your Desktop or Laptop: Expert Advice From CoreTech Solutions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fixing-damaged-files-a-step-by-step-guide-by-yl-computing/"><u>Fixing Damaged Files: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-your-vantage-point-to-the-worlds-sharing-immersive-photos-online/"><u>In 2024, From Your Vantage Point to the World's Sharing Immersive Photos Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/macvideo-editor/"><u>MacVideo Editor</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/pcdj-masterclass-beats-matching-and-sync-techniques-with-bpm-guide/"><u>PCDJ Masterclass - Beats Matching & Sync Techniques with BPM Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/professional-urban-street-scenes-high-quality-imagery-and-bgs-by-yl-computing-your-source-for-city-vistas/"><u>Professional Urban Street Scenes: High-Quality Imagery & BGs by YL Computing - Your Source for City Vistas</u></a></li>
-<li><a href="https://win11.techidaily.com/top-ranking-windows-11-media-converter-effortlessly-transform-dvds-into-mp4-mkv-and-more/"><u>Top-Ranking Windows 11 Media Converter: Effortlessly Transform DVDs Into MP4, MKV, and More</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-guide-identifying-issues-that-may-cause-your-screen-to-remain-black-insights-from-yl-computing-and-yl-software/"><u>Troubleshooting Guide: Identifying Issues That May Cause Your Screen To Remain Black - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-softwares-quick-how-to-relocating-documents-within-windows-folders-efficiently/"><u>YL Software's Quick How-To: Relocating Documents Within Windows Folders Efficiently</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-softwares-ultimate-troubleshooting-tips-for-correcting-memory-errors-in-windows/"><u>YL Software's Ultimate Troubleshooting Tips for Correcting Memory Errors in Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-complete-guide-icloud-drives-desktop-anddocuments-access-in-sierra/"><u>[New] [Complete Guide] iCloud Drive’s Desktop &Documents Access in Sierra</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-straightforward-strategies-for-podcast-streaming/"><u>[New] 2024 Approved Straightforward Strategies for Podcast Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-10-video-editors-webcams-reimagined/"><u>[New] 2024 Approved Ultimate 10 Video Editors Webcams Reimagined</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-premier-filmmakers-digital-backdrop-changer/"><u>[Updated] Premier Filmmaker's Digital Backdrop Changer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtubes-best-font-choices-for-striking-thumbnails/"><u>[Updated] YouTube's Best Font Choices for Striking Thumbnails</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/are-you-ready-for-the-upgrade-to-windows-11-ensuring-your-sound-card-works-with-yls-insights/"><u>Are You Ready for the Upgrade to Windows 11? Ensuring Your Sound Card Works with YL's Insights</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/can-you-swap-out-a-defective-graphics-card-expert-advice-from-yl-computing/"><u>Can You Swap Out a Defective Graphics Card? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enabling-scanner-functionality-in-your-pc-a-comprehensive-guide-by-yl-computing/"><u>Enabling Scanner Functionality in Your PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/exploring-legal-considerations-for-cryptocurrency-investments-a-guide-by-yl-computing/"><u>Exploring Legal Considerations for Cryptocurrency Investments: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/high-definition-wallpaper-collections-professional-hd-photo-backgrounds-from-yl-computing/"><u>High-Definition Wallpaper Collections: Professional HD Photo Backgrounds From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/identifying-common-indicators-of-motherboard-issues-insights-from-yl-computing/"><u>Identifying Common Indicators of Motherboard Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/key-milestones-in-the-chinese-cultural-revolution-insights-and-analysis-by-yl-computing/"><u>Key Milestones in the Chinese Cultural Revolution: Insights & Analysis by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/stunning-bmw-7-series-2019-high-definition-wallpaper-and-desktop-backgrounds-image-collection-by-yl-computing/"><u>Stunning BMW 7 Series 2019 High-Definition Wallpaper & Desktop Backgrounds - Image Collection by YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/synchronize-successfully-5-steps-for-data-migration/"><u>Synchronize Successfully 5 Steps for Data Migration</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209704100-9780486840871-the-tarot-of-the-bohemians/"><u>The Tarot of the Bohemians | Free Book</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-maldives-visuals-for-your-screen-premium-hd-walls-photos-and-pictures-from-yl-softwares-image-library/"><u>Ultimate Maldives Visuals for Your Screen: Premium HD Walls, Photos & Pictures From YL Software's Image Library</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/under-2000-how-the-sony-a80l-oled-smashes-expectations-with-stunning-ai-enhanced-upscaling-a-game-changer-reviewed/"><u>Under $2,000: How the Sony A80L OLED Smashes Expectations with Stunning AI-Enhanced Upscaling - A Game Changer Reviewed!</u></a></li>
 </ul></div>
 

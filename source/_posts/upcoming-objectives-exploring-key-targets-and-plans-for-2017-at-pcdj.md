@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Objectives: Exploring Key Targets and Plans for 2017 at PCDJ"
-date: 2024-12-24T17:00:09.711Z
-updated: 2024-12-29T17:14:44.581Z
+date: 2025-01-05T16:02:51.284Z
+updated: 2025-01-09T01:12:25.015Z
 tags:
   - product
 categories:
@@ -26,6 +26,10 @@ The DJ software and karaoke software markets are more competitive today than eve
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Goals For PCDJ In 2017
 
 ##### MAC & Windows DJ Software Lineup: DEX 3, DEX 3 RE and DEX 3 LE
@@ -33,6 +37,10 @@ The DJ software and karaoke software markets are more competitive today than eve
 [Release version 3.8](https://tools.techidaily.com/pcdj/products/) — A major core upgrade to our [DEX 3 lineup](https://tools.techidaily.com/pcdj/products/), 3.8 will strengthen existing features while bringing DJs a new beat-lock/sequencing engine that will account for varied tempo changes and as such, work better with more genres and abstract beats. A new advanced method for correcting and editing BPMs and the beat-grid will also be included.
 
 [LEARN MORE ABOUT DEX 3 ![Video Mixing With DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/videomixingdex3.jpg?fit=300%2C167&ssl=1 "Video Mixing With DEX 3")](https://tools.techidaily.com/pcdj/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Users will receive new “daytime” editions of the default DEX 3 skins as well as an additional skin update that will provide direct access to [text, image and video overlays](https://tools.techidaily.com/pcdj/products/) and their controls.
 
@@ -52,10 +60,6 @@ When we set out to create the DEX 3 and DEX 3 RE platform two years ago we alrea
 
 [VIEW DJ DEX APP TEASER ![DEX DJ app for iOS and Android](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/ios-app-teaser2.jpg?fit=300%2C300&ssl=1 "DEX DJ app for iOS and Android")](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The way our DJ software is coded allows for deployment on any OS. It comes down to the interface and just a few custom tweaks.
 
 We posted a teaser a few weeks back about our revamped, and truly totally new, DJ DEX app for iOS (Android will come shortly after) that you can check out [here](https://tools.techidaily.com/pcdj/products/).
@@ -70,15 +74,15 @@ We also plan to support the Pulselocker music subscription service in DJ DEX, pr
 
 [LEARN MORE ABOUT KARAOKI ![Karaoke Software at Club](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/03/karaoki-withcloud-in-club.jpg?fit=300%2C225&ssl=1 "Karaoki Karaoke Software At Club")](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We’ve partnered up with KaraoQ to offer in-Karaoki support for their modern remote singer/song request system. Initial support was released in the previous Karaoki public beta, but the public will finally be able to get their hands on this game-changing combination. KaraoQ also facilitates many capabilities not found in similar systems on the market, such as enabling singers to pay for bumps, tip the DJ and a full-fledged marketing option for KJs and venues. [Bang it here to learn more about KaraoQ](https://karaoq.com/).
 
 As part of the KaraoQ partnership we will also bring KaraoQ360 to market, a subscription based platform that includes a seamless integration of Karaoki, KaraoQ and [Karaoke Cloud Pro](https://tools.techidaily.com/pcdj/products/). A trifecta of products that encompass everything a new KJ or karaoke venue needs to start hosting a karaoke night straight away.
 
 [LEARN ABOUT KARAOQ ![KaraoQ remote request system](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/karaoq-for-djs-screen.png?fit=300%2C225&ssl=1 "KaraoQ remote request system")](http://www.karaoq.com)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A new karaoke store will be integrated in Karaoki for ala carte and on-the-fly purchasing and download.
 
@@ -93,7 +97,7 @@ LYRX has already found a home with KJs using MACs. While LYRX was originally des
 [LEARN MORE ABOUT LYRX ![Karaoke Software For MAC LYRX](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/MacBook_Pro_lyrx.png?fit=300%2C170&ssl=1 "LYRX Karaoke Software For MAC")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX is essentially DEX 3 as it uses the same underlying code, but with only the karaoke capabilities and single-deck support. Thus when we upgrade DEX 3 to support the new karaoke-specific features we listed above LYRX will receive the same treatment. LYRX will be the go-to solution for hosting karaoke on a MAC by the end of the year – write it down! 😉
@@ -103,7 +107,7 @@ LYRX is essentially DEX 3 as it uses the same underlying code, but with only the
 [LEARN MORE ABOUT PULSELOCKER ![Pulselocker Logo In Black](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/10/pulselocker-logo_h_black.png?fit=216%2C174&ssl=1 "Pulselocker Logo In Black")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Pulselocker:**
@@ -127,10 +131,6 @@ Digitrax Entertainment, the company behind the [Karaoke Cloud Pro](https://tools
 **The Video Pool:**
 
 [LEARN MORE ABOUT THE VIDEO POOL ![Join The Video Pool Now!](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/06/thevideopoolpage_image3.png?fit=230%2C187&ssl=1 "thevideopoolpage_image3")](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Our partners at [The Video Pool](https://tools.techidaily.com/pcdj/products/) plan to make their music video subscription service in-app accessible sometime in 2017\. Just like Pulselocker, it would allow our crack team of coders to integrate the subscription in the DEX 3 browser so VDJs can search, stream and download music videos directly.
 
@@ -157,20 +157,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/01/pcdjlookahead2017-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-secret-sauce-for-successful-youtubers-channel-featuring-techniques/"><u>[Updated] In 2024, The Secret Sauce for Successful YouTubers Channel Featuring Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-innovative-stride-solutions-top-vr-treadmills-reviewed/"><u>2024 Approved Innovative Stride Solutions Top VR Treadmills Reviewed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-tips-and-tricks-for-easily-finding-your-youtube-comments/"><u>2024 Approved Tips & Tricks for Easily Finding Your YouTube Comments</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Xiaomi Redmi 12</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/common-issues-with-non-responsive-mice-explained-by-yl-computings-software-solutions-team/"><u>Common Issues with Non-Responsive Mice Explained by YL Computing's Software Solutions Team</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/half-price-premium-sound-from-yamaha-over-1000-jbl-top-pick-for-budget-friendly-hifi-enthusiasts/"><u>Half-Price Premium Sound From Yamaha Over $1,000 JBL – Top Pick for Budget-Friendly HiFi Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-y100-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo Y100 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/pcdjs-must-watch-music-vids-for-april-unveiling-our-curated-top-20-playlist-at-the-video-pool/"><u>PCDJ's Must-Watch Music Vids for April: Unveiling Our Curated Top 20 Playlist at The Video Pool!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-accessing-your-installed-applications-via-windows-control-panel/"><u>Step-by-Step Guide: Accessing Your Installed Applications via Windows Control Panel</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/stunning-squid-game-backdrops-and-desktop-scenarios-high-quality-visuals-by-yl-computings-expertise/"><u>Stunning Squid Game Backdrops & Desktop Scenarios: High-Quality Visuals by YL Computing's Expertise</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/swift-restoration-of-exchange-dbs-using-stellar/"><u>Swift Restoration of Exchange DBs Using Stellar</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-windows-hardware-compatibility-concerns-insights-and-tips-yl-computing-experts/"><u>Troubleshooting Window's Hardware Compatibility Concerns: Insights and Tips – YL Computing Experts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultra-hd-hatsune-miku-alive-with-vocaloid-4-features-premium-4k-desktop-background-for-enthusiasts-by-yl-technologies/"><u>Ultra HD Hatsune Miku Alive with Vocaloid 4 Features: Premium 4K Desktop Background for Enthusiasts by YL Technologies</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/yl-software-solutions-troubleshooting-guide-to-correct-common-application-glitches/"><u>YL Software Solutions: Troubleshooting Guide to Correct Common Application Glitches</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-softwares-step-by-step-tutorial-on-converting-fiat-to-crypto-investments/"><u>YL Software's Step-by-Step Tutorial on Converting Fiat to Crypto Investments</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-livestreaming-options-outside-of-obs-for-2024/"><u>[New] Cutting Edge Livestreaming Options Outside of OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-bridging-past-video-to-present-streaming-live-via-facebook/"><u>[New] In 2024, Bridging Past Video to Present Streaming Live via Facebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-structuring-panels-for-productive-interviews/"><u>[Updated] 2024 Approved Structuring Panels for Productive Interviews</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-eco-friendly-filming-tech-mastery-guide-for-2024/"><u>[Updated] Top Eco-Friendly Filming Tech Mastery Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-spark-20-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Spark 20 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728505486492-ssd/"><u>効率的なクルシアルのSSDに最適化したデータ転送フリーソフトウェア</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/behebung-des-problems-acronis-geklonte-festplatte-bootet-nicht-expertenrat-fur-dauerhafte-problemlosung/"><u>Behebung Des Problems: Acronis-Geklonte Festplatte Bootet Nicht – Expertenrat Für Dauerhafte Problemlösung</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deciphering-board-expansion-slot-support-and-features/"><u>Deciphering Board Expansion Slot Support and Features</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/decoding-sudden-pc-crashes-a-comprehensive-guide/"><u>Decoding Sudden PC Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>In 2024, Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/mantap-dan-rinci-tutorial-penumpuhan-gadget-usb-di-atas-layar-dengan-cmd/"><u>Mantap Dan Rinci Tutorial Penumpuhan Gadget USB Di Atas Layar Dengan CMD</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/restauration-complete-des-informations-sur-un-disque-dur-dordinateur-portable-hs-methodes-detaillees/"><u>Restauration Complète Des Informations Sur Un Disque Dur D'ordinateur Portable HS : Méthodes Détaillées</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-3-methods-to-secure-your-files-with-a-password-on-windows-11/"><u>Top 3 Methods to Secure Your Files with a Password on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-2023-guide-to-your-updated-lg-bp550-for-2024/"><u>Ultimate 2023 Guide to Your Updated LG BP550 for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-restoration-tips-how-to-find-lost-fonts-post-windows-10-creators-upgrade/"><u>Ultimate Restoration Tips: How to Find Lost Fonts Post-Windows 10 Creators Upgrade</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wireless-data-transfer-wie-man-daten-vom-iphone-zum-iphone-14-uberspielt/"><u>Wireless Data Transfer: Wie Man Daten Vom iPhone Zum iPhone 14 Überspielt</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Mixing Sessions: Denon DN-HC4500 Script Updates Now Optimized for DEX 3 & RED Mobile 3 Stations!"
-date: 2024-12-26T17:18:54.657Z
-updated: 2024-12-29T17:05:53.299Z
+date: 2025-01-06T18:47:30.836Z
+updated: 2025-01-08T21:05:24.019Z
 tags:
   - product
 categories:
@@ -30,7 +30,7 @@ The biggest change is that while in the “scratch jog mode” the platters now 
 _**IMPORTANT NOTE: Unzip DJ Controller Script Files To Controllers Folder In the DEX Program Folder/App Folder Replacing The Old Script (overwrite) -> Do Not Unzip To Controllers Folder In Documents. These scripts will also be included in our upcoming 3.4 update for DEX 3 and RED Mobile 3\.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -52,21 +52,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/newhc4500scripts-blogcover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-social-media-hash-tracking-software-fb-tweet-and-ig-edition/"><u>[New] In 2024, Top Social Media Hash Tracking Software FB, Tweet & IG Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-x9b-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor X9b to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/djing-made-easy-upgraded-dex-3-le-and-red-editions-now-at-version-361/"><u>DJing Made Easy: Upgraded DEX 3 LE & Red Editions Now at Version 3.6.1</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/download-premium-hd-wallpapers-for-pcmac-professional-photos-and-eye-catching-background-pictures-yl-software-solutions/"><u>Download Premium HD Wallpapers for PC/Mac: Professional Photos & Eye-Catching Background Pictures | YL Software Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-enhanced-performance-free-windows-11-drivers-for-intel-iris-xe-graphics-now-available/"><u>Get Enhanced Performance: [Free] Windows 11 Drivers for Intel Iris XE Graphics Now Available</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-can-i-fix-a-fluctuating-sluggish-wi-fi-or-ethernet-link-a-guide-by-yl-software/"><u>How Can I Fix a Fluctuating, Sluggish Wi-Fi or Ethernet Link: A Guide by YL Software</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 15/iPad | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-navigating-frames-per-second-in-video-recording-the-3060-dilemma/"><u>In 2024, Navigating Frames Per Second in Video Recording - The 30/60 Dilemma</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quick-guide-capturing-time-lapse-on-your-ipad/"><u>In 2024, Quick Guide Capturing Time Lapse on Your iPad</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-7-plus-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 7 Plus Activation Lock</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/navigating-the-future-with-blockchain-smart-investment-tips-from-yl-software-experts/"><u>Navigating the Future with Blockchain: Smart Investment Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/preventing-cpu-breakdowns-with-expert-strategies-by-yl-software-experts/"><u>Preventing CPU Breakdowns with Expert Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/switching-from-internal-to-external-audio-a-step-by-step-guide-tips-by-yl-computing/"><u>Switching From Internal to External Audio: A Step-by-Step Guide - Tips by YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-basketball-decor-kyrie-irving-inspired-nets-wallpapers-by-yl-computing-elevate-your-rooms-game/"><u>Ultimate Basketball Decor: Kyrie Irving Inspired Nets Wallpapers by YL Computing – Elevate Your Room's Game!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-stable-fifa-22-gaming-experience-on-windowsmac/"><u>Ultimate Solution for Stable FIFA 22 Gaming Experience on Windows/Mac</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-display-intels-new-iris-plus-655-gpu-drivers-for-windows-10-and-11-users/"><u>Upgrade Your Display: Intel's New Iris Plus 655 GPU Drivers for WINDOWS 10 & 11 Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimizing-engagement-using-cards-and-annotations/"><u>[Updated] In 2024, Optimizing Engagement Using Cards and Annotations</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-lost-your-previous-yahoo-mail-messages-discover-how-to-retrieve-them-now/"><u>1. Lost Your Previous Yahoo Mail Messages? Discover How to Retrieve Them Now!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhancing-professionalism-blurring-teambackgrounds-effectively/"><u>2024 Approved Enhancing Professionalism Blurring TeamBackgrounds Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ace-tiktok-live-leveraging-zoom-capabilities-for-2024/"><u>Ace TikTok Live Leveraging Zoom Capabilities for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-8t-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Play 8T PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-v30-lite-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo V30 Lite 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/preheating/"><u>Preheating</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/recupero-di-unita-eliminate-o-perdute-in-windows-11-passaggi-semplici-per-la-guida/"><u>Recupero Di Unità Eliminate O Perdute in Windows 11 - Passaggi Semplici per La Guida</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/seamless-ssd-transfer-a-step-by-step-guide-from-old-laptop-to-new/"><u>Seamless SSD Transfer: A Step-by-Step Guide From Old Laptop to New</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/spark-your-spirit-a-collection-of-10-uplifting-movies/"><u>Spark Your Spirit A Collection of 10 Uplifting Movies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-overview-of-dfu-mode-on-iphones-and-easy-steps-to-follow/"><u>The Complete Overview of DFU Mode on iPhones & Easy Steps to Follow</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wiederherstellung-von-ungelesenen-geloschten-oder-beschadigten-pdf-dokumenten/"><u>Wiederherstellung Von Ungelesenen, Gelöschten Oder Beschädigten PDF-Dokumenten</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays
-date: 2024-12-28T16:27:31.898Z
-updated: 2024-12-29T16:27:30.393Z
+date: 2025-01-03T21:15:24.353Z
+updated: 2025-01-09T02:34:15.304Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,20 +77,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-to-mp4-conversion-made-simple/"><u>[New] In 2024, Vimeo to MP4 Conversion Made Simple</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-techniques-and-strategies-for-swift-removal-of-comments-for-2024/"><u>[Updated] Techniques and Strategies for Swift Removal of Comments for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-time-loop-video-recovery-explained/"><u>2024 Approved YouTube's Time Loop Video Recovery Explained</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-computings-analysis/"><u>详解宋代末年政治与文化改革 - YL Computing's Analysis</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-tech-troubleshooting-learn-how-to-refresh-video-card-drivers-with-guidance-from-yl-software-professionals/"><u>Easy Tech Troubleshooting: Learn How to Refresh Video Card Drivers with Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/elegant-icon-set-featuring-classic-red-designs-by-yl-computing-your-trusted-source-for-professional-graphics/"><u>Elegant Icon Set Featuring Classic Red Designs by YL Computing - Your Trusted Source for Professional Graphics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-top-5-drone-vr-set-matchups-for-2024/"><u>Exclusive Top 5 Drone-VR Set Matchups for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-auto-gpt-vs-chatgpt-what-sets-them-apart/"><u>Exploring the World of Auto-GPT vs ChatGPT: What Sets Them Apart?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/flv-video-editor-for-windows-8-a-comprehensive-review/"><u>FLV Video Editor for Windows 8 A Comprehensive Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-top-5-ios-apps-for-podcasting/"><u>In 2024, Ideal Top 5 iOS Apps for Podcasting</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/securing-your-digital-coins-strategies-by-yls-tech-gurus-for-investment-safety/"><u>Securing Your Digital Coins: Strategies by YL's Tech Gurus for Investment Safety</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/success-fix-applied-now-you-can-log-into-your-origin-account/"><u>Success! Fix Applied: Now You Can Log Into Your Origin Account</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-system-crashes-for-a-stable-experience-with-yl-software-solutions/"><u>Troubleshooting System Crashes for a Stable Experience with YL Software Solutions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-race-realism-5-favorites-for-2024/"><u>Ultimate Race Realism 5 Favorites for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unbeatable-deal-ends-soon-get-thousands-of-karaoke-tracks-at-just-050-each-order-before-july-31st/"><u>Unbeatable Deal Ends Soon: Get Thousands of Karaoke Tracks at Just $0.50 Each - Order Before July 31St!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-training-harnessing-the-power-of-adobe-captivates-screen-record-feature-for-2024/"><u>[New] Ultimate Training Harnessing the Power of Adobe Captivate's Screen Record Feature for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quickscreenrecorder-easy-captures-anytime/"><u>[Updated] 2024 Approved QuickScreenRecorder Easy Captures, Anytime</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-portrait-perfection-free-official-passport-image-generator-download/"><u>[Updated] In 2024, Portrait Perfection Free, Official Passport Image Generator Download</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-ten-youtube-regulations-to-abide-by-for-2024/"><u>[Updated] Top Ten YouTube Regulations to Abide By for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-picture-talk-engineer/"><u>2024 Approved Picture Talk Engineer</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/usb/"><u>暗号化USBメモリから重要なデータを取り出せる方法</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/bridging-vms-a-step-by-step-guide-on-linking-two-virtual-machines/"><u>Bridging VMs: A Step-by-Step Guide on Linking Two Virtual Machines</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-how-to-for-constructing-bootable-windows-server-2022-media-via-usb-the-definitive-guide/"><u>Comprehensive How-To for Constructing Bootable Windows Server 2022 Media via USB – The Definitive Guide!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fehlerbehebung-fur-das-problem-dass-onedrive-eine-pst-datei-nicht-speichert/"><u>Fehlerbehebung Für Das Problem, Dass OneDrive Eine PST-Datei Nicht Speichert</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-free-ebooks-from-drm-on-your-kindle-device-step-by-step-guide/"><u>How to Free Ebooks From DRM on Your Kindle Device - Step by Step Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/instant-fixes-for-the-critical-error-code-0xc0000225-on-windows-ebox/"><u>Instant Fixes for the Critical Error Code 0Xc0000225 on Windows Ebox</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-like-a-pro-video-file-editing-on-mac-os-x-yosemite-made-easy-for-2024/"><u>New Edit Like a Pro Video File Editing on Mac OS X Yosemite Made Easy for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solucion-efectiva-para-la-falta-de-instalacion-del-software-de-migracion-de-datos-de-samsung-en-windows/"><u>Solución Efectiva Para La Falta De Instalación Del Software De Migración De Datos De Samsung en Windows</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728485811692-synology-nas/"><u>Synology NAS 系统上如何进行渐进式备份 - 三种有效手段</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-10-free-video-downloaders-for-your-iphone-the-ultimate-list/"><u>Top 10 FREE Video Downloaders for Your iPhone: The Ultimate List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/uncovering-old-facebook-stories-with-ease-for-2024/"><u>Uncovering Old Facebook Stories with Ease for 2024</u></a></li>
 </ul></div>
 
