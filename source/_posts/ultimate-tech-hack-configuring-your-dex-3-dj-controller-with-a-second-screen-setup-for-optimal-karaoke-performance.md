@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tech Hack - Configuring Your DEX 3 DJ Controller with a Second Screen Setup for Optimal Karaoke Performance
-date: 2025-01-03T00:46:30.008Z
-updated: 2025-01-09T00:22:50.171Z
+date: 2025-01-13T19:50:56.004Z
+updated: 2025-01-14T16:33:16.043Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,18 +42,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-drone-footage-showdown-dji-mavic-2-vs-gopro-hero6-black/"><u>[New] 2024 Approved Drone Footage Showdown DJi Mavic 2 Vs GoPro Hero6 Black</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>[Updated] In 2024, Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-media-consumption-enable-automatic-playback-of-youtube-content-on-fb-for-2024/"><u>[Updated] Seamless Media Consumption Enable Automatic Playback of YouTube Content on FB for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/chinese-envoy-demands-legal-action-as-japan-addresses-phone-misconduct-targeting-beijings-embassy/"><u>Chinese Envoy Demands Legal Action as Japan Addresses Phone Misconduct Targeting Beijing's Embassy</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/common-issues-with-non-responsive-mice-explained-by-yl-computings-software-solutions-team/"><u>Common Issues with Non-Responsive Mice Explained by YL Computing's Software Solutions Team</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/finding-and-using-the-device-manager-in-windows-a-quick-guide-by-yl-software-experts/"><u>Finding & Using the Device Manager in Windows: A Quick Guide by YL Software Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-x50-gt-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X50 GT Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-exploring-televised-facebook-live-4-strategies/"><u>In 2024, Exploring Televised Facebook Live 4 Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-fixing-xc0351000-issue-absence-of-hyprocvisor/"><u>Methods for Fixing XC0351000 Issue - Absence of Hyprocvisor</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/solving-the-common-issue-of-paper-jams-in-printers-expert-advice-from-yl-software-solutions/"><u>Solving the Common Issue of Paper Jams in Printers - Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/"><u>The Essential Tutorial: Convert Strings with Base64 in the Linux Environment</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-eerie-computer-noises-solutions-for-quieter-operation-with-yl-software-insights/"><u>Troubleshooting Eerie Computer Noises: Solutions for Quieter Operation with YL Software Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-complete-blueprint-for-effortless-recording-of-live-hulu-on-various-systems-for-2024/"><u>[New] A Complete Blueprint for Effortless Recording of Live Hulu on Various Systems for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-sound-painting-on-snapchat-shift-your-vocal-landscape-swiftly/"><u>[New] In 2024, Sound Painting on Snapchat Shift Your Vocal Landscape Swiftly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-connect-and-conquer-tips-for-eternal-snapstreaks/"><u>[Updated] 2024 Approved Connect and Conquer Tips for Eternal Snapstreaks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-virtual-ride-wonders-select-your-favorites/"><u>[Updated] In 2024, Virtual Ride Wonders Select Your Favorites</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728504395438-google-3/"><u>「お手数ですが、こちらは Google スプレッドシート再生方法3通り」</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-list-the-leading-gaming-systems/"><u>2024'S Ultimate List: The Leading Gaming Systems</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/komplizierungsfreie-datentransferstrategien-kopieren-von-daten-direkt-vom-pc-auf-ein-mac-system/"><u>Komplizierungsfreie Datentransferstrategien: Kopieren Von Daten Direkt Vom PC Auf Ein Mac-System</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-guide-to-free-image-redundancy-applications-compatible-with-all-windows-os-windows-7-to-11/"><u>Ultimate Guide to Free Image Redundancy Applications Compatible with All Windows OS (Windows 7 to 11)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncover-the-best-android-photo-editor-does-picku-stand-out/"><u>Uncover the Best Android Photo Editor – Does PickU Stand Out?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728497788414-windows-11-10-8-7/"><u>Windows 11, 10, 8, 7 - 自動的なファイルバックアップ設定方法</u></a></li>
 </ul></div>
 

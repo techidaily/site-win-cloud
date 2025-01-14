@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Discover the New DEX Version 3.8 RC - Free Trial for Enthusiasts!"
-date: 2025-01-07T21:08:00.477Z
-updated: 2025-01-08T19:59:51.768Z
+date: 2025-01-13T19:58:54.960Z
+updated: 2025-01-14T16:29:30.164Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,24 +79,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-one-by-one-instagram-showcase/"><u>[New] In 2024, One-by-One Instagram Showcase</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-comprehensive-guide-to-best-screen-capturing-apps/"><u>[Updated] Comprehensive Guide to Best Screen Capturing Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-gpu-excellence-in-4k-gameplay-experience-for-2024/"><u>[Updated] GPU Excellence in 4K Gameplay Experience for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-leveraging-instagrams-music-icon-feature-effectively/"><u>[Updated] Leveraging Instagram’s Music Icon Feature Effectively</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mi-11-tech-specs-unveiled-with-advanced-screen-capture/"><u>2024 Approved Mi 11 Tech Specs Unveiled with Advanced Screen Capture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-chatgpts-proficiency-in-crafting-cocktails/"><u>Evaluating ChatGPT's Proficiency in Crafting Cocktails</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-driver-downloads-and-installation-guide-for-epson-es-400-scanners-on-windows-machines/"><u>Free Driver Downloads & Installation Guide for Epson ES-400 Scanners on Windows Machines</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-confirm-the-trustworthiness-and-safety-of-android-apps-before-downloading/"><u>How to Confirm the Trustworthiness and Safety of Android Apps Before Downloading.</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-the-rope-engaging-with-windows-11-insider-program/"><u>Learn the Rope: Engaging with Windows 11 Insider Program</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/malwarefox-rootkit-scanner-effortless-detection-and-elimination-software/"><u>MalwareFox Rootkit Scanner: Effortless Detection & Elimination Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-guide-speedy-techniques-for-cd-burning-and-conversion/"><u>Quick Guide: Speedy Techniques for CD Burning and Conversion</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/simple-techniques-to-cleanly-delete-items-from-photographs/"><u>Simple Techniques to Cleanly Delete Items From Photographs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-no-internet-access-issue-top-10-windows-11-troubleshooting-steps-for-wi-fi-connectivity/"><u>Solving 'No Internet Access' Issue: Top 10 Windows 11 Troubleshooting Steps for Wi-Fi Connectivity</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/techniques-enabling-malware-delivery-via-scripting-insights-from-malwarefox/"><u>Techniques Enabling Malware Delivery via Scripting: Insights From MalwareFox</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-5-parent-friendly-cybersecurity-apps-finding-the-perfect-malwarefox-alternative/"><u>Top 5 Parent-Friendly Cybersecurity Apps: Finding the Perfect MalwareFox Alternative</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-methods-for-streaming-your-zoom-video-calls-on-television/"><u>Top Methods for Streaming Your Zoom Video Calls on Television</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-the-difference-spyware-vs-malware-explained-with-malwarefox/"><u>Understanding the Difference: Spyware Vs. Malware Explained with MalwareFox</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unveiling-malwares-purpose-functionality-explained-and-tips-to-protect-your-system-from-infections/"><u>Unveiling Malware's Purpose: Functionality Explained & Tips to Protect Your System From Infections</u></a></li>
-<li><a href="https://win-help.techidaily.com/unveiling-the-mystery-how-did-crowdstrike-trigger-windows-historic-meltdnought-a-detailed-historical-analysis-techworld/"><u>Unveiling the Mystery: How Did CrowdStrike Trigger Windows' Historic Meltdnought ? A Detailed Historical Analysis | TechWorld</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-supercharged-productivity-while-flipping-audio-switches/"><u>[New] Supercharged Productivity While Flipping Audio Switches</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-11-techniques-for-perfecting-color-in-post-production/"><u>[New] Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>[Updated] 2024 Approved Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-lost-your-previous-yahoo-mail-messages-discover-how-to-retrieve-them-now/"><u>1. Lost Your Previous Yahoo Mail Messages? Discover How to Retrieve Them Now!</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/nas-best-free-nas-backup-software/"><u>優れた無料NASバックアップソリューションをご紹介！ - Best Free NAS Backup Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effective-techniques-to-fix-iphones-that-arent-restoring-properly/"><u>Effective Techniques to Fix iPhones That Aren’t Restoring Properly</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/estrategias-efectivas-para-la-sincronizacion-de-archivos-y-directorios-en-temporal-actual-en-los-sistemas-operativos-windows/"><u>Estrategias Efectivas Para La Sincronización De Archivos Y Directorios en Temporal Actual en Los Sistemas Operativos Windows</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-move-and-set-up-windows-similarities-between-cats-and-dogs/"><u>How to Move and Set Up Windows # Similarities Between Cats and Dogs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-c55-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme C55 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/preheating/"><u>Preheating</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/recupero-di-unita-eliminate-o-perdute-in-windows-11-passaggi-semplici-per-la-guida/"><u>Recupero Di Unità Eliminate O Perdute in Windows 11 - Passaggi Semplici per La Guida</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-error-when-opening-sound-device-in-audacity-top-5-fixes/"><u>Resolve 'Error When Opening Sound Device' In Audacity: Top 5 Fixes</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/seamless-ssd-transfer-a-step-by-step-guide-from-old-laptop-to-new/"><u>Seamless SSD Transfer: A Step-by-Step Guide From Old Laptop to New</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-process-of-shifting-information-between-two-iphones-without-needing-an-apple-account/"><u>Step-by-Step Process of Shifting Information Between Two iPhones Without Needing an Apple Account</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-video-popularity-with-essential-seo-aids-for-2024/"><u>Surge Video Popularity with Essential SEO Aids for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-edge-testing-gopros-hero5-black-against-sessions-for-2024/"><u>The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-netatmo-weather-station-connectivity-and-style-combined/"><u>The Ultimate Guide to Choosing a Netatmo Weather Station: Connectivity and Style Combined</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wiederherstellung-von-ungelesenen-geloschten-oder-beschadigten-pdf-dokumenten/"><u>Wiederherstellung Von Ungelesenen, Gelöschten Oder Beschädigten PDF-Dokumenten</u></a></li>
 </ul></div>
 

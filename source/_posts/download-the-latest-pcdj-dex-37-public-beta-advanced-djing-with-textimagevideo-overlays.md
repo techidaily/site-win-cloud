@@ -1,7 +1,7 @@
 ---
 title: Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays
-date: 2025-01-03T21:15:24.353Z
-updated: 2025-01-09T02:34:15.304Z
+date: 2025-01-07T17:05:57.170Z
+updated: 2025-01-14T16:12:36.175Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,21 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-training-harnessing-the-power-of-adobe-captivates-screen-record-feature-for-2024/"><u>[New] Ultimate Training Harnessing the Power of Adobe Captivate's Screen Record Feature for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quickscreenrecorder-easy-captures-anytime/"><u>[Updated] 2024 Approved QuickScreenRecorder Easy Captures, Anytime</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-portrait-perfection-free-official-passport-image-generator-download/"><u>[Updated] In 2024, Portrait Perfection Free, Official Passport Image Generator Download</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-ten-youtube-regulations-to-abide-by-for-2024/"><u>[Updated] Top Ten YouTube Regulations to Abide By for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-picture-talk-engineer/"><u>2024 Approved Picture Talk Engineer</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/usb/"><u>暗号化USBメモリから重要なデータを取り出せる方法</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/bridging-vms-a-step-by-step-guide-on-linking-two-virtual-machines/"><u>Bridging VMs: A Step-by-Step Guide on Linking Two Virtual Machines</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comprehensive-how-to-for-constructing-bootable-windows-server-2022-media-via-usb-the-definitive-guide/"><u>Comprehensive How-To for Constructing Bootable Windows Server 2022 Media via USB – The Definitive Guide!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fehlerbehebung-fur-das-problem-dass-onedrive-eine-pst-datei-nicht-speichert/"><u>Fehlerbehebung Für Das Problem, Dass OneDrive Eine PST-Datei Nicht Speichert</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-free-ebooks-from-drm-on-your-kindle-device-step-by-step-guide/"><u>How to Free Ebooks From DRM on Your Kindle Device - Step by Step Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/instant-fixes-for-the-critical-error-code-0xc0000225-on-windows-ebox/"><u>Instant Fixes for the Critical Error Code 0Xc0000225 on Windows Ebox</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-edit-like-a-pro-video-file-editing-on-mac-os-x-yosemite-made-easy-for-2024/"><u>New Edit Like a Pro Video File Editing on Mac OS X Yosemite Made Easy for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/solucion-efectiva-para-la-falta-de-instalacion-del-software-de-migracion-de-datos-de-samsung-en-windows/"><u>Solución Efectiva Para La Falta De Instalación Del Software De Migración De Datos De Samsung en Windows</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728485811692-synology-nas/"><u>Synology NAS 系统上如何进行渐进式备份 - 三种有效手段</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-10-free-video-downloaders-for-your-iphone-the-ultimate-list/"><u>Top 10 FREE Video Downloaders for Your iPhone: The Ultimate List</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/uncovering-old-facebook-stories-with-ease-for-2024/"><u>Uncovering Old Facebook Stories with Ease for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-youtube-shorts-investments/"><u>[New] 2024 Approved Navigating YouTube Shorts Investments</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlock-facebook-ad-success-with-these-3-adapted-writing-techniques/"><u>[New] 2024 Approved Unlock Facebook Ad Success with These 3 Adapted Writing Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>[New] Top Pick Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-high-definition-zoom-calls-with-filter-skills/"><u>2024 Approved Achieving High-Definition Zoom Calls with Filter Skills</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-comprehensive-review-of-the-lightroom-app-on-android-for-2024/"><u>A Comprehensive Review of the Lightroom App on Android for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-evaluation-of-top-mp4-conversion-websites-as-alternatives-to-video2mp3/"><u>Comprehensive Evaluation of Top MP4 Conversion Websites as Alternatives to Video2MP3</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dissecting-dells-cutting-edge-luna-laptop-a-breakthrough-in-user-centric-building-block-technology-exclusive/"><u>Dissecting Dell's Cutting-Edge Luna Laptop: A Breakthrough in User-Centric, Building Block Technology Exclusive</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-mp3-conversion-of-audible-books-enhance-your-audiobook-experience/"><u>Effortless MP3 Conversion of Audible Books - Enhance Your Audiobook Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460512789-fix-a-glitchy-airdrop-in-no-time-learn-from-our-ultimate-16-tips/"><u>Fix a Glitchy AirDrop in No Time - Learn From Our Ultimate 16 Tips!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-live-broadcasting-simple-strategies-for-high-quality-video-streaming-online/"><u>Master Live Broadcasting: Simple Strategies for High-Quality Video Streaming Online</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mkv-to-xbox-360-format-the-ultimate-guide-for-seamless-video-conversion-tools/"><u>MKV to Xbox 360 Format: The Ultimate Guide for Seamless Video Conversion Tools</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/online-pdf-page-separator-effortlessly-split-and-retrieve-document-pages/"><u>Online PDF Page Separator: Effortlessly Split and Retrieve Document Pages</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-tips-for-converting-youtube-content-to-compatible-3gp-files-smoothly/"><u>Quick Tips for Converting YouTube Content to Compatible 3GP Files Smoothly</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/seamless-connectivity-streaming-content-from-your-iphone-to-philips-television/"><u>Seamless Connectivity: Streaming Content From Your iPhone to Philips Television</u></a></li>
 </ul></div>
 

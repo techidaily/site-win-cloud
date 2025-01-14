@@ -1,7 +1,7 @@
 ---
 title: Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ
-date: 2025-01-06T19:32:27.328Z
-updated: 2025-01-08T23:09:08.306Z
+date: 2025-01-07T21:40:55.713Z
+updated: 2025-01-14T18:30:31.524Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Additionally, the introduction of PADs with versatile modes like Loop Rolls, Sli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 4 Feature Highlights:
@@ -64,7 +64,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 * new controller: RANE Four
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other features:
@@ -91,7 +91,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 **_Stay tuned, we expect to drop DEX 4 very soon!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,20 +113,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2024/08/DEX34-preview-cover.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-crafting-a-top-notch-linkedin-image/"><u>[Updated] 2024 Approved Crafting a Top-Notch LinkedIn Image</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-4k-clarity-redefined-an-intensive-overview-of-the-dell-p2715q-screen/"><u>[Updated] 4K Clarity Redefined An Intensive Overview of the Dell P2715Q Screen</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-newcomers-playbook-for-youtube-success-setup-and-revenue-generation/"><u>[Updated] The Newcomer's Playbook for Youtube Success Setup & Revenue Generation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2023-file-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2023 file</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/599110-9781451629019-cell-level-healing/"><u>Cell-Level Healing | Free Book</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/determining-the-graphics-hardware-in-your-system-with-ease-expert-advice-from-yl-computing/"><u>Determining the Graphics Hardware in Your System with Ease - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/device-drivers-error-43-sorted/"><u>Device Drivers' Error #43 Sorted</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-personalize-mouse-and-touchpad-configuration-via-control-panel-with-guidance-from-yl-computing/"><u>How to Personalize Mouse and Touchpad Configuration via Control Panel with Guidance From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-retrieve-and-reinstall-disappeared-scanner-drivers-in-windows-expert-tips-from-yl-computing/"><u>How to Retrieve and Reinstall Disappeared Scanner Drivers in Windows - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/japanese-central-bank-chief-at-jackson-hole-chinas-economic-woes-could-weigh-down-japan-analysis-by-yl-computing-yl-software/"><u>Japanese Central Bank Chief at Jackson Hole: China's Economic Woes Could Weigh Down Japan – Analysis by YL Computing | YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/managing-speakers-and-sounds-through-pcs-control-panel-expert-guide-by-yl-software/"><u>Managing Speakers and Sounds Through PC's Control Panel: Expert Guide by YL Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-windows-11-like-a-pro-essential-search-hacks-revealed/"><u>Navigate Windows 11 Like a Pro: Essential Search Hacks Revealed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionizing-home-entertainment-toshiba-55-fire-edition-series-unveiled/"><u>Revolutionizing Home Entertainment - Toshiba 55 Fire Edition Series Unveiled</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-guide-fixes-for-malfunctioning-graphics-drivers-tips-by-yl-computing/"><u>Troubleshooting Guide: Fixes for Malfunctioning Graphics Drivers - Tips by YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unlock-the-secrets-to-fix-your-non-responsive-windows-pc-with-yl-software-solutions/"><u>Unlock the Secrets to Fix Your Non-Responsive Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-customizable-mcb-visuals-for-youtube-banners/"><u>[New] 2024 Approved Customizable MCB Visuals for YouTube Banners</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-simplified-hp-laptop-screen-recording-four-effective-ways/"><u>[New] In 2024, Simplified HP Laptop Screen Recording - Four Effective Ways</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pc-compatible-sony-ps3-mimicry-tools-top-picks/"><u>[Updated] In 2024, PC-Compatible Sony PS3 Mimicry Tools Top Picks</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/compatibility-of-pcdj-software-with-windows-11-ensuring-seamless-integration/"><u>Compatibility of PCDJ Software with Windows 11: Ensuring Seamless Integration</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/exploring-legal-frameworks-comprehensive-guide-on-cryptocurrency-regulations-by-yl-computing/"><u>Exploring Legal Frameworks: Comprehensive Guide on Cryptocurrency Regulations by YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/is-it-possible-to-run-multiple-security-solutions-including-windows-defender-together-learn-more-here-yl-software-advice/"><u>Is It Possible to Run Multiple Security Solutions Including Windows Defender Together? Learn More Here | YL Software Advice</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quiz-which-language-is-best-for-you-to-learn-next/"><u>Quiz: Which Language Is Best For You To Learn Next?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-demise-of-dynasty-qin-206-bc-unveiling-historical-triggers-expert-analysis-from-yl-software/"><u>The Demise of Dynasty Qin (206 BC): Unveiling Historical Triggers - Expert Analysis From YL Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-alternative-to-samsungs-360-vr-camera/"><u>Top Alternative to Samsung’s 360 VR Camera</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-cryptocurrency-rules-a-guide-by-yl-computing-your-authority-in-tech-solutions/"><u>Understanding Cryptocurrency Rules: A Guide by YL Computing, Your Authority in Tech Solutions</u></a></li>
 </ul></div>
 
