@@ -1,7 +1,7 @@
 ---
 title: Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ
-date: 2025-01-07T21:40:55.713Z
-updated: 2025-01-14T18:30:31.524Z
+date: 2025-01-14T00:11:37.797Z
+updated: 2025-01-20T20:58:02.812Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Additionally, the introduction of PADs with versatile modes like Loop Rolls, Sli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 4 Feature Highlights:
@@ -64,7 +64,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 * new controller: RANE Four
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other features:
@@ -91,7 +91,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 **_Stay tuned, we expect to drop DEX 4 very soon!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,16 +113,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2024/08/DEX34-preview-cover.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-customizable-mcb-visuals-for-youtube-banners/"><u>[New] 2024 Approved Customizable MCB Visuals for YouTube Banners</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-simplified-hp-laptop-screen-recording-four-effective-ways/"><u>[New] In 2024, Simplified HP Laptop Screen Recording - Four Effective Ways</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pc-compatible-sony-ps3-mimicry-tools-top-picks/"><u>[Updated] In 2024, PC-Compatible Sony PS3 Mimicry Tools Top Picks</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/compatibility-of-pcdj-software-with-windows-11-ensuring-seamless-integration/"><u>Compatibility of PCDJ Software with Windows 11: Ensuring Seamless Integration</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/exploring-legal-frameworks-comprehensive-guide-on-cryptocurrency-regulations-by-yl-computing/"><u>Exploring Legal Frameworks: Comprehensive Guide on Cryptocurrency Regulations by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/is-it-possible-to-run-multiple-security-solutions-including-windows-defender-together-learn-more-here-yl-software-advice/"><u>Is It Possible to Run Multiple Security Solutions Including Windows Defender Together? Learn More Here | YL Software Advice</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quiz-which-language-is-best-for-you-to-learn-next/"><u>Quiz: Which Language Is Best For You To Learn Next?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/the-demise-of-dynasty-qin-206-bc-unveiling-historical-triggers-expert-analysis-from-yl-software/"><u>The Demise of Dynasty Qin (206 BC): Unveiling Historical Triggers - Expert Analysis From YL Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-alternative-to-samsungs-360-vr-camera/"><u>Top Alternative to Samsung’s 360 VR Camera</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-cryptocurrency-rules-a-guide-by-yl-computing-your-authority-in-tech-solutions/"><u>Understanding Cryptocurrency Rules: A Guide by YL Computing, Your Authority in Tech Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fabricate-funny-face-filters-giphy-style/"><u>[New] Fabricate Funny Face Filters Giphy Style</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-precision-in-digital-imaging-a-professionals-approach-for-2024/"><u>[New] Precision in Digital Imaging A Professional's Approach for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-uncovering-if-vlogger-critiques-are-paid/"><u>[Updated] 2024 Approved Uncovering If Vlogger Critiques Are Paid</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafty-laughter-your-adobe-guide/"><u>2024 Approved Crafty Laughter Your Adobe Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fast-techniques-adding-pictures-over-your-videos-step-by-step/"><u>Fast Techniques: Adding Pictures Over Your Videos Step-by-Step</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971414831-get-your-thrustmaster-t300-driving-experience-installers-for-windows-10-and-11-available-now/"><u>Get Your Thrustmaster T300 Driving Experience: Installers for Windows 10 & 11 Available Now!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-quirky-expressions-in-text-master-meme-creation/"><u>In 2024, Quirky Expressions in Text Master Meme Creation</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/innovative-online-platforms-inspired-by-the-unique-charm-of-lastfm/"><u>Innovative Online Platforms Inspired by the Unique Charm of Last.fm</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-the-capture-of-your-epic-battles-how-to-screen-record-in-pubg-mobile-for-iphoneipad-and-android-phones/"><u>Mastering the Capture of Your Epic Battles: How to Screen Record in PUBG Mobile for iPhone/iPad and Android Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-maintaining-video-clarity-while-shrinking-avi-files-in-windows-10/"><u>Ultimate Guide: Maintaining Video Clarity While Shrinking AVI Files in Windows 10</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-strategies-for-safe-internet-surfing-a-compreh/"><u>Ultimate Strategies for Safe Internet Surfing: A Compreh</u></a></li>
+<li><a href="https://solve-news.techidaily.com/unifying-power-how-abbyy-works-with-alteryx-for-enhanced-data-processing/"><u>Unifying Power: How ABBYY Works with Alteryx for Enhanced Data Processing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/user-friendly-photo-manipulation-tools-perfect-for-newbies-in-image-editing/"><u>User-Friendly Photo Manipulation Tools Perfect for Newbies in Image Editing</u></a></li>
 </ul></div>
 

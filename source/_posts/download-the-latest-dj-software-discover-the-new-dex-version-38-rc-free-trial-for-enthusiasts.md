@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Discover the New DEX Version 3.8 RC - Free Trial for Enthusiasts!"
-date: 2025-01-13T19:58:54.960Z
-updated: 2025-01-14T16:29:30.164Z
+date: 2025-01-15T23:16:22.448Z
+updated: 2025-01-20T18:28:17.503Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,24 +79,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-supercharged-productivity-while-flipping-audio-switches/"><u>[New] Supercharged Productivity While Flipping Audio Switches</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-11-techniques-for-perfecting-color-in-post-production/"><u>[New] Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>[Updated] 2024 Approved Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-lost-your-previous-yahoo-mail-messages-discover-how-to-retrieve-them-now/"><u>1. Lost Your Previous Yahoo Mail Messages? Discover How to Retrieve Them Now!</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/nas-best-free-nas-backup-software/"><u>優れた無料NASバックアップソリューションをご紹介！ - Best Free NAS Backup Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effective-techniques-to-fix-iphones-that-arent-restoring-properly/"><u>Effective Techniques to Fix iPhones That Aren’t Restoring Properly</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/estrategias-efectivas-para-la-sincronizacion-de-archivos-y-directorios-en-temporal-actual-en-los-sistemas-operativos-windows/"><u>Estrategias Efectivas Para La Sincronización De Archivos Y Directorios en Temporal Actual en Los Sistemas Operativos Windows</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-move-and-set-up-windows-similarities-between-cats-and-dogs/"><u>How to Move and Set Up Windows # Similarities Between Cats and Dogs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-c55-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme C55 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/preheating/"><u>Preheating</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/recupero-di-unita-eliminate-o-perdute-in-windows-11-passaggi-semplici-per-la-guida/"><u>Recupero Di Unità Eliminate O Perdute in Windows 11 - Passaggi Semplici per La Guida</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-error-when-opening-sound-device-in-audacity-top-5-fixes/"><u>Resolve 'Error When Opening Sound Device' In Audacity: Top 5 Fixes</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/seamless-ssd-transfer-a-step-by-step-guide-from-old-laptop-to-new/"><u>Seamless SSD Transfer: A Step-by-Step Guide From Old Laptop to New</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-process-of-shifting-information-between-two-iphones-without-needing-an-apple-account/"><u>Step-by-Step Process of Shifting Information Between Two iPhones Without Needing an Apple Account</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-video-popularity-with-essential-seo-aids-for-2024/"><u>Surge Video Popularity with Essential SEO Aids for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-edge-testing-gopros-hero5-black-against-sessions-for-2024/"><u>The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-netatmo-weather-station-connectivity-and-style-combined/"><u>The Ultimate Guide to Choosing a Netatmo Weather Station: Connectivity and Style Combined</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/wiederherstellung-von-ungelesenen-geloschten-oder-beschadigten-pdf-dokumenten/"><u>Wiederherstellung Von Ungelesenen, Gelöschten Oder Beschädigten PDF-Dokumenten</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamline-your-social-media-uploading-on-twitter/"><u>[New] 2024 Approved Streamline Your Social Media Uploading on Twitter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-melodic-medium-finding-the-right-film-score/"><u>[New] Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-11-proplus-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme 11 Pro+ to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-techniques-for-swapping-your-images-tone-spectrum/"><u>2024 Approved Techniques for Swapping Your Image's Tone Spectrum</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1726030101997-gifgif/"><u>覚えやすくて楽しい GIFアニメ化ガイド:カワイコト・オシャレな動画を遊び心溢れるGIFに変える</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-infinix-note-30i-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Infinix Note 30i?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/live-sound-perfection-our-selections-of-the-top-6-stream-friendly-mics-for-2024/"><u>Live Sound Perfection Our Selections of the Top 6 Stream-Friendly Mics for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/logitech-webcam-101-a-beginners-guide-to-video/"><u>Logitech Webcam 101 A Beginner's Guide to Video</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-elden-ring-startup-error-the-ultimate-fixes-for-a-black-display/"><u>Overcoming the Elden Ring Startup Error: The Ultimate Fixes for a Black Display</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1726030027717-pc3/"><u>PCに付属のオーディオ転送ソフトウェア3つ！長時間ボイスレコードへ</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1726030406704-step-by-step-strategies-for-superior-video-upgrades-using-vlc-player-comprehensive-guide/"><u>Step-by-Step Strategies for Superior Video Upgrades Using VLC Player (Comprehensive Guide )</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/44ot44oh44kq44kr44oh44op44gl44kj44gu5yuv55s744ks44or44k944kz44oz5lik44gn44ov44k244go57eo6zug44gz44kl6ieq55sx44k944ov44oi6yg444gz44o75oyh5y2x/"><u>ビデオカメラからの動画をパソコン上でワザと編集する自由ソフト選び・指南</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Building Playlists with DJ Programs Using Your Mixing History - Pioneer DJ
-date: 2025-01-09T21:47:06.611Z
-updated: 2025-01-14T20:37:51.367Z
+date: 2025-01-14T18:49:37.233Z
+updated: 2025-01-20T23:34:16.190Z
 tags:
   - product
 categories:
@@ -19,13 +19,13 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to create a playlist or sidelist from a specific gig’s history
@@ -41,7 +41,7 @@ The combination of the new date and time stamped history list, and the ability t
 **Watch: How To Generate Playlists From History In RED Mobile 3 or DEX 3**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,18 +63,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/creatingplaylistsfromhisto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-best-top-xbox-hdds-your-ultimate-list/"><u>[New] Best Top Xbox HDDs Your Ultimate List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads-for-2024/"><u>[New] Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-tricks-for-procuring-high-end-imagery-without-spending-money/"><u>[Updated] 2024 Approved Tricks for Procuring High-End Imagery Without Spending Money</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-fix-obs-white-outage-during-live-streams-for-2024/"><u>[Updated] Fix OBS White Outage During Live Streams for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/closing-an-outdated-linkedin-profile-a-step-by-step-guide/"><u>Closing an Outdated LinkedIn Profile A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/deciphering-digital-coin-values-with-expert-tips-from-yl-software/"><u>Deciphering Digital Coin Values with Expert Tips From YL Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-refresh-your-windows-11-device-drivers/"><u>Efficiently Refresh Your Windows 11 Device Drivers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-11-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-prevent-unwanted-programs-from-running-on-startup-in-windows-expert-advice-from-yl-computing-services/"><u>How to Prevent Unwanted Programs From Running on Startup in Windows - Expert Advice From YL Computing Services</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-effortless-youtube-playback-downloading-content-to-idevices/"><u>In 2024, Effortless Youtube Playback Downloading Content to iDevices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>In 2024, From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/switching-applications-a-step-by-step-guide-on-how-to-open-files-with-alternative-programs-tips-from-yl-computing/"><u>Switching Applications: A Step-by-Step Guide on How to Open Files with Alternative Programs - Tips From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-software-expertise-the-ultimate-methods-for-removing-digital-data/"><u>YL Software Expertise: The Ultimate Methods for Removing Digital Data</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-in-class-android-3d-entertainment/"><u>[New] Best-in-Class Android 3D Entertainment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-easy-routines-keeping-a-transcript-of-google-voice-calls-for-2024/"><u>[Updated] Easy Routines Keeping a Transcript of Google Voice Calls for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-frontier-crash-issue-in-pc-gaming-a-step-by-step-guide/"><u>Fixing the Frontier Crash Issue in PC Gaming - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fonebackup-icloud-speicher-erhohung-fehlschlagen-losungen/"><u>FoneBackup: ICloud Speicher Erhöhung Fehlschlagen - Lösungen</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/guide-facile-pour-recuperer-tous-vos-documents-et-images-perdues-dans-votre-dropbox/"><u>Guide Facile Pour Récupérer Tous Vos Documents Et Images Perdues Dans Votre Dropbox.</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-seamlessly-move-images-from-desktop-to-iphone-7-effective-free-techniques/"><u>How to Seamlessly Move Images From Desktop to iPhone: 7 Effective Free Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfectly-pitched-headlines-maker/"><u>In 2024, Perfectly Pitched Headlines Maker</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-the-technique-complete-msi-laptop-system-restore-steps-revealed/"><u>Master the Technique: Complete MSI Laptop System Restore Steps Revealed</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/onedrivemac/"><u>OneDriveとMacの完璧な同期：あなたの質問がここで解決!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-is-here-top-7-tools-to-generate-nft-tokens/"><u>The Future Is Here - Top 7 Tools to Generate NFT Tokens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-for-excessive-svchost-process-load-on-windows-11-computers/"><u>Top Solutions for Excessive Svchost Process Load on Windows 11 Computers</u></a></li>
 </ul></div>
 

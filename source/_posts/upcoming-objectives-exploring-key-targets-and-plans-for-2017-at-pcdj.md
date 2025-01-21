@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Objectives: Exploring Key Targets and Plans for 2017 at PCDJ"
-date: 2025-01-11T19:17:12.063Z
-updated: 2025-01-14T18:25:45.198Z
+date: 2025-01-16T19:48:11.680Z
+updated: 2025-01-20T23:57:01.103Z
 tags:
   - product
 categories:
@@ -41,7 +41,7 @@ Beyond 3.8, we’ll be focusing significant development effort on upgrading DEX 
 [LEARN MORE ABOUT DEX 3 RE ![DEX 3 RE Screen Shot Large](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/dex3re-screenshot.png?fit=300%2C169&ssl=1 "DEX 3 RE Screen Shot Large")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 New video based features are also on the way, including visualizations and new animations that are sure to add punch to video mixing sets.
@@ -71,7 +71,7 @@ We also plan to support the Pulselocker music subscription service in DJ DEX, pr
 [LEARN MORE ABOUT KARAOKI ![Karaoke Software at Club](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/03/karaoki-withcloud-in-club.jpg?fit=300%2C225&ssl=1 "Karaoki Karaoke Software At Club")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We’ve partnered up with KaraoQ to offer in-Karaoki support for their modern remote singer/song request system. Initial support was released in the previous Karaoki public beta, but the public will finally be able to get their hands on this game-changing combination. KaraoQ also facilitates many capabilities not found in similar systems on the market, such as enabling singers to pay for bumps, tip the DJ and a full-fledged marketing option for KJs and venues. [Bang it here to learn more about KaraoQ](https://karaoq.com/).
@@ -81,7 +81,7 @@ As part of the KaraoQ partnership we will also bring KaraoQ360 to market, a subs
 [LEARN ABOUT KARAOQ ![KaraoQ remote request system](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/karaoq-for-djs-screen.png?fit=300%2C225&ssl=1 "KaraoQ remote request system")](http://www.karaoq.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A new karaoke store will be integrated in Karaoki for ala carte and on-the-fly purchasing and download.
@@ -97,7 +97,7 @@ LYRX has already found a home with KJs using MACs. While LYRX was originally des
 [LEARN MORE ABOUT LYRX ![Karaoke Software For MAC LYRX](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/MacBook_Pro_lyrx.png?fit=300%2C170&ssl=1 "LYRX Karaoke Software For MAC")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX is essentially DEX 3 as it uses the same underlying code, but with only the karaoke capabilities and single-deck support. Thus when we upgrade DEX 3 to support the new karaoke-specific features we listed above LYRX will receive the same treatment. LYRX will be the go-to solution for hosting karaoke on a MAC by the end of the year – write it down! 😉
@@ -123,7 +123,7 @@ Additionally, Pulselocker will soon release an iOS app (Android later this year)
 [LEARN MORE ABOUT KARAOKE CLOUD PRO ![Karaoke Cloud Pro Logo Big](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokecloudprologo-big.png?fit=300%2C72&ssl=1 "Karaoke Cloud Pro Logo Big")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Digitrax Entertainment, the company behind the [Karaoke Cloud Pro](https://tools.techidaily.com/pcdj/products/) subscription service, has committed to releasing 20 tracks each-and-every-week through the end of 2017\. That’s a huge commitment in a volatile karaoke market where licensing songs for karaoke is always a tall order. The weekly increase in karaoke content will surely make many Karaoki users of Karaoke Cloud Pro, and their singers, croon.
@@ -157,18 +157,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/01/pcdjlookahead2017-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elite-video-influencers/"><u>[New] In 2024, Elite Video Influencers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-virtual-veracity-versus-physical-prowess-in-live-links/"><u>[New] Virtual Veracity Versus Physical Prowess in Live Links</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-minecraft-screen-capture-a-mac-guide/"><u>[Updated] In 2024, Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030101997-gifgif/"><u>覚えやすくて楽しい GIFアニメ化ガイド:カワイコト・オシャレな動画を遊び心溢れるGIFに変える</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/a-step-by-step-tutorial-tweaking-the-clock-and-alarms-in-windows-os-with-yl-tech-solutions/"><u>A Step-by-Step Tutorial: Tweaking the Clock & Alarms in Windows OS with YL Tech Solutions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/discover-how-to-identify-your-graphics-card-on-windows-10-a-comprehensive-guide-by-yl-computing/"><u>Discover How to Identify Your Graphics Card on Windows 10: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-can-you-repair-a-damaged-motherboard-expert-advice-from-yl-computing/"><u>How Can You Repair a Damaged Motherboard? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962325774-latest-hp-scanjet-software-updates-for-windows-10-8-and-7-get-them-here/"><u>Latest [HP Scanjet Software Updates for Windows 10, 8 & 7] – Get Them Here!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/masterful-strategies-for-prolonged-battery-life-in-your-portable-pc-guided-by-yl-computing-experts/"><u>Masterful Strategies for Prolonged Battery Life in Your Portable PC – Guided by YL Computing Experts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/smart-screen-capture-on-mac-understanding-the-best-5-methods-for-2024/"><u>Smart Screen Capture on Mac Understanding the Best 5 Methods for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030406704-step-by-step-strategies-for-superior-video-upgrades-using-vlc-player-comprehensive-guide/"><u>Step-by-Step Strategies for Superior Video Upgrades Using VLC Player (Comprehensive Guide )</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-home-safety-the-vuebell-video-doorbell-for-under-budget/"><u>Unlocking Home Safety: The VueBell Video Doorbell for Under Budget</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/visual-unity-ai-driven-instavideo-compilation/"><u>Visual Unity AI-Driven InstaVideo Compilation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhancing-online-stream-quality-with-a-single-source-approach/"><u>[Updated] 2024 Approved Enhancing Online Stream Quality with a Single Source Approach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transform-your-archive-with-instagrams-filters-an-easy-guide/"><u>[Updated] In 2024, Transform Your Archive with Instagram’s Filters – An Easy Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screenflix-recorder-insider-report/"><u>[Updated] ScreenFlix Recorder Insider Report</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-losungen-und-schritte-wiederherstellung-und-offnen-von-word-dateien/"><u>1. Lösungen Und Schritte: Wiederherstellung Und Öffnen Von Word-Dateien</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comment-recuperer-un-fichier-supprime-avec-guide-complet-techniques-de-restauration-de-donnees/"><u>Comment Récupérer Un Fichier Supprimé Avec Guide Complet | Techniques De Restauration De Données</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/complete-tutorial-for-restoring-information-from-segmented-drives-in-windows-versions-10-8-and-7/"><u>Complete Tutorial for Restoring Information From Segmented Drives in Windows Versions 10, 8, and 7</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprendre-le-processus-dassistance-pour-la-restauration-de-donnees-apres-une-panne-technique-soudaine/"><u>Comprendre Le Processus D'Assistance Pour La Restauration De Données Après Une Panne Technique Soudaine</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-fun-vs-security-whats-at-stake/"><u>Facebook Fun vs Security – What's at Stake?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/geforce-experience-encountered-an-error-and-must-close-solved/"><u>GeForce Experience Encountered an Error and Must Close [Solved]</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/kumpulkan-kedua-jenis-proses-menjunjung-hard-disk-pada-windows-server-2012-r2/"><u>Kumpulkan Kedua Jenis Proses Menjunjung Hard Disk Pada Windows Server 2012 R2</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/sekundenschnelle-datenubertragung-uber-usb-medien-anleitung-fur-den-schnellen-austausch-von-informationen-auf-dem-pc/"><u>Sekundenschnelle Datenübertragung Über USB-Medien – Anleitung Für Den Schnellen Austausch Von Informationen Auf Dem PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-superior-apple-magsafe-wallet-alternative-thats-now-on-sale/"><u>Unveiling the Superior Apple MagSafe Wallet Alternative That's Now on Sale</u></a></li>
 </ul></div>
 
