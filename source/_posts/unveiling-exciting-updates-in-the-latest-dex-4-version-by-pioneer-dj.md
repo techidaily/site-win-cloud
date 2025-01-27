@@ -1,7 +1,7 @@
 ---
 title: Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ
-date: 2025-01-14T00:11:37.797Z
-updated: 2025-01-20T20:58:02.812Z
+date: 2025-01-23T19:24:49.491Z
+updated: 2025-01-26T16:28:37.188Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Additionally, the introduction of PADs with versatile modes like Loop Rolls, Sli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 4 Feature Highlights:
@@ -64,7 +64,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 * new controller: RANE Four
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other features:
@@ -91,7 +91,7 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 **_Stay tuned, we expect to drop DEX 4 very soon!_** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,18 +113,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2024/08/DEX34-preview-cover.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fabricate-funny-face-filters-giphy-style/"><u>[New] Fabricate Funny Face Filters Giphy Style</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-precision-in-digital-imaging-a-professionals-approach-for-2024/"><u>[New] Precision in Digital Imaging A Professional's Approach for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-uncovering-if-vlogger-critiques-are-paid/"><u>[Updated] 2024 Approved Uncovering If Vlogger Critiques Are Paid</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafty-laughter-your-adobe-guide/"><u>2024 Approved Crafty Laughter Your Adobe Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fast-techniques-adding-pictures-over-your-videos-step-by-step/"><u>Fast Techniques: Adding Pictures Over Your Videos Step-by-Step</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971414831-get-your-thrustmaster-t300-driving-experience-installers-for-windows-10-and-11-available-now/"><u>Get Your Thrustmaster T300 Driving Experience: Installers for Windows 10 & 11 Available Now!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-quirky-expressions-in-text-master-meme-creation/"><u>In 2024, Quirky Expressions in Text Master Meme Creation</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/innovative-online-platforms-inspired-by-the-unique-charm-of-lastfm/"><u>Innovative Online Platforms Inspired by the Unique Charm of Last.fm</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mastering-the-capture-of-your-epic-battles-how-to-screen-record-in-pubg-mobile-for-iphoneipad-and-android-phones/"><u>Mastering the Capture of Your Epic Battles: How to Screen Record in PUBG Mobile for iPhone/iPad and Android Phones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-maintaining-video-clarity-while-shrinking-avi-files-in-windows-10/"><u>Ultimate Guide: Maintaining Video Clarity While Shrinking AVI Files in Windows 10</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-strategies-for-safe-internet-surfing-a-compreh/"><u>Ultimate Strategies for Safe Internet Surfing: A Compreh</u></a></li>
-<li><a href="https://solve-news.techidaily.com/unifying-power-how-abbyy-works-with-alteryx-for-enhanced-data-processing/"><u>Unifying Power: How ABBYY Works with Alteryx for Enhanced Data Processing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/user-friendly-photo-manipulation-tools-perfect-for-newbies-in-image-editing/"><u>User-Friendly Photo Manipulation Tools Perfect for Newbies in Image Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/2-top-tier-cameras-that-will-transform-your-vlogging-experience/"><u>[New] 12 Top-Tier Cameras That Will Transform Your Vlogging Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-uncover-the-top-12-best-flip-screen-vlogging-tools/"><u>[New] Uncover the Top 12 Best Flip-Screen Vlogging Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-free-and-legal-youtube-downloader-tools-recommendations/"><u>[Updated] 2024 Approved Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-legalities-sharing-vids-on-social-media-platforms-for-2024/"><u>[Updated] Legalities Sharing Vids on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-remove-unused-folders-automatically-with-powershell-scripts/"><u>1. Remove Unused Folders Automatically with PowerShell Scripts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-create-stunning-mosaic-photo-collage/"><u>2024 Approved How to Create Stunning Mosaic Photo Collage</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-tutorial-on-how-to-transition-contacts-between-samsung-phones-and-tablets-seamlessly/"><u>Comprehensive Tutorial on How to Transition Contacts Between Samsung Phones and Tablets Seamlessly</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/decoding-your-eligibility-for-iphones-newest-model/"><u>Decoding Your Eligibility for iPhone's Newest Model</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/explore-a-wide-range-more-than-50-edit-yourself-mind-map-templates-at-no-cost/"><u>Explore a Wide Range: More than 50 Edit-Yourself Mind Map Templates at No Cost!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fuel-ambition-with-these-10-movie-masterpieces-for-2024/"><u>Fuel Ambition with These 10 Movie Masterpieces for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-access-and-enjoy-free-online-music-playlists-without-any-charge/"><u>How to Access & Enjoy Free Online Music Playlists Without Any Charge</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-ring-of-apple-mystery-estimated-costs-release-plans-technical-details-and-emerging-rumors-decoded/"><u>Inside the Ring of Apple Mystery: Estimated Costs, Release Plans, Technical Details & Emerging Rumors Decoded!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-permission-management-for-chrome-add-ons-with-malwarefox/"><u>Mastering Permission Management for Chrome Add-Ons with MalwareFox</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/revolutionary-techniques-for-changing-png-image-hues-effortlessly/"><u>Revolutionary Techniques for Changing PNG Image Hues Effortlessly</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/simple-steps-quickly-erase-every-ios-voice-note-with-ease/"><u>Simple Steps: Quickly Erase Every iOS Voice Note with Ease</u></a></li>
 </ul></div>
 

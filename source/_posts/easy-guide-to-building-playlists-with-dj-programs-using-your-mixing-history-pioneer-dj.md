@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Building Playlists with DJ Programs Using Your Mixing History - Pioneer DJ
-date: 2025-01-14T18:49:37.233Z
-updated: 2025-01-20T23:34:16.190Z
+date: 2025-01-21T00:37:36.057Z
+updated: 2025-01-26T23:10:00.534Z
 tags:
   - product
 categories:
@@ -19,13 +19,13 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to create a playlist or sidelist from a specific gig’s history
@@ -41,7 +41,7 @@ The combination of the new date and time stamped history list, and the ability t
 **Watch: How To Generate Playlists From History In RED Mobile 3 or DEX 3**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,17 +63,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/creatingplaylistsfromhisto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-in-class-android-3d-entertainment/"><u>[New] Best-in-Class Android 3D Entertainment</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-easy-routines-keeping-a-transcript-of-google-voice-calls-for-2024/"><u>[Updated] Easy Routines Keeping a Transcript of Google Voice Calls for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-frontier-crash-issue-in-pc-gaming-a-step-by-step-guide/"><u>Fixing the Frontier Crash Issue in PC Gaming - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fonebackup-icloud-speicher-erhohung-fehlschlagen-losungen/"><u>FoneBackup: ICloud Speicher Erhöhung Fehlschlagen - Lösungen</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/guide-facile-pour-recuperer-tous-vos-documents-et-images-perdues-dans-votre-dropbox/"><u>Guide Facile Pour Récupérer Tous Vos Documents Et Images Perdues Dans Votre Dropbox.</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-seamlessly-move-images-from-desktop-to-iphone-7-effective-free-techniques/"><u>How to Seamlessly Move Images From Desktop to iPhone: 7 Effective Free Techniques</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfectly-pitched-headlines-maker/"><u>In 2024, Perfectly Pitched Headlines Maker</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-the-technique-complete-msi-laptop-system-restore-steps-revealed/"><u>Master the Technique: Complete MSI Laptop System Restore Steps Revealed</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/onedrivemac/"><u>OneDriveとMacの完璧な同期：あなたの質問がここで解決!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-future-is-here-top-7-tools-to-generate-nft-tokens/"><u>The Future Is Here - Top 7 Tools to Generate NFT Tokens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-for-excessive-svchost-process-load-on-windows-11-computers/"><u>Top Solutions for Excessive Svchost Process Load on Windows 11 Computers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-bio-engineered-healing-spaces-via-arvr-for-2024/"><u>[New] Bio-Engineered Healing Spaces via AR/VR for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-signs-youre-not-in-someones-contact-list/"><u>[Updated] In 2024, Signs You're Not in Someone's Contact List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>[Updated] In 2024, Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728476899863-usb/"><u>如何在初始化後迅速恢復USB存儲空間上之信息：一步到位解決方法</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728479744113-windows-11108/"><u>修正：Windows 11、10和8中的磁碟機不能成功用於备份目的</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comment-rechercher-avec-ease-les-fichiers-masques-au-sein-dun-ordre-de-fichiers-guide-etape-par-etape/"><u>Comment Rechercher Avec Ease Les Fichiers Masqués Au Sein D'un Ordre De Fichiers : Guide Étape Par Étape !</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comment-recuperer-un-fichier-supprime-avec-guide-complet-techniques-de-restauration-de-donnees/"><u>Comment Récupérer Un Fichier Supprimé Avec Guide Complet | Techniques De Restauration De Données</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customizing-your-mac-experience-how-to-turn-off-natural-scroll-for-your-mouse/"><u>Customizing Your Mac Experience: How to Turn Off Natural Scroll for Your Mouse</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expertly-ranked-disk-division-repair-applications-for-windows-10-operating-system/"><u>Expertly Ranked Disk Division Repair Applications for Windows 10 Operating System</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-plate-to-screen-perfecting-the-art-of-food-cinema/"><u>In 2024, From Plate to Screen Perfecting the Art of Food Cinema</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-high-quality-screen-recording-with-tunefab/"><u>In 2024, High-Quality Screen Recording with Tunefab</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/kumpulkan-kedua-jenis-proses-menjunjung-hard-disk-pada-windows-server-2012-r2/"><u>Kumpulkan Kedua Jenis Proses Menjunjung Hard Disk Pada Windows Server 2012 R2</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/sekundenschnelle-datenubertragung-uber-usb-medien-anleitung-fur-den-schnellen-austausch-von-informationen-auf-dem-pc/"><u>Sekundenschnelle Datenübertragung Über USB-Medien – Anleitung Für Den Schnellen Austausch Von Informationen Auf Dem PC</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-error-0xc00000e-your-complete-guide-to-resolving-the-issue/"><u>Understanding Error 0xC00000E: Your Complete Guide to Resolving the Issue</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-10-fixed-screen-size-adjustment-hurdle-successfully/"><u>Win 10: Fixed Screen Size Adjustment Hurdle Successfully</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/windows-11-10-8-and-7qnap-nasonedrive/"><u>Windows 11, 10, 8, and 7のQNAP NASとOneDriveを同期する究極のガイド</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/kak-sozdat-sistemnyj-vosstanovitelnyj-disk-dlya-windows-10-i-11-razbor-i-sovety-ekspertov/"><u>Как Создать Системный Восстановительный Диск Для Windows 10 И 11 - Разбор И Советы Экспертов</u></a></li>
 </ul></div>
 
