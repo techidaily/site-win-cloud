@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tech Hack - Configuring Your DEX 3 DJ Controller with a Second Screen Setup for Optimal Karaoke Performance
-date: 2025-01-21T19:35:19.112Z
-updated: 2025-01-26T22:56:34.813Z
+date: 2025-02-03T19:09:52.489Z
+updated: 2025-02-08T16:49:05.959Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ Since you only want your audience to view the mixed music video output, or the k
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,20 +42,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-compre-written-guide-youtube-video-distribution-on-fb/"><u>[New] 2024 Approved Compre Written Guide YouTube Video Distribution on FB</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-tips-for-optimal-screen-recording-with-showmore/"><u>[Updated] In 2024, Essential Tips for Optimal Screen Recording With ShowMore</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-checklist-for-broadcasting-on-discord-for-2024/"><u>[Updated] The Ultimate Checklist for Broadcasting on Discord for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-cities-for-virtual-viewing/"><u>2024 Approved Spotlight on Cities for Virtual Viewing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/enhancing-your-pcs-safety-elevating-windows-11-security-features-expert-tips-by-yl-computing/"><u>Enhancing Your PC's Safety: Elevating Windows 11 Security Features - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ensuring-optimal-ram-operation-on-your-desktop-or-laptop-expert-advice-from-coretech-solutions/"><u>Ensuring Optimal RAM Operation on Your Desktop or Laptop: Expert Advice From CoreTech Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-new-realms-the-ultimate-guide-to-iphone-vr-gaming-for-2024/"><u>Explore New Realms The Ultimate Guide to IPhone VR Gaming for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/exploring-excel-spreadsheet-attributes-a-guide-by-yl-computing/"><u>Exploring Excel Spreadsheet Attributes: A Guide by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-your-disconnected-echo-online-again-using-alexa-troubleshooting-techniques/"><u>How To Get Your Disconnected Echo Online Again Using Alexa Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/join-our-ipad-dj-dex-app-beta-become-an-exclusive-tester-now/"><u>Join Our iPad DJ DEX App Beta: Become an Exclusive Tester Now!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-stop-motion-made-easy-the-best-online-tools-free-and-paid/"><u>New In 2024, Stop Motion Made Easy The Best Online Tools Free & Paid</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/pcdj-masterclass-beats-matching-and-sync-techniques-with-bpm-guide/"><u>PCDJ Masterclass - Beats Matching & Sync Techniques with BPM Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/professional-urban-street-scenes-high-quality-imagery-and-bgs-by-yl-computing-your-source-for-city-vistas/"><u>Professional Urban Street Scenes: High-Quality Imagery & BGs by YL Computing - Your Source for City Vistas</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-non-charging-laptops-a-guide-by-yl-software-experts/"><u>Troubleshooting Non-Charging Laptops: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-14-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 14 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-visual-storytelling-on-instagram/"><u>[New] 2024 Approved Mastering Visual Storytelling on Instagram</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-learn-the-easy-way-unlocking-iphone-screen-recording/"><u>[New] In 2024, Learn the Easy Way Unlocking Iphone Screen Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-optimized-recording-software-seamless-every-time/"><u>2024 Approved Optimized Recording Software - Seamless Every Time</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-steps-to-change-your-file-format-a-guide-by-yl-software-solutions/"><u>Easy Steps to Change Your File Format: A Guide by YL Software Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-vivo-y100i-power-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y100i Power 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-pc-hardware-repairs-on-windows-expert-advice-by-yl-software-professionals/"><u>Mastering PC Hardware Repairs on Windows: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/repairing-a-damaged-windows-registry-key-a-comprehensive-guide/"><u>Repairing a Damaged Windows Registry Key: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-low-memory-alerts-in-roblox-on-your-iphone-heres-how/"><u>Stop the Low Memory Alerts in Roblox on Your iPhone Here's How</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-essentials-2023s-highest-ranked-twitter-content-for-2024/"><u>The Essentials 2023'S Highest-Ranked Twitter Content for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-potential-dangers-a-deep-dive-into-cryptocurrency-investment-risks-yl-computing/"><u>Understanding Potential Dangers: A Deep Dive Into Cryptocurrency Investment Risks - YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-reasons-behind-blue-screen-errors-insights-from-yl-computing/"><u>Understanding the Reasons Behind Blue Screen Errors: Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964481551-unleash-lightning-fast-performance-nextorages-new-pcie-gen-4-ssd-for-portable-gaming-record-breaking-speed-at-74gbs/"><u>Unleash Lightning-Fast Performance: Nextorage's New PCIe Gen 4 SSD for Portable Gaming - Record-Breaking Speed at 7.4GB/S</u></a></li>
 </ul></div>
 
