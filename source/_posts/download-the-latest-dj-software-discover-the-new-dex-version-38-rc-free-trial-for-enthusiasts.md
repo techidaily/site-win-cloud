@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Discover the New DEX Version 3.8 RC - Free Trial for Enthusiasts!"
-date: 2025-02-06T18:59:26.112Z
-updated: 2025-02-08T17:19:18.569Z
+date: 2025-02-11T19:06:31.072Z
+updated: 2025-02-18T22:53:46.757Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
@@ -49,7 +49,7 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -57,7 +57,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,21 +79,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/"><u>[New] Snickel & Wail Instagram's 10 Most Hilarious Meme Accounts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-merging-youtube-melodies-in-cinematic-pieces/"><u>[Updated] 2024 Approved Merging YouTube Melodies in Cinematic Pieces</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-essential-drone-motors-guide-for-optimal-flight-for-2024/"><u>[Updated] Essential Drone Motors Guide for Optimal Flight for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-recording-games-like-a-pro-discover-the-best-of-windows-11-methods/"><u>[Updated] In 2024, Recording Games Like a Pro Discover the Best of Windows 11 Methods</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-market-movements-with-youtube-picks/"><u>[Updated] Mastering Market Movements with YouTube Picks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-boost-cinematographic-capabilities-essential-iphone-gear/"><u>2024 Approved Boost Cinematographic Capabilities Essential iPhone Gear</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/convert-your-wlmp-videos-to-avi-files-without-cost-step-by-step-tutorial/"><u>Convert Your WLMP Videos to AVI Files Without Cost - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/expert-tips-for-repairing-iphones-soaked-in-water-models-5s-5c-5-and-4s/"><u>Expert Tips for Repairing iPhones Soaked in Water (Models 5S, 5C, 5 & 4S)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/free-tools-capture-perfect-audio-on-your-mac-without-hitches/"><u>Free Tools: Capture Perfect Audio on Your Mac without Hitches</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-harmonizing-in-tiktoks-duo-videos/"><u>In 2024, Harmonizing in TikTok's Duo Videos</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/locating-your-chrome-add-ons-understanding-storage-locations/"><u>Locating Your Chrome Add-Ons: Understanding Storage Locations</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/protect-your-digital-life-eradicate-facebooks-malicious-software-with-these-easy-steps/"><u>Protect Your Digital Life: Eradicate Facebook's Malicious Software with These Easy Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-the-parameter-is-incorrect-error-error-code-groovy-when-loading-libraries/"><u>Resolved: Overcoming 'The Parameter Is Incorrect' Error (Error Code Groovy) When Loading Libraries</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-techniques-to-add-watermarks-to-your-iphone-photographs/"><u>Top Techniques to Add Watermarks to Your iPhone Photographs</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-protection-expert-recommended-antivirus-apps-for-android-in-2e-certified-secure/"><u>Ultimate Protection: Expert-Recommended Antivirus Apps for Android in 2E, Certified Secure</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/valheim-low-fps-solutions-proven-techniques-to-enhance-performance-in-202n4/"><u>Valheim Low FPS Solutions: Proven Techniques to Enhance Performance in 202N4</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-snapseed-advanced-usage-insights-for-2024/"><u>[New] Snapseed Advanced Usage Insights for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ape-aac-movavi/"><u>APE 파일을 AAC로 구독하기: 원거리 무료 솔루션 - Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/classroom-vids-essential-editing-strategies/"><u>Classroom Vids Essential Editing Strategies</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/discover-stunning-footwear-designs-with-yl-softwares-720-image-gallery-and-desktop-wallpapers/"><u>Discover Stunning Footwear Designs with YL Software's 720 Image Gallery & Desktop Wallpapers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/discovering-8-cost-effective-video-meeting-software-options-for-2024/"><u>Discovering 8 Cost-Effective Video Meeting Software Options for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/get-your-free-mp4-soundtracks-now-perfect-playback-on-iphone-ipad-and-android-systems/"><u>Get Your FREE MP4 Soundtracks Now – Perfect Playback on iPhone, iPad, and Android Systems</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/high-definition-demonic-blade-shredding-wallpaper-visuals-and-backdrops-for-your-pc-curated-by-yl-computing/"><u>High-Definition Demonic Blade Shredding Wallpaper: Visuals & Backdrops for Your PC - Curated by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nubia-red-magic-8s-proplus-lock-screen-password-by-drfone-android/"><u>How To Change Nubia Red Magic 8S Pro+ Lock Screen Password?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-safaris-picture-in-picture-for-mobiledesktop/"><u>Navigating Safari’s Picture in Picture for Mobile/Desktop</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/selecting-the-perfect-crypto-investment-a-guide-by-yl-software/"><u>Selecting the Perfect Crypto Investment: A Guide by YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unlock-system-efficiency-a-guide-to-clearing-up-ram-by-yl-software-experts/"><u>Unlock System Efficiency: A Guide to Clearing Up RAM by YL Software Experts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/why-does-my-pc-keep-restarting-at-random-uncover-the-reasons-with-yl-computings-expertise/"><u>Why Does My PC Keep Restarting at Random? Uncover the Reasons with YL Computing's Expertise</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/yl-software-insights-resolving-scanner-issues-when-unresponsive/"><u>YL Software Insights: Resolving Scanner Issues When Unresponsive</u></a></li>
 </ul></div>
 
