@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Building Playlists with DJ Programs Using Your Mixing History - Pioneer DJ
-date: 2025-02-14T23:20:21.784Z
-updated: 2025-02-18T21:30:03.068Z
+date: 2025-03-01T08:35:31.753Z
+updated: 2025-03-07T09:26:41.363Z
 tags:
   - product
 categories:
@@ -18,15 +18,7 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to create a playlist or sidelist from a specific gig’s history
 
@@ -39,10 +31,6 @@ The history list in DEX 3 and RED Mobile 3 is a running log – a list of all tr
 The combination of the new date and time stamped history list, and the ability to select all tracks from a specific date makes re-using a gig’s history easy.
 
 **Watch: How To Generate Playlists From History In RED Mobile 3 or DEX 3**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -63,18 +51,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/creatingplaylistsfromhisto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-expert-guidelines-to-improve-zoom-on-chromeos/"><u>[New] 2024 Approved Expert Guidelines to Improve Zoom on ChromeOS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-digital-artisans-exclusive-summit/"><u>[New] In 2024, Digital Artisans' Exclusive Summit</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-superior-5-sites-matching-twitters-features/"><u>[New] In 2024, Superior 5 Sites Matching Twitter's Features</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-demystifying-igtv-a-compreayers-guide-to-social-media/"><u>[Updated] In 2024, Demystifying IGTV A Compreayer's Guide to Social Media</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728504395438-google-3/"><u>「お手数ですが、こちらは Google スプレッドシート再生方法3通り」</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/4-proven-methods-for-perfect-instagram-video-loops-for-2024/"><u>4 Proven Methods for Perfect Instagram Video Loops for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/dvd-to-video-conversion-made-easy-free-winx-ripper-tool-for-ios-and-android-devices-in-mp4-avi-formats/"><u>DVD to Video Conversion Made Easy: Free WinX Ripper Tool for iOS and Android Devices in MP4 AVI Formats</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/guiding-steps-for-obtaining-professional-grade-images-for-2024/"><u>Guiding Steps for Obtaining Professional-Grade Images for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-characters-animation-basics-in-wmm/"><u>In 2024, Crafting Characters Animation Basics in WMM</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-from-shot-to-showcase-smooth-video-capture-and-post-editing-with-adobe-connect/"><u>In 2024, From Shot to Showcase Smooth Video Capture & Post-Editing with Adobe Connect</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/komplizierungsfreie-datentransferstrategien-kopieren-von-daten-direkt-vom-pc-auf-ein-mac-system/"><u>Komplizierungsfreie Datentransferstrategien: Kopieren Von Daten Direkt Vom PC Auf Ein Mac-System</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-guide-to-free-image-redundancy-applications-compatible-with-all-windows-os-windows-7-to-11/"><u>Ultimate Guide to Free Image Redundancy Applications Compatible with All Windows OS (Windows 7 to 11)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728497788414-windows-11-10-8-7/"><u>Windows 11, 10, 8, 7 - 自動的なファイルバックアップ設定方法</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-guide-to-documenting-macs-roblox-playthroughs/"><u>[New] In 2024, Essential Guide to Documenting Mac's Roblox Playthroughs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-fixing-inertia-and-jello-distortions-in-uav-clips/"><u>[Updated] Fixing Inertia and Jello Distortions in UAV Clips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-art-of-assault-in-real-time-rivalry/"><u>[Updated] In 2024, The Art of Assault in Real-Time Rivalry</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-laughable-film-grabber-review/"><u>[Updated] Laughable Film Grabber Review</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/windows10/"><u>失われたデータ:Windows10のフォルダがなくなってしまったらどうする?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/bereinigen-sie-das-chaos-geheimtipps-zum-wiederauffinden-verlorener-dokumente-unter-windows-tdesktophilter/"><u>Bereinigen Sie Das Chaos! Geheimtipps Zum Wiederauffinden Verlorener Dokumente Unter Windows tDesktophilter</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-t2-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo T2 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-fix-your-flash-drive-when-you-cant-alter-the-partition-layout/"><u>How to Fix Your Flash Drive When You Can’t Alter the Partition Layout</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>In 2024, Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/leading-wd-ssd-copying-application-with-nvme-technology/"><u>Leading WD SSD Copying Application with NVMe Technology</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209660873-9781547579648-meditacion-aprenda-a-meditar-para-una-experiencia-espiritual-felicidad-y-exito/"><u>Meditación: Aprenda A Meditar Para Una Experiencia Espiritual (Felicidad Y Éxito) | Free Book</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mp4windows/"><u>MP4ファイルがWindowsで消えてしまったら、どうやって復元するの？</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-booting-den-lenovo-pc-direkt-von-einem-usb-flash-drive-zu-starten-unter-windows-11/"><u>Quick Booting: Den Lenovo PC Direkt Von Einem USB Flash Drive Zu Starten Unter Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-lenovo-thinkphone-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lenovo ThinkPhone Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/seamless-methods-for-moving-your-data-upgrading-from-an-older-iphone-to-the-latest-iphone-15/"><u>Seamless Methods for Moving Your Data: Upgrading From an Older iPhone to the Latest iPhone 15</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728490550463-usb/"><u>USB 快闪存储设备强大备份解决方案：专业级自动化软体选项</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/vcenter-server-appliance-explained-a-guide-for-monitoring-and-troubleshooting-its-services/"><u>VCenter Server Appliance Explained: A Guide for Monitoring and Troubleshooting Its Services</u></a></li>
 </ul></div>
 

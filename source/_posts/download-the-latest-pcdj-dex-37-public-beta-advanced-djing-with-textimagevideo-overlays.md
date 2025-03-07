@@ -1,7 +1,7 @@
 ---
 title: Download the Latest PCDJ DEX 3.7 Public Beta - Advanced DJing with Text/Image/Video Overlays
-date: 2025-02-15T21:58:32.454Z
-updated: 2025-02-18T18:38:39.704Z
+date: 2025-03-05T04:36:26.371Z
+updated: 2025-03-06T20:01:40.277Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
 
 1. **A complete refactored Karaoke Singers List:** DJs and VDJs can now add a custom background (an image or a video) for the Karaoke Singers List. Access this new feature from Preferences -> Video tab.
@@ -54,10 +50,6 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-08-26 14:11:452018-10-03 15:34:15DJ Software | Download DEX 3.7 Public Beta With Text, Image And Video Overlay}
@@ -77,18 +69,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-complete-guide-to-optimizing-your-picsart-experience/"><u>[New] Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-insight-into-why-certain-youtube-comments-are-showcased/"><u>[New] Insight Into Why Certain YouTube Comments Are Showcased</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevating-earnings-the-essentials-of-vimeo-revenue-model/"><u>[Updated] 2024 Approved Elevating Earnings The Essentials of Vimeo Revenue Model</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/aomei-backupper-erfolgreiche-datensicherung-mit-integrierten-unterstutzungsdateisystemen/"><u>AOMEI Backupper: Erfolgreiche Datensicherung Mit Integrierten Unterstützungsdateisystemen</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comparing-strategies-how-backups-and-archives-serve-unique-roles-in-data-preservation/"><u>Comparing Strategies: How Backups and Archives Serve Unique Roles in Data Preservation</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/efficient-windows-server-incremental-backup-tools-secure-your-businesss-future/"><u>Efficient Windows Server Incremental Backup Tools - Secure Your Business's Future</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 13</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-zoom-on-chromebook-essential-advice/"><u>In 2024, Navigating Zoom on Chromebook Essential Advice</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-tone-your-vlogs-access-free-sound-tracks/"><u>In 2024, Tone Your Vlogs Access Free Sound Tracks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/jabra-sound-problems-discover-easy-fixes-with-our-detailed-2024-headset-guide/"><u>Jabra Sound Problems? Discover Easy Fixes with Our Detailed 2024 Headset Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/windows-10-system-backup-restore-across-hardware-variants/"><u>Windows 10 System Backup Restore Across Hardware Variants</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728487921139-windows-server-2016/"><u>ファイル履歴を安全にバックアップする：Windows Server 2016のガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gratis-design-elements-for-youtube-channel-for-2024/"><u>[Updated] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-talking-head-techniques-diy-filming-made-simple/"><u>[Updated] Talking Head Techniques DIY Filming Made Simple</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-your-companion-guide-navigating-the-world-of-mobizen-recorders/"><u>[Updated] Your Companion Guide Navigating the World of Mobizen Recorders</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-zero-price-tools-for-secure-cloud-storage-on-your-desktop-computer/"><u>Best Zero Price Tools for Secure Cloud Storage on Your Desktop Computer</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/come-effettuare-il-passaggio-da-windows-10-a-windows-11-senza-rischiare-i-tuoi-file-importanti-strategie-e-metodi-tre-soluzioni-fai-da-te/"><u>Come Effettuare Il Passaggio Da Windows 10 a Windows 11 Senza Rischiare I Tuoi File Importanti: Strategie E Metodi (Tre Soluzioni Fai-Da-Te)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/expert-tips-on-restoring-files-from-a-faulty-clicking-storage-device/"><u>Expert Tips on Restoring Files From a Faulty Clicking Storage Device</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-resolve-your-samsung-t7-ssd-not-being-detected-in-windows-11-top-3-fixes-revealed/"><u>How to Resolve Your Samsung T7 SSD Not Being Detected in Windows 11 - Top 3 Fixes Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-logic-loops-le-chat-ai-meets-chatgpt/"><u>Language Logic Loops: Le Chat AI Meets ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-of-the-best-8-elite-gaming-sites-ranked/"><u>The Best of the Best: 8 Elite Gaming Sites Ranked</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-rotated-images-how-to-adjust-upended-videos-on-your-asus-notebook/"><u>Troubleshooting Rotated Images: How to Adjust Upended Videos on Your ASUS Notebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-laptop-speakers-easy-fixes-that-work/"><u>Troubleshooting Silent Laptop Speakers – Easy Fixes That Work</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728492117219-windows-11-nvme-ssd/"><u>Windows 11 複製至 NVMe SSD 上的高效方案</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/kak-bystro-i-prosto-klonirovat-zhestkij-disk-v-windows-11-vklyuchaya-vozmozhnost-bystroj-zagruzki/"><u>Как Быстро И Просто Клонировать Жесткий Диск В Windows 11, Включая Возможность Быстрой Загрузки</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/thlatha-asalyb-faaala-lnkl-oyndoz-1011-il-krs-mtgdd-alkshf-aan-alkhtt/"><u>ثلاثة أساليب فعالة لنقل ويندوز 10/11 إلى قرص متجدد: الكشف عن الخطط</u></a></li>
 </ul></div>
 

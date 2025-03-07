@@ -1,7 +1,7 @@
 ---
 title: Recupero Di Unità Eliminate O Perdute in Windows 11 - Passaggi Semplici per La Guida
-date: 2025-02-12T19:14:58.346Z
-updated: 2025-02-18T18:13:21.484Z
+date: 2025-03-02T02:13:48.315Z
+updated: 2025-03-06T22:43:37.598Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241dcabace0ad8db43fe24b30d7.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -70,10 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -81,14 +73,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -101,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -129,10 +109,6 @@ Sicherer Download
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
@@ -203,17 +179,9 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -247,10 +215,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -268,20 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-dive-deep-into-the-world-of-facebook-story-creation-expert-advice-inside/"><u>[Updated] Dive Deep Into the World of Facebook Story Creation Expert Advice Inside</u></a></li>
-<li><a href="https://win-premium.techidaily.com/outlook-send-as-attachment/"><u>怎麼在 Outlook 的 [Send As Attachment] 選項下將電子郵件保留成備份？</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/checking-your-scanner-drivers-are-they-current-and-optimized-innovative-solutions-by-yl-software/"><u>Checking Your Scanner Drivers: Are They Current and Optimized? - Innovative Solutions by YL Software</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/descubre-como-instalar-windows-11-build-23h2-en-dispositivos-no-oficialmente-compatibles-con-dos-tecnicas-efectivas/"><u>Descubre Cómo Instalar Windows 11 Build 23H2 en Dispositivos No Oficialmente Compatibles Con Dos Técnicas Efectivas</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effective-solutions-for-fixing-common-printer-issues-insights-from-yl-computing/"><u>Effective Solutions for Fixing Common Printer Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-portaudio-problems-in-audacity-for-windows-1111-devices/"><u>Fixing PortAudio Problems in Audacity for Windows 11/11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-sennheiser-game-one-microphone-working-again-expert-advice/"><u>How to Get Your Sennheiser Game One Microphone Working Again – Expert Advice</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/is-your-pc-infected-identifying-signs-of-virus-or-malware-with-yls-expertise/"><u>Is Your PC Infected? Identifying Signs of Virus or Malware with YL's Expertise</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728499755902-onedrive-3/"><u>OneDriveへの専用フォルダー同期手順: モバイルデバイス不要で実行する3種</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/samsungs-new-edge-the-2023-bd-j5900-reviewed/"><u>Samsung's New Edge The 2023 BD-J5900 Reviewed</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-your-unresponsive-keyboard-insights-from-yl-computing/"><u>Troubleshooting Your Unresponsive Keyboard: Insights From YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/uncover-troublesome-devices-a-guide-by-yl-software-for-resolving-technical-glitches/"><u>Uncover Troublesome Devices: A Guide by YL Software for Resolving Technical Glitches</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unlocking-bios-configuration-comprehensive-tutorial-by-yl-software-professionals/"><u>Unlocking BIOS Configuration: Comprehensive Tutorial by YL Software Professionals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/bes-updated-strategy-for-content-creators/"><u>YouTube's Updated Strategy for Content Creators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-comprehensive-solution-for-srt-not-working-in-premiere/"><u>[New] 2024 Approved Comprehensive Solution for SRT Not Working in Premiere</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-creating-eastern-villas-in-the-virtual-realm/"><u>[New] 2024 Approved Creating Eastern Villas in the Virtual Realm</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-bandicam-know-how-a-complete-review-for-2024/"><u>[New] Essential Bandicam Know-How - A Complete Review for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nside-look-youtube-lives-image-interpretation/"><u>[New] Inside Look YouTube Live's Image Interpretation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-boost-your-buzz-telegram-tactics-for-impactful-promotion/"><u>[Updated] In 2024, Boost Your Buzz Telegram Tactics for Impactful Promotion</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s18-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S18</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/comprehensive-guide-on-eula-notification-policies/"><u>Comprehensive Guide on EULA Notification Policies</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/download-the-latest-dj-software-discover-the-new-dex-version-38-rc-free-trial-for-enthusiasts/"><u>Download the Latest DJ Software: Discover the New DEX Version 3.8 RC - Free Trial for Enthusiasts!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-pc-hardware-repairs-on-windows-expert-advice-by-yl-software-professionals/"><u>Mastering PC Hardware Repairs on Windows: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/post-restart-issues-troubleshooting-a-missing-sound-card-in-windows-tips-from-yl-computing/"><u>Post-Restart Issues: Troubleshooting a Missing Sound Card in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/selecting-the-perfect-crypto-investment-a-guide-by-yl-software/"><u>Selecting the Perfect Crypto Investment: A Guide by YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/thorough-examination-of-the-anker-maggo-6600mah-assessing-its-oversized-design-and-efficient-charging-capabilities/"><u>Thorough Examination of the Anker MagGo (6600mAh) - Assessing Its Oversized Design and Efficient Charging Capabilities</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-potential-dangers-a-deep-dive-into-cryptocurrency-investment-risks-yl-computing/"><u>Understanding Potential Dangers: A Deep Dive Into Cryptocurrency Investment Risks - YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-reasons-behind-blue-screen-errors-insights-from-yl-computing/"><u>Understanding the Reasons Behind Blue Screen Errors: Insights From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/why-does-my-pc-keep-restarting-at-random-uncover-the-reasons-with-yl-computings-expertise/"><u>Why Does My PC Keep Restarting at Random? Uncover the Reasons with YL Computing's Expertise</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/yl-software-insights-resolving-scanner-issues-when-unresponsive/"><u>YL Software Insights: Resolving Scanner Issues When Unresponsive</u></a></li>
 </ul></div>
 

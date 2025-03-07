@@ -1,7 +1,7 @@
 ---
 title: "Gestión Avanzada De Copias De Seguridad Gratis: Incrementales, Diferenciales Con AOMEI Backupper"
-date: 2025-02-16T20:18:38.788Z
-updated: 2025-02-18T22:50:50.254Z
+date: 2025-03-02T22:58:47.217Z
+updated: 2025-03-07T04:02:15.088Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b5bedb688c03953f127445f3.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -76,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -102,10 +94,6 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -122,25 +110,13 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -152,10 +128,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -164,19 +136,11 @@ Step 3\. Choose a restore point from the list and tap on **Scan for affected pro
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -206,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -256,22 +216,22 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-overcome-artificial-watches-for-natural-views-for-2024/"><u>[Updated] Overcome Artificial Watches for Natural Views for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728485802711-samsung-ssdssd/"><u>如何簡易地將Samsung SSD複製至其他SSD: 完美複製指南</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/achieve-harmony-import-audio-to-your-inshot-clips-for-2024/"><u>Achieve Harmony Import Audio to Your InShot Clips for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/come-superare-lirraggiungibilita-del-sistema-di-archiviazione-fat32-su-windows-11/"><u>Come Superare L'Irraggiungibilità Del Sistema Di Archiviazione FAT32 Su Windows 11</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/como-detener-que-google-drive-borre-tus-archivos-viejos-el-problema-resuelto/"><u>Cómo Detener Que Google Drive Borre Tus Archivos Viejos: El Problema Resuelto</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/essential-guide-keeping-your-memories-of-snapchats-intact/"><u>Essential Guide Keeping Your Memories of Snapchats Intact</u></a></li>
-<li><a href="https://win-blog.techidaily.com/filtro-de-imagens-converter-gratuitamente-arquivos-em-pbm-para-png-com-a-ferramenta-online-da-movavi/"><u>Filtro De Imagens: Converter Gratuitamente Arquivos Em PBM Para PNG Com a Ferramenta Online Da Movavi</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/free-transition-steps-from-windows-10-to-windows-11-a-complete-user-guide-for-seamless-conversion/"><u>Free Transition Steps From Windows 10 to Windows 11: A Complete User Guide for Seamless Conversion</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-7-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone 7 Space | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-k70-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi K70 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-steps-to-achieve-flawless-nocturnal-photography/"><u>In 2024, Essential Steps to Achieve Flawless Nocturnal Photography</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/lass-nichts-unter-den-teppich-fallen-die-kunst-geloschte-videos-auf-deinem-laptop-wiederherzustellen-windows-11/"><u>Lass Nichts Unter Den Teppich Fallen! Die Kunst, Gelöschte Videos Auf Deinem Laptop Wiederherzustellen (Windows 11)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/les-problemes-frequents-du-mode-sans-echec-dans-windows-11-et-comment-les-resoudre/"><u>Les Problèmes Fréquents Du Mode Sans Échec Dans Windows 11 Et Comment Les Résoudre</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quatre-strategies-pour-le-transfert-dun-dossier-de-cd-vers-une-nouvelle-plate-forme/"><u>Quatre Stratégies Pour Le Transfert D'Un Dossier De CD Vers Une Nouvelle Plate-Forme</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/sekret-fur-sektoren-klonierung-oder-vermeidung-richtige-erkenntnisse-finden-sie-hier/"><u>Sekret Für Sektoren: Klonierung Oder Vermeidung? Richtige Erkenntnisse Finden Sie Hier!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/for-youtube-thumbnail-size-for-2024/"><u>Tips for YouTube Thumbnail Size for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-11-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 11 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-tweet-to-facebook-manual/"><u>[Updated] The Ultimate Tweet-to-Facebook Manual</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728505486492-ssd/"><u>効率的なクルシアルのSSDに最適化したデータ転送フリーソフトウェア</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ae-text-and-title-styles-guide/"><u>AE Text & Title Styles Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-and-highly-functional-the-ambient-weather-ws-2902a-osprey-review/"><u>Affordable and Highly Functional - The Ambient Weather WS-2902A (Osprey) Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chat-not-working-solved/"><u>Apex Legends Voice Chat Not Working [SOLVED]</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/behebung-des-problems-acronis-geklonte-festplatte-bootet-nicht-expertenrat-fur-dauerhafte-problemlosung/"><u>Behebung Des Problems: Acronis-Geklonte Festplatte Bootet Nicht – Expertenrat Für Dauerhafte Problemlösung</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/decades-best-list-of-budget-friendly-desktop-recorders-for-2024/"><u>Decade's Best List of Budget-Friendly Desktop Recorders for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/decoding-sudden-pc-crashes-a-comprehensive-guide/"><u>Decoding Sudden PC Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-does-windows-identify-and-restore-accidentally-deleted-documents/"><u>How Does Windows Identify & Restore Accidentally Deleted Documents?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-the-reset-a-detailed-tutorial-for-gopro-hero-n-revival-steps-inside/"><u>Master the Reset: A Detailed Tutorial for GoPro Hero N Revival Steps Inside</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/restauration-complete-des-informations-sur-un-disque-dur-dordinateur-portable-hs-methodes-detaillees/"><u>Restauration Complète Des Informations Sur Un Disque Dur D'ordinateur Portable HS : Méthodes Détaillées</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailoring-windows-11-walls-to-perfection/"><u>Tailoring Windows 11 Walls to Perfection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-art-of-glamour-videos/"><u>The Art of Glamour Videos</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-3-methods-to-secure-your-files-with-a-password-on-windows-11/"><u>Top 3 Methods to Secure Your Files with a Password on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-oppo-a59-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Oppo A59 5G.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unveiling-top-tier-screen-capture-tech-in-itop-review/"><u>Unveiling Top-Tier Screen Capture Tech in ITop Review</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wireless-data-transfer-wie-man-daten-vom-iphone-zum-iphone-14-uberspielt/"><u>Wireless Data Transfer: Wie Man Daten Vom iPhone Zum iPhone 14 Überspielt</u></a></li>
 </ul></div>
 

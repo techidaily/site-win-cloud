@@ -1,7 +1,7 @@
 ---
 title: Efficiently Mirroring a Network Drive to Your Local Hardware Using Windows 10/11
-date: 2025-02-15T16:00:35.962Z
-updated: 2025-02-18T17:13:45.055Z
+date: 2025-03-03T05:31:47.085Z
+updated: 2025-03-07T04:34:05.508Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595ba3ecd2f30cf7442df5bd214.png
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
@@ -72,10 +68,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -104,10 +96,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 On **Recover My Computer** screen, find and choose the right system restore point and click **Recover Now** to make it.
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
@@ -154,10 +142,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
@@ -173,20 +157,12 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -198,10 +174,6 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -241,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -276,10 +240,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -298,21 +258,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-mastering-photo-frames-leading-software-reviews/"><u>[New] Mastering Photo Frames Leading Software Reviews</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-download-free-compelling-video-intros/"><u>[Updated] Download Free Compelling Video Intros</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-new-insight-sony-s6500-bd-reader-update/"><u>[Updated] New Insight Sony S6500 BD Reader Update</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-best-freefire-youtube-hashtags-and-tips-for-youtube-gaming-videos/"><u>2024 Approved Best FreeFire YouTube Hashtags and Tips For YouTube Gaming Videos</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/5-fast-methods-to-build-a-booting-windows-11-usb-from-an-iso-file/"><u>5 Fast Methods to Build a Booting Windows 11 USB From an ISO File</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/complete-tutorial-for-restoring-information-from-segmented-drives-in-windows-versions-10-8-and-7/"><u>Complete Tutorial for Restoring Information From Segmented Drives in Windows Versions 10, 8, and 7</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comprendre-le-processus-dassistance-pour-la-restauration-de-donnees-apres-une-panne-technique-soudaine/"><u>Comprendre Le Processus D'Assistance Pour La Restauration De Données Après Une Panne Technique Soudaine</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/descubre-el-mejor-programa-libre-para-realizar-copias-de-seguridad-automaticas-en-pcs-windows-opta-por-aomea-y-excel/"><u>Descubre El Mejor Programa Libre Para Realizar Copias De Seguridad Automáticas en PCs Windows - Opta Por AOMEA Y Excel</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-14-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 14? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/overcoming-the-disk-cannot-be-mounted-challenge-fix-your-partitions-now/"><u>Overcoming the 'Disk Cannot Be Mounted' Challenge - Fix Your Partitions Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-your-information-safeguarding-against-potential-risks-of-using-chatgpts-personalized-models/"><u>Protecting Your Information: Safeguarding Against Potential Risks of Using ChatGPT's Personalized Models</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/seamless-video-transition-tweeting-plus-tumbling-for-2024/"><u>Seamless Video Transition Tweeting + Tumbling for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleash-indoor-entertainment-with-the-low-cost-syma-s111g-rc-helicopter-insights-and-reviews/"><u>Unleash Indoor Entertainment with the Low-Cost Syma S111G RC Helicopter - Insights & Reviews</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unleashing-potential-pilots-choice-top-10-drone-must-haves-for-2024/"><u>Unleashing Potential Pilot's Choice - Top 10 Drone Must-Haves for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/windows-server2012-2022/"><u>Windows Serverバックアップソフトウェア(2012-2022対応)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728498272866-windows-10/"><u>ごみ箱に保存されていないWindows 10の削除ファイルを取り戻す方法</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-record-ps4-with-obs/"><u>[Updated] In 2024, How To Record PS4 with OBS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-0x800f0922-glitch-a-guide-for-successful-windows-11-updates/"><u>Bypassing the 0X800F0922 Glitch: A Guide for Successful Windows 11 Updates</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/diy-tutorial-crafting-a-compatible-disk-for-acer-erecovery-software/"><u>DIY Tutorial: Crafting a Compatible Disk for Acer eRecovery Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/efficient-data-protection-on-windows-server-comparing-full-backups-with-incrementaldifferential-strategies/"><u>Efficient Data Protection on Windows Server: Comparing Full Backups with Incremental/Differential Strategies</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/free-raw-format-repair-tool-effortlessly-fix-hard-disk-issues/"><u>Free RAW Format Repair Tool - Effortlessly Fix Hard Disk Issues!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-7-plus-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 7 Plus online without SIM Card?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/les-meilleurs-lecteurs-de-videos-wmv-pour-mac-os-windows-11-android-et-iphone-guide-comparatif/"><u>Les Meilleurs Lecteurs De Vidéos WMV Pour Mac OS, Windows 11, Android Et iPhone - Guide Comparatif</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outsmarting-gpts-defined-char-limit/"><u>Outsmarting GPT’s Defined Char Limit</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-note-30-vip-racing-edition-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Note 30 VIP Racing Edition Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-504-timeout-errors-on-your-websites/"><u>Solving the Mystery of 504 Timeout Errors on Your Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ujrakezdve-a-szovegkezesek-allithato-szerkeszto-programok-fulleseggel-pc-gyakorlasara-es-okostelefonnahoz-202-a-szabad-keresesen/"><u>Újrakezdve a Szövegkezések: Állítható Szerkesztő Programok Fülleséggel PC-Gyakorlására És Okostelefonnához, 202# - A Szabad Keresésen</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-list-of-free-solutions-to-securely-archive-your-messages-in-gmail-outlook-and-yahoo/"><u>Ultimate List of Free Solutions to Securely Archive Your Messages in Gmail, Outlook, and Yahoo</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-hp-chromebook-11-an-all-in-one-solution-for-academics-careers-and-recreation/"><u>Unveiling the HP Chromebook 11: An All-in-One Solution for Academics, Careers & Recreation</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728469387033-windows-11-pc/"><u>Windows 11 移行ガイド: PCへのシームレス転送手順</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728502009994-windows-11/"><u>Windows 11系統冻结解决六个经济实用方法</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728492864254-windows-0x8078002a/"><u>Windows バックアップ失敗のエラーコード 0X8078002A - 直訳と解決法</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/5-raw/"><u>パーティション回復に必要な5つのコツ: RAWドライブ向けガイド</u></a></li>
 </ul></div>
 

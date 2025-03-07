@@ -1,7 +1,7 @@
 ---
 title: Comprehensive How-To for Constructing Bootable Windows Server 2022 Media via USB – The Definitive Guide!
-date: 2025-02-17T17:24:26.270Z
-updated: 2025-02-18T17:42:30.984Z
+date: 2025-03-05T03:48:50.735Z
+updated: 2025-03-07T04:13:58.075Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a75414c6458bd1e077bee973ffa.jpg
@@ -42,10 +42,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
@@ -60,10 +56,6 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What caused winload.efi missing error?
 
 Causes of "winload.efi missing or contains error after clone" issues:
@@ -74,17 +66,9 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -102,10 +86,6 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
@@ -113,10 +93,6 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
@@ -135,10 +111,6 @@ Step 2\. Navigate to the Secure Boot option in BIOS, located under tabs like **B
 Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disable**.
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
@@ -163,10 +135,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -256,10 +224,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
@@ -294,10 +258,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -313,24 +273,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-optimizing-call-recording-on-facetime-platforms/"><u>[New] 2024 Approved Optimizing Call Recording on FaceTime Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cutting-edge-techniques-for-captivating-online-advertising/"><u>[New] In 2024, Cutting-Edge Techniques for Captivating Online Advertising</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-ae-techniques-for-memorable-heads-ups/"><u>[New] In 2024, Essential AE Techniques for Memorable Heads-Ups</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/astering-youtube-live-imagery-a-comprehensive-overview/"><u>[New] Mastering YouTube Live Imagery A Comprehensive Overview</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-guide-to-profiting-off-reddit-13-ways-here/"><u>[Updated] In 2024, The Ultimate Guide to Profiting Off Reddit - 13 Ways Here</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-expert-techniques-for-seamless-image-layering-and-editing-a-step-by-step-guide/"><u>1. Expert Techniques for Seamless Image Layering & Editing : A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/advanced-techniques-for-handling-package-dependencies-within-microsofts-installer-framework/"><u>Advanced Techniques for Handling Package Dependencies Within Microsoft's Installer Framework</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/annotated-list-of-the-deadliest-digital-plagues-unraveling-the-dark-side-of-technology-with-a-review-of-historic-malware-foxes/"><u>Annotated List of the Deadliest Digital Plagues: Unraveling the Dark Side of Technology with a Review of Historic Malware Foxes</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/antivirus-limitations-and-advanced-safeguards-necessary-for-optimal-security-online/"><u>Antivirus Limitations and Advanced Safeguards Necessary for Optimal Security Online</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/best-5-video-webcams-equipped-with-microphones/"><u>Best 5 Video Webcams Equipped With Microphones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cracking-cases-digitally-explore-4-innovative-ai-powered-homicide-challenges/"><u>Cracking Cases Digitally: Explore 4 Innovative AI-Powered Homicide Challenges</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/essential-unknown-capabilities-of-ios-11-a-must-know-list-for-tech-enthusiasts/"><u>Essential Unknown Capabilities of iOS 11: A Must-Know List for Tech Enthusiasts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-cleanse-microsoft-pop-up-warning-of-pornographic-content/"><u>How to Cleanse Microsoft Pop-Up Warning of Pornographic Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-non-copyrighted-meditation-sounds/"><u>In 2024, Non-Copyrighted Meditation Sounds</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-tips-accelerating-your-videos-for-faster-instagram-posts/"><u>Quick Tips: Accelerating Your Videos for Faster Instagram Posts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-wireless-and-usb-file-sharing-between-your-pc-and-galaxy-s4/"><u>Step-by-Step Guide: Wireless and USB File Sharing Between Your PC & Galaxy S4</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-practice-of-progressive-audio-suppression-in-fl-studio/"><u>The Practice of Progressive Audio Suppression in FL Studio</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-guide-thorough-file-deletion-techniques-for-your-iphone-6-or-6-plus/"><u>Ultimate Guide: Thorough File Deletion Techniques for Your iPhone 6 or 6 Plus</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[New] 2024 Approved Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-critical-considerations-for-successful-tiktok-use-on-macos/"><u>[New] Critical Considerations for Successful TikTok Use on macOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-melody-meters-your-guide-to-free-online-pulse-detectors/"><u>[New] Melody Meters Your Guide to Free Online Pulse Detectors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-editor-secrets-unlocked-in-canva-photo-editing/"><u>[New] Top Editor Secrets Unlocked in Canva Photo Editing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-guide-twitter-video-enhancers-for-2024/"><u>[New] Ultimate Guide Twitter Video Enhancers for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/bestselling-pdf-editor-software-for-mac-users-2020-edition/"><u>Bestselling PDF Editor Software for Mac Users - 2020 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/demystifying-instagram-selfies-a-comprehensive-guide-for-2024/"><u>Demystifying Instagram Selfies A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-methods-for-eliminating-the-persistent-unwanted-auto-play-audio-malware/"><u>Effective Methods for Eliminating the Persistent Unwanted Auto-Play Audio Malware</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/eliminating-the-apple-security-warning-hoax-a-step-by-step-guide-by-malwarefox/"><u>Eliminating the Apple Security Warning Hoax: A Step-by-Step Guide by MalwareFox</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/enhance-professional-expertise-with-an-msi-certified-programmer-certificate/"><u>Enhance Professional Expertise with an MSI Certified Programmer Certificate</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 mini 3 Ways To Unlock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instagrams-most-effective-tags-to-increase-engagement/"><u>Instagram's Most Effective Tags to Increase Engagement</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-vertical-video-editing-in-the-cloud-top-web-apps/"><u>New 2024 Approved Vertical Video Editing in the Cloud Top Web Apps</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/simple-techniques-to-cleanly-delete-items-from-photographs/"><u>Simple Techniques to Cleanly Delete Items From Photographs</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/techniques-enabling-malware-delivery-via-scripting-insights-from-malwarefox/"><u>Techniques Enabling Malware Delivery via Scripting: Insights From MalwareFox</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-methods-for-streaming-your-zoom-video-calls-on-television/"><u>Top Methods for Streaming Your Zoom Video Calls on Television</u></a></li>
+<li><a href="https://article-files.techidaily.com/transferring-media-pc-files-to-your-ios-device-for-2024/"><u>Transferring Media PC Files To Your iOS Device for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-difference-spyware-vs-malware-explained-with-malwarefox/"><u>Understanding the Difference: Spyware Vs. Malware Explained with MalwareFox</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unveiling-malwares-purpose-functionality-explained-and-tips-to-protect-your-system-from-infections/"><u>Unveiling Malware's Purpose: Functionality Explained & Tips to Protect Your System From Infections</u></a></li>
 </ul></div>
 

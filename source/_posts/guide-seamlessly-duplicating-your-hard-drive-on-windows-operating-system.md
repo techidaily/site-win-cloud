@@ -1,7 +1,7 @@
 ---
 title: "Guide: Seamlessly Duplicating Your Hard Drive on Windows Operating System"
-date: 2025-02-11T21:01:48.049Z
-updated: 2025-02-18T20:49:04.008Z
+date: 2025-02-28T00:51:16.134Z
+updated: 2025-03-06T22:30:24.290Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba5996edeb6f057c08fddaa5f37.jpg
@@ -43,10 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -64,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -93,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -121,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,20 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-the-google-meet-conversation-blueprint-for-success/"><u>[New] The Google Meet Conversation Blueprint for Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-utilizing-edges-split-screen-feature-pip/"><u>[New] Utilizing Edge's Split Screen Feature PIP</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-decode-and-maximize-your-impact-on-instagram-with-these-insights-for-2024/"><u>[Updated] Decode & Maximize Your Impact on Instagram with These Insights for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-font-selection-wonders-enhancing-youtube-video-thumbnails/"><u>[Updated] Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-captivate-audiences-with-ppt-on-mobilelaptop-in-gmeet-for-2024/"><u>[Updated] How to Captivate Audiences with PPT on Mobile/Laptop in GMeet for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/h264avi/"><u>「画質維持でH264動画をAVIに変換：専門家のコツとテクニック」</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/capturing-specific-areas-on-your-screen-in-windows-10-and-11-tutorials-for-precision-shots/"><u>Capturing Specific Areas on Your Screen in Windows 10 and 11 - Tutorials for Precision Shots</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/dvd-launch-city-of-bones-from-the-mortal-instruments-series-now-available-via-sony/"><u>DVD Launch: 'City of Bones' From The Mortal Instruments Series, Now Available via Sony</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-guide-to-joining-and-advancing-from-free-to-pro-with-wonderfox-dvd-video-converter/"><u>Easy Guide to Joining & Advancing From Free to Pro with WonderFox DVD Video Converter</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-ways-to-transform-bik-videos-into-popular-file-types-such-as-mp4-avi-and-mkv-for-universal-playback-compatibility/"><u>Easy Ways to Transform BIK Videos Into Popular File Types Such as MP4, AVI & MKV for Universal Playback Compatibility</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-techniques-transforming-your-twitch-stream-into-an-mp4-file/"><u>Effortless Techniques: Transforming Your Twitch Stream Into an MP4 File</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/get-your-free-trial-of-the-ultimate-flv-video-converter-flv-converter-factory-pro-no-risks-with-secure-online-buy/"><u>Get Your Free Trial of the Ultimate FLV Video Converter: FLV Converter Factory Pro - No Risks with Secure Online Buy</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y78plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y78+ Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-12-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme 12 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-refresh-your-lenovo-laptops-factory-defaults/"><u>The Complete Guide to Refresh Your Lenovo Laptop's Factory Defaults</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-complete-tutorial-on-zoom-podcasts-recording/"><u>[New] 2024 Approved Complete Tutorial on Zoom Podcasts Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-industry-standards-the-top-5-online-video-devices/"><u>[New] In 2024, Industry Standards The Top 5 Online Video Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-viral-success-the-most-loved-ae-themes-for-social-media/"><u>[New] Viral Success The Most Loved AE Themes for Social Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-masters-picks-highest-rated-cards-for-streaming-on-youtube/"><u>[Updated] Master's Picks Highest Rated Cards for Streaming on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-spotify-promos-your-comprehensive-guide-for-2024/"><u>[Updated] Mastering Spotify Promos Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-step-by-step-guide-eradicating-app-store-adware-from-your-computer/"><u>1. Step-by-Step Guide: Eradicating App Store Adware From Your Computer</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effortless-guide-on-solving-winserver-2008-r2-problems-with-cmd-techniques/"><u>Effortless Guide on Solving WinServer 2008 R2 Problems with CMD Techniques</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/explore-superior-alternatives-to-itunes-on-android-devices-unmatched-features-and-seamless-usage-guaranteed/"><u>Explore Superior Alternatives to iTunes on Android Devices: Unmatched Features and Seamless Usage Guaranteed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oneplus-ace-2-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your OnePlus Ace 2</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-affordable-dell-g5-title-idea-3-top-picks-the-ultimate-budget-gaming-rig-a-closer-look-at-the-dell-g5-5090/"><u>In-Depth Analysis of the Affordable Dell G5 Title Idea 3: Top Picks - The Ultimate Budget Gaming Rig: A Closer Look at the Dell G5 5090</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mobvoi-ticwatch-pro-3/"><u>Mobvoi TicWatch Pro 3</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/transform-your-3gp-files-into-animation-music-video-amv-format-with-ease/"><u>Transform Your 3GP Files Into Animation Music Video (AMV) Format with Ease</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-pdf-threats-can-pdfs-be-infected-and-how-to-spot-harmful-ones/"><u>Understanding PDF Threats: Can PDFs Be Infected and How to Spot Harmful Ones?</u></a></li>
 </ul></div>
 

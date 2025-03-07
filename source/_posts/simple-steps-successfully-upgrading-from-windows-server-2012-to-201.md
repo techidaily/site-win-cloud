@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Successfully Upgrading From Windows Server 2012 to 201"
-date: 2025-02-13T21:33:22.047Z
-updated: 2025-02-18T18:43:22.880Z
+date: 2025-02-28T16:00:32.695Z
+updated: 2025-03-07T07:16:39.029Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4efcb33fd8811a101c2c676422.png
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -73,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -93,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -112,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -128,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -198,14 +170,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hero-session-vs-cube-a-face-off-in-video-editors/"><u>2024 Approved Hero Session Vs. Cube A Face-Off in Video Editors</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/creating-and-configuring-new-network-connections-for-windows-systems-with-tips-from-yl-computing/"><u>Creating and Configuring New Network Connections for Windows Systems with Tips From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-non-essential-windows-11-feedback-alerts/"><u>Disabling Non-Essential Windows 11 Feedback Alerts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/epic-battlescape-of-lords-of-the-fallen-in-4k-res-dynamic-wallpaper-for-gamers-by-yourlifesoftware/"><u>Epic Battlescape of 'Lords of the Fallen' In 4K Res – Dynamic Wallpaper for Gamers by YourLifeSoftware</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/high-definition-pulp-fiction-desktop-and-screen-saver-graphics-professional-quality-visual-content/"><u>High-Definition Pulp Fiction Desktop & Screen Saver Graphics - Professional Quality Visual Content</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-12-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 12 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209800563-9781609251161-stepping-stones/"><u>Stepping Stones | Free Book</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/troubleshooting-unexpected-graphics-card-issues-on-your-computer-with-tips-by-yl-software-experts/"><u>Troubleshooting Unexpected Graphics Card Issues on Your Computer with Tips by YL Software Experts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-navigating-the-world-of-screen-capture-nvidia-edition/"><u>[New] 2024 Approved Navigating the World of Screen Capture NVIDIA Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhancing-streaming-quality-for-instagram-videos/"><u>[New] Enhancing Streaming Quality for Instagram Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-niche-knowledge-on-selecting-premium-fpv-drone-propellers/"><u>[New] Niche Knowledge on Selecting Premium FPV Drone Propellers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-effortless-income-estimations-for-youtubers/"><u>[Updated] In 2024, Effortless Income Estimations for YouTubers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mememasters-suite-download/"><u>2024 Approved MemeMasters Suite Download</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/adjusting-screen-display-resolution-via-control-panel-step-by-step-guide-by-yl-computing/"><u>Adjusting Screen Display Resolution via Control Panel - Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-huawei-nova-11-pro-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Huawei Nova 11 Pro with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://win-cloud.techidaily.com/revamp-your-dj-online-presence-expert-advice-on-masterful-seo-techniques-for-pcdj-enthusiasts/"><u>Revamp Your DJ Online Presence: Expert Advice on Masterful SEO Techniques for PCDJ Enthusiasts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solving-graphics-card-drivers-issues-expert-tips-from-yl-computing/"><u>Solving Graphics Card Drivers Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/taiping-rebellion-unraveling-its-origins-and-consequences-in-qing-dynastys-history-1850-1864/"><u>Taiping Rebellion: Unraveling Its Origins & Consequences in Qing Dynasty's History (1850-1864)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-13-ultimate-dvd-player-apps-compatible-with-windows-11-the-best-free-options/"><u>Top 13 Ultimate DVD Player Apps Compatible with Windows 11: The Best FREE Options</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/traditional-rogues-vs-modern-roguism-for-2024/"><u>Traditional Rogues Vs. Modern Roguism for 2024</u></a></li>
 </ul></div>
 

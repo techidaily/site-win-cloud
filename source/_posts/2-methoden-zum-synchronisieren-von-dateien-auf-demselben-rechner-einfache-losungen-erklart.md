@@ -1,7 +1,7 @@
 ---
 title: 2 Methoden Zum Synchronisieren Von Dateien Auf Demselben Rechner - Einfache Lösungen Erklärt
-date: 2025-02-11T16:37:00.234Z
-updated: 2025-02-18T19:02:10.512Z
+date: 2025-03-03T21:26:33.367Z
+updated: 2025-03-06T20:22:17.802Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c801563eee3cb6a0837d30c326713.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -42,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -85,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -100,10 +84,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -141,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,18 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-techniques-for-crafting-engaging-youtube-shorts-templates/"><u>[New] In 2024, Top Techniques for Crafting Engaging YouTube Shorts Templates</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-tailoring-audio-how-to-download-and-customize-whatsapp-tones-on-devices/"><u>[New] Tailoring Audio How to Download & Customize WhatsApp Tones on Devices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-essential-knowledge-for-hosting-effective-split-screen-events-on-facebook/"><u>[Updated] Essential Knowledge for Hosting Effective Split Screen Events on Facebook</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-guide-capturing-screenshots-and-recording-your-screen-on-windows-1011-using-native-features/"><u>Easy Guide: Capturing Screenshots and Recording Your Screen on Windows 10/11 Using Native Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-xiaomi-redmi-note-12-pro-4g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/enhancing-cybersecurity-with-multi-layered-passwords-learn-to-activate-dual-authentication-features-and-fortify-your-digital-safety-zdnet/"><u>Enhancing Cybersecurity with Multi-Layered Passwords: Learn to Activate Dual-Authentication Features and Fortify Your Digital Safety | ZDNet</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/exploring-the-microsoft-surface-duo-2-intriguing-yet-baffling-detailed-analysis-so-far-gadgetsphere/"><u>Exploring the Microsoft Surface Duo 2: Intriguing Yet Baffling - Detailed Analysis So Far | GadgetSphere</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gaming-hack-elevating-your-gameplay-with-higher-fps-on-tainted-grail-conquest-stage/"><u>Gaming Hack: Elevating Your Gameplay with Higher FPS on Tainted Grail: Conquest Stage</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-does-a-trusted-platform-module-tpm-bolster-windows-11s-safety-features-insights-and-benefits/"><u>How Does a Trusted Platform Module (TPM) Bolster Windows 11'S Safety Features? Insights & Benefits</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/in-depth-review-of-the-innolux-pn3076ua-ultrawide-gaming-monitor-with-144hz-is-it-worth-your-space/"><u>In-Depth Review of the Innolux PN3076UA Ultrawide Gaming Monitor with 144Hz - Is It Worth Your Space?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/is-microsofts-windows-11-release-already-overhyped-exploring-its-controversial-launch-on-zdnet/"><u>Is Microsoft's Windows 11 Release Already Overhyped? Exploring Its Controversial Launch on ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-finest-no-cost-recording-software-today-for-2024/"><u>Unveiling the Finest No-Cost Recording Software Today for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-enhancing-visual-storytelling-with-well-chosen-b-roll/"><u>[New] 2024 Approved Enhancing Visual Storytelling with Well-Chosen B-Roll</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-secrets-to-effective-video-tagging-revealed-here/"><u>[New] Secrets to Effective Video Tagging Revealed Here</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-stealthy-methods-uncovering-how-malware-secretly-infiltrates-your-computer/"><u>1. Stealthy Methods: Uncovering How Malware Secretly Infiltrates Your Computer</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-14-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi 14 Ultra without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comparing-msi-and-msp-understanding-the-difference-in-microsoft-installation-packages/"><u>Comparing MSI and MSP: Understanding the Difference in Microsoft Installation Packages</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-pci-device-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download PCI Device Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/elevate-your-skills-with-advanced-msi-academy-zero-cost-professional-certification-program/"><u>Elevate Your Skills with Advanced MSI Academy: Zero Cost Professional Certification Program</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/hassle-free-methods-for-adding-movies-to-your-ios-device-by-bypassing-itunes/"><u>Hassle-Free Methods for Adding Movies to Your iOS Device by Bypassing iTunes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-found-windows-stopped-on-nvidia-error/"><u>Resolution Found: Windows Stopped on Nvidia Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/talent-in-cocktails-chatgpts-evaluation/"><u>Talent in Cocktails: ChatGPT's Evaluation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-venture-made-easy-the-most-accessible-biz-channel-ideas-ranked/"><u>YouTube Venture Made Easy The Most Accessible Biz Channel Ideas Ranked</u></a></li>
 </ul></div>
 

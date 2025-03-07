@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Isn't Google Drive Displayed in Windows File Explorer?"
-date: 2025-02-15T17:55:24.086Z
-updated: 2025-02-18T18:00:49.252Z
+date: 2025-03-02T21:02:44.956Z
+updated: 2025-03-07T03:51:41.468Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
@@ -28,10 +28,6 @@ By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [User case: Windows 11 winload.efi missing, F8 button not working](https://tools.techidaily.com/ubackup/products/)
@@ -51,10 +47,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
@@ -86,10 +78,6 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best free bootable media creation tool
 
 [**Download Freeware** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -102,10 +90,6 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
@@ -113,10 +97,6 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -135,10 +115,6 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -159,10 +135,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -222,10 +194,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -244,10 +212,6 @@ You just need to download this software and install it. Open it and navigate to 
 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This post outlines 5 effective methods to address the "Winload.efi missing Windows 11" boot error. Notably, AOMEI Backupper Standard offers user-friendly solutions to create a bootable media and offers system backup solution. When you encounter other computers issues like [Blue Screen on Windows 11](https://tools.techidaily.com/ubackup/products/).
@@ -259,10 +223,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -313,18 +273,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-navigating-snap-camera-feature-in-microsoft-teams/"><u>[New] Navigating Snap Camera Feature in Microsoft Teams</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-tailored-interventions-for-2024/"><u>[New] Tailored Interventions for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cant-see-cursor-only-sony-a6400-glitch/"><u>[Updated] Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-efficient-multi-tasking-activating-and-disabling-pip-in-safari/"><u>[Updated] Efficient Multi-Tasking Activating & Disabling PIP in Safari</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/apowersoft-launches-version-10-of-mac-compatible-video-downloader/"><u>Apowersoft Launches Version 1.0 of Mac-Compatible Video Downloader</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/best-free-methods-to-download-any-website-as-a-pdf-top-10-strategies/"><u>Best Free Methods to Download Any Website as a PDF: Top 10 Strategies</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/beware-these-7-facebook-hoaxes-comprehensive-strategies-for-protection/"><u>Beware These 7 Facebook Hoaxes! Comprehensive Strategies for Protection</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-privacy-concerns-in-ai-powered-dialogue-services-what-you-need-to-know/"><u>Critical Privacy Concerns in AI-Powered Dialogue Services: What You Need to Know</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-top-techniques-for-transferring-contacts-and-apps-between-phones-a-comprehensive-guide/"><u>Effortless Top Techniques for Transferring Contacts and Apps Between Phones: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-speedy-solutions-resolving-iphoneipad-widget-issues-instantly/"><u>Top 10 Speedy Solutions: Resolving iPhone/iPad Widget Issues Instantly!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-laptop-picks-for-2e24-comprehensive-tests-and-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Laptop Picks for 2E24: Comprehensive Tests & Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unraveling-the-mystery-why-is-my-windows-file-explorer-spontaneously-launching-insights-from-malwarefox/"><u>Unraveling the Mystery: Why Is My Windows File Explorer Spontaneously Launching? Insights From MalwareFox</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimize-video-engagement-through-resizing-thumbnails-on-youtube/"><u>[New] 2024 Approved How to Optimize Video Engagement Through Resizing Thumbnails on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-videos-to-audible-pleasures-online-mp3-creation-secrets-for-2024/"><u>[New] FB Videos to Audible Pleasures Online MP3 Creation Secrets for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-steps-to-restore-accidentally-erased-sizeable-mkv-video-files/"><u>1. Steps to Restore Accidentally Erased Sizeable MKV Video Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-mkv-splitting-tool-divide-your-video-files-into-halves-or-thirds-download-now/"><u>Best FREE MKV Splitting Tool: Divide Your Video Files Into Halves or Thirds – Download Now!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fast-solutions-restore-your-files-swiftly-after-a-windows-version-setback/"><u>Fast Solutions: Restore Your Files Swiftly After a Windows Version Setback</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-plus-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Plus Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-14-plus-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 14 Plus to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-lenovo-thinkphone-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Lenovo ThinkPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/les-meilleurs-alternatifs-aux-machines-a-temps-pour-les-utilisateurs-de-windows-versions-111087/"><u>Les Meilleurs Alternatifs Aux Machines À Temps Pour Les Utilisateurs De Windows (Versions 11/10/8/7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-audacity-device-opening-failure/"><u>Overcoming Audacity Device Opening Failure</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/signs-indicating-a-dead-external-ssdhdd-troubleshooting-guide/"><u>Signs Indicating a Dead External SSD/HDD - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-retrieving-lost-eps-images-with-ease/"><u>Step-by-Step Guide: Retrieving Lost EPS Images with Ease</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-tutorial-on-retrieving-iphone-data-post-factory-reset-scenario/"><u>Step-by-Step Tutorial on Retrieving iPhone Data Post Factory Reset Scenario</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/task-automator-guide-managing-sessions-and-preserving-future-setups/"><u>Task Automator Guide: Managing Sessions and Preserving Future Setups</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/the-evolution-of-smartphone-scanners-iphone-x-versus-xs-insights-from-abbyys-latest-updates/"><u>The Evolution of Smartphone Scanners: IPhone X versus Xs - Insights From ABBYY's Latest Updates</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-tutorial-on-migrating-movies-and-clips-between-two-ipads/"><u>Ultimate Tutorial on Migrating Movies and Clips Between Two iPads</u></a></li>
 </ul></div>
 

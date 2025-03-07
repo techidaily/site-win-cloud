@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Discover the New DEX Version 3.8 RC - Free Trial for Enthusiasts!"
-date: 2025-02-11T19:06:31.072Z
-updated: 2025-02-18T22:53:46.757Z
+date: 2025-02-28T21:34:01.564Z
+updated: 2025-03-06T21:36:31.998Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here’s What’s New, Changed And Fixed In DEX 3.8 RC2 (Since Monday’s Release)
 
 * Fixed ASIO bug (crash when accessing certain ASIO drivers is fixed)
@@ -48,17 +44,9 @@ Be sure to test drive the new ‘_always in sync_‘ beat-lock engine and all ot
 
 _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you can find it on the [DEX 3 support page here](https://tools.techidaily.com/pcdj/products/)._ 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DEX 3.8 | NEW FEATURES OVERVIEW
 
 _Have questions about our **best DJ mixing software**, DEX 3.8? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -79,18 +67,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/05/downloaddex3rc2-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-snapseed-advanced-usage-insights-for-2024/"><u>[New] Snapseed Advanced Usage Insights for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ape-aac-movavi/"><u>APE 파일을 AAC로 구독하기: 원거리 무료 솔루션 - Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/classroom-vids-essential-editing-strategies/"><u>Classroom Vids Essential Editing Strategies</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/discover-stunning-footwear-designs-with-yl-softwares-720-image-gallery-and-desktop-wallpapers/"><u>Discover Stunning Footwear Designs with YL Software's 720 Image Gallery & Desktop Wallpapers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/discovering-8-cost-effective-video-meeting-software-options-for-2024/"><u>Discovering 8 Cost-Effective Video Meeting Software Options for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/get-your-free-mp4-soundtracks-now-perfect-playback-on-iphone-ipad-and-android-systems/"><u>Get Your FREE MP4 Soundtracks Now – Perfect Playback on iPhone, iPad, and Android Systems</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/high-definition-demonic-blade-shredding-wallpaper-visuals-and-backdrops-for-your-pc-curated-by-yl-computing/"><u>High-Definition Demonic Blade Shredding Wallpaper: Visuals & Backdrops for Your PC - Curated by YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nubia-red-magic-8s-proplus-lock-screen-password-by-drfone-android/"><u>How To Change Nubia Red Magic 8S Pro+ Lock Screen Password?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-safaris-picture-in-picture-for-mobiledesktop/"><u>Navigating Safari’s Picture in Picture for Mobile/Desktop</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/selecting-the-perfect-crypto-investment-a-guide-by-yl-software/"><u>Selecting the Perfect Crypto Investment: A Guide by YL Software</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unlock-system-efficiency-a-guide-to-clearing-up-ram-by-yl-software-experts/"><u>Unlock System Efficiency: A Guide to Clearing Up RAM by YL Software Experts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/why-does-my-pc-keep-restarting-at-random-uncover-the-reasons-with-yl-computings-expertise/"><u>Why Does My PC Keep Restarting at Random? Uncover the Reasons with YL Computing's Expertise</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/yl-software-insights-resolving-scanner-issues-when-unresponsive/"><u>YL Software Insights: Resolving Scanner Issues When Unresponsive</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-guide-to-virtual-whiteboard-excellence-for-zoom-sessions-desktopiosandroid/"><u>[New] The Complete Guide to Virtual Whiteboard Excellence for Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-video-to-text-for-free/"><u>[Updated] 2024 Approved How to Add Video to Text for Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capturing-the-action-top-four-ways-to-record-on-xbox-one/"><u>[Updated] In 2024, Capturing the Action Top Four Ways to Record on Xbox One</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-obs-recording-guide-for-gaming-enthusiasts-for-2024/"><u>[Updated] The Ultimate OBS Recording Guide for Gaming Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-pattern-perfection-dissecting-bebops-parrot-expedition/"><u>2024 Approved Flight Pattern Perfection Dissecting Bebop's Parrot Expedition</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-personalize-mouse-and-touchpad-configuration-via-control-panel-with-guidance-from-yl-computing/"><u>How to Personalize Mouse and Touchpad Configuration via Control Panel with Guidance From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-retrieve-and-reinstall-disappeared-scanner-drivers-in-windows-expert-tips-from-yl-computing/"><u>How to Retrieve and Reinstall Disappeared Scanner Drivers in Windows - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/japanese-central-bank-chief-at-jackson-hole-chinas-economic-woes-could-weigh-down-japan-analysis-by-yl-computing-yl-software/"><u>Japanese Central Bank Chief at Jackson Hole: China's Economic Woes Could Weigh Down Japan – Analysis by YL Computing | YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/key-registry-districts-you-need-to-know-insights-from-yl-computing-and-yl-software/"><u>Key Registry Districts You Need To Know: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/one-step-bavarder-setup-procedure-for-linux-users/"><u>One-Step Bavarder Setup Procedure for Linux Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-a59-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo A59 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-galaxy-a54-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Galaxy A54 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-solutions-to-overcome-the-loading-screen-issue-in-forza-horizon-5/"><u>Top 7 Solutions to Overcome the Loading Screen Issue in Forza Horizon 5</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-guide-fixes-for-malfunctioning-graphics-drivers-tips-by-yl-computing/"><u>Troubleshooting Guide: Fixes for Malfunctioning Graphics Drivers - Tips by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unlock-the-secrets-to-fix-your-non-responsive-windows-pc-with-yl-software-solutions/"><u>Unlock the Secrets to Fix Your Non-Responsive Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/unveiling-exciting-updates-in-the-latest-dex-4-version-by-pioneer-dj/"><u>Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ</u></a></li>
 </ul></div>
 

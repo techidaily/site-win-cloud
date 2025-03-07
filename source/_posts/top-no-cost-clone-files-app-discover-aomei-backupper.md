@@ -1,7 +1,7 @@
 ---
 title: "Top No-Cost Clone Files App: Discover AOMEI Backupper"
-date: 2025-02-17T16:44:00.391Z
-updated: 2025-02-18T23:11:37.123Z
+date: 2025-03-03T20:49:35.843Z
+updated: 2025-03-06T21:03:58.382Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/22abb9cfe31c7f2c3c7286f2617faed6b91923b5cceec713f8e751d61a458df6.jpg
@@ -28,20 +28,12 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -52,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -85,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -105,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -116,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,14 +170,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-cloud.techidaily.com/best-methods-for-capturing-your-iphones-display-iphone-x-and-iphone/"><u>Best Methods for Capturing Your iPhone's Display: IPhone X and iPhone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-launch-interactive-ebooks-exe-immediately-on-pc-discover-the-power-of-flipbuilder-conversion-tools/"><u>How To Launch Interactive eBooks (EXE) Immediately on PC? Discover the Power of FlipBuilder Conversion Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-permanently-discontinue-use-of-your-twitch-account-a-step-by-step-guide/"><u>How To Permanently Discontinue Use Of Your Twitch Account - A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-save-or-record-periscope-videos-complete-guide-for-2024/"><u>How to Save or Record Periscope Videos Complete Guide for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphone-hdr-masterclass-from-basics-to-brilliance/"><u>IPhone HDR Masterclass From Basics to Brilliance</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-and-simple-methods-for-shifting-pdf-files-from-pc-to-ios-devices/"><u>Quick & Simple Methods for Shifting PDF Files From PC to iOS Devices</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-user-manual-creating-and-editing-with-apowersoft-gif/"><u>Step-by-Step User Manual: Creating & Editing with Apowersoft GIF</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-setting-up-automatic-text-reminders-on-your-iphone/"><u>The Ultimate Guide: Setting Up Automatic Text Reminders on Your iPhone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-the-terms-of-use-for-apoweredits-advanced-speech-to-text-solutions-purchase-order-details-inside/"><u>Understanding the Terms of Use for ApowerEdit's Advanced Speech-to-Text Solutions - Purchase Order Details Inside</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eo-revolution-transforming-your-content-visibility-for-2024/"><u>[New] SEO Revolution Transforming Your Content Visibility for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-creating-impactful-youtube-conclusion/"><u>[Updated] 2024 Approved Creating Impactful YouTube Conclusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-video-zoom-editors-of-the-year-roundup/"><u>[Updated] Best Video Zoom Editors of the Year - Roundup</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-discover-9-easy-no-cost-editing-software-options/"><u>[Updated] Discover 9 Easy, No-Cost Editing Software Options</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-first-time-filmmaker-guide-setting-up-logitech-cam-for-2024/"><u>[Updated] First-Time Filmmaker Guide Setting up Logitech Cam for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728481318635-google/"><u>消えてしまった動画を復元する : Google フォト対策詳細説明</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-fix-the-frustrating-caa5-21-error-in-windows-a-comprehensive-step-by-step-manual-for-tech-enthusiasts/"><u>How To Fix The Frustrating CAA5 2.1 Error in Windows: A Comprehensive Step-by-Step Manual for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-get-back-your-disappeared-data-post-reboot-in-windows-11-a-step-by-step-guide-part-1-of-5/"><u>How To Get Back Your Disappeared Data Post-Reboot In Windows 11: A Step-by-Step Guide (Part 1 of 5)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-warriors-path-a-list-of-intense-fighting-games/"><u>In 2024, Warrior's Path A List of Intense Fighting Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-your-control-the-ultimate-guide-for-effortlessly-fixing-unresponsive-bluetech-in-windows-11-fix-revealed/"><u>Restore Your Control: The Ultimate Guide for Effortlessly Fixing Unresponsive BlueTech in Windows 11 (Fix Revealed)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-restore-accidentally-erased-tracks-from-your-vehicles-usb-memory-stick/"><u>Step-by-Step Guide: Restore Accidentally Erased Tracks From Your Vehicle's USB Memory Stick</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

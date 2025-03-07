@@ -1,7 +1,7 @@
 ---
 title: Unveiling Exciting Updates in the Latest DEX 4 Version by Pioneer DJ
-date: 2025-02-15T22:18:03.433Z
-updated: 2025-02-18T16:59:48.643Z
+date: 2025-03-04T01:10:17.880Z
+updated: 2025-03-07T05:59:48.999Z
 tags:
   - product
 categories:
@@ -25,10 +25,6 @@ Additionally, the introduction of PADs with versatile modes like Loop Rolls, Sli
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## DEX 4 Feature Highlights:
 
@@ -63,10 +59,6 @@ While it is a lot more cumbersome than using a controller, on the user interface
 this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see https://www.digitaldjtips.com/fuzzy-keymixing-the-new-way-to-dj/
 * new controller: RANE Four
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Other features:
 
 * added new Audio Routing options for Booth (output) and Record (input)
@@ -90,10 +82,6 @@ this allows key mixing with just a +/- 1 (or max +/- 2) semitones key shift; see
 
 **_Stay tuned, we expect to drop DEX 4 very soon!_** 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2024/08/DEX34-preview-cover.jpg?fit=1031%2C623&ssl=1 623 1031 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2024-08-12 12:57:132024-08-12 12:57:22A Deeper Dive Into What’s New in the Forthcoming Release of DEX 4}
@@ -113,17 +101,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2024/08/DEX34-preview-cover.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mc-homestead-architectural-wonders/"><u>[New] 2024 Approved MC Homestead Architectural Wonders</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-14-ultra-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi 14 Ultra FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-successful-sql-server-reporting-services-setup/"><u>Comprehensive Guide to Successful SQL Server Reporting Services Setup</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/data-rescue-mission-how-to-retrieve-accidentally-deleted-items-from-an-external-storage-device/"><u>Data Rescue Mission: How to Retrieve Accidentally Deleted Items From an External Storage Device</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effective-methods-for-eliminating-intrusive-pop-ups-on-your-samsung-device-with-malwarefox/"><u>Effective Methods for Eliminating Intrusive Pop-Ups on Your Samsung Device with MalwareFox</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-13-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 13 GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mastering-proper-discord-recording-techniques-a-step-by-step-guide/"><u>Mastering Proper Discord Recording Techniques: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/medd-for-windows-107-installation/"><u>MEDD for Windows 10/7 Installation</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-avidemux-video-editing-how-to-crop-and-resize-your-footage/"><u>New 2024 Approved Avidemux Video Editing How to Crop and Resize Your Footage</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-monetary-outcomes-of-podcast-engagement/"><u>The Monetary Outcomes of Podcast Engagement</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/unveiling-http3-an-in-depth-explanation-of-the-future-of-internet-technology/"><u>Unveiling HTTP/3: An In-Depth Explanation of the Future of Internet Technology</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/windows-registry-techniques-for-effective-file-type-control-and-handling/"><u>Windows Registry Techniques for Effective File Type Control and Handling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-multitasking-media-mastery-proficient-use-of-netflixs-pip-functionality/"><u>[New] Multitasking Media Mastery Proficient Use of Netflix’s PIP Functionality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-roundup-of-ranch-games-top-10-for-friends-and-family/"><u>[Updated] Roundup of Ranch Games Top 10 for Friends and Family</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streaming-made-easy-google-meet-to-youtube-guide/"><u>[Updated] Streaming Made Easy Google Meet to YouTube Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/apowersoft-launches-version-10-of-mac-compatible-video-downloader/"><u>Apowersoft Launches Version 1.0 of Mac-Compatible Video Downloader</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-free-methods-to-download-any-website-as-a-pdf-top-10-strategies/"><u>Best Free Methods to Download Any Website as a PDF: Top 10 Strategies</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1728470225607-bitlocker/"><u>BitLockerでエンカープト/デクリプト機能が動かない時に実行すべき手順</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/csrssexe-threat-analysis-identifying-trojans-vs-viruses-and-comprehensive-removal-guide/"><u>CSRSS.exe Threat Analysis: Identifying Trojans Vs. Viruses & Comprehensive Removal Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-top-techniques-for-transferring-contacts-and-apps-between-phones-a-comprehensive-guide/"><u>Effortless Top Techniques for Transferring Contacts and Apps Between Phones: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-70-lite-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor 70 Lite 5G to Roku | Dr.fone</u></a></li>
 </ul></div>
 

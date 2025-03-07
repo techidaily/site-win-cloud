@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tech Hack - Configuring Your DEX 3 DJ Controller with a Second Screen Setup for Optimal Karaoke Performance
-date: 2025-02-14T18:14:18.084Z
-updated: 2025-02-18T22:19:42.637Z
+date: 2025-03-06T08:25:10.466Z
+updated: 2025-03-07T09:56:14.266Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ Our [best DJ software](https://tools.techidaily.com/pcdj/products/) solution for
 Since you only want your audience to view the mixed music video output, or the karaoke lyrics, and not DEX 3 itself — you need to configure your MAC or Windows display for “Extended Display Mode”. Extended display mode allows you to send the mixed video/karaoke lyrics output only to a second display or projector, while you’re able to perform with DEX 3 on your on display, The audience won’t see that, only the full screen video or lyrics.
 
 #### DEX 3 DJ SOFTWARE TUTORIAL VIDEO: HOW TO SETUP SECOND DISPLAY FOR VIDEO OR KARAOKE ONLY OUTPUT
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -42,24 +38,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/videonly-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-make-money-with-a-beauty-channel/"><u>[New] 2024 Approved How to Make Money with a Beauty Channel?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-googles-efficient-route-to-instantaneous-visual-masterpieces/"><u>[Updated] 2024 Approved Google's Efficient Route to Instantaneous Visual Masterpieces</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-keeping-memories-afloat-the-top-selection-of-cloud-services-reviewed-for-2024/"><u>[Updated] Keeping Memories Afloat The Top Selection of Cloud Services Reviewed for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-ghostly-journey-droning-slick-action-recorder/"><u>2024 Approved Ghostly Journey Droning Slick Action Recorder</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mastering-slides-with-youtube-content/"><u>2024 Approved Mastering Slides with YouTube Content</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/crack-the-ntldr-mystery-top-5-fixes-and-one-exclusive-hack-for-your-missingcompressed-dilemma/"><u>Crack the NTLDR Mystery: Top 5 Fixes & One Exclusive Hack for Your 'Missing/Compressed' Dilemma!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/die-besten-drei-ansatze-zur-generierung-von-bootbaren-windows-11-backups-eine-anleitung/"><u>Die Besten Drei Ansätze Zur Generierung Von Bootbaren Windows 11-Backups: Eine Anleitung</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/efficiently-mirroring-a-network-drive-to-your-local-hardware-using-windows-1011/"><u>Efficiently Mirroring a Network Drive to Your Local Hardware Using Windows 10/11</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/faster-alternatives-overcoming-lengthy-sql-database-backups/"><u>Faster Alternatives: Overcoming Lengthy SQL Database Backups</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/gratis-y-facil-de-usar-backup-con-software-clonador-de-disco-netgear-readynas-por-aomei/"><u>Gratis Y Fácil De Usar: Backup Con Software Clonador De Disco NETGEAR ReadyNAS Por AOMEI</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-6-lite-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 6 Lite Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-14-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi 14 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/problematiken-bei-der-termination-von-systemprozessen-statussystemprocessterminated-ursachen-aufdecken-und-strategien-zur-behebung-entwickeln/"><u>Problematiken Bei Der Termination Von Systemprozessen (STATUS_SYSTEM_PROCESS_TERMINATED): Ursachen Aufdecken Und Strategien Zur Behebung Entwickeln</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-5-no-cost-solutions-for-fixing-corrupted-outlook-pst-files/"><u>Top 5 No-Cost Solutions for Fixing Corrupted Outlook PST Files</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangling-the-mystery-of-lego-star-wars-the-skywalker-sagas-pc-crash-problem/"><u>Untangling the Mystery of Lego Star Wars: The Skywalker Saga's PC Crash Problem</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/vob-aiff-movavi/"><u>VOB 파일을 AIFF로 원형으로 바꾸기: 영화 코어를 쉽게 전환 - Movavi</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/wie-man-itunes-backups-sicher-auf-eine-externe-festplatte-speichert/"><u>Wie Man iTunes Backups Sicher Auf Eine Externe Festplatte Speichert</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728509433346-windows-server-2012/"><u>Windows Server 2012における信頼性の高いシステムバックアップ作成法</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-to-success-top-hashtags-for-6-figure-views-on-youtube/"><u>[Updated] Elevate to Success Top Hashtags for 6-Figure Views on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tune-in-to-success-the-art-of-audio-amalgamation-for-fb-video-posts/"><u>[Updated] In 2024, Tune in to Success The Art of Audio Amalgamation for FB Video Posts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-compact-content-leading-5-services-to-compress-video-urls/"><u>2024 Approved Compact Content Leading 5 Services to Compress Video URLs</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-guide-to-customizing-your-pcs-wallpaper-and-screen-saver-tech-tips-by-yl-software/"><u>Easy Guide to Customizing Your PC's Wallpaper & Screen Saver - Tech Tips by YL Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/hd-desktop-walls-premium-alone-themed-graphics-by-yl-computing-high-quality-screen-savers-and-photo-collections/"><u>HD Desktop Walls: Premium Alone Themed Graphics by YL Computing - High-Quality Screen Savers & Photo Collections</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/high-definition-aston-martin-db11-wallpapers-and-visuals-download-premium-graphics-by-yl-computing/"><u>High-Definition Aston Martin DB11 Wallpapers and Visuals - Download Premium Graphics by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/iconic-stranger-things-characters-posters-and-backdrops-by-yl-software-complete-team-visuals-for-fans/"><u>Iconic Stranger Things Characters Posters & Backdrops by YL Software - Complete Team Visuals for Fans</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-fiscal-educational-benefits-how-to-secure-your-well-deserved-tidal-student-reduction/"><u>Mastering Fiscal Educational Benefits: How to Secure Your Well-Deserved Tidal Student Reduction</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-impact-of-freesync-on-lgs-ultra-hd-monitors-27uhd68-for-2024/"><u>The Impact of FreeSync on LG's Ultra HD Monitors (27UHD68) for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-noise-glitches-in-dying-light-adventure/"><u>Troubleshooting and Repairing Noise Glitches in Dying Light Adventure</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-black-screens-on-pcs-guidance-by-yl-software-professionals/"><u>Understanding Black Screens on PCs - Guidance by YL Software Professionals</u></a></li>
 </ul></div>
 

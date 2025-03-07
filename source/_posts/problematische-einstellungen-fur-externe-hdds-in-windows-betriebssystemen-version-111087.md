@@ -1,7 +1,7 @@
 ---
 title: "Problematische Einstellungen Für Externe HDDs in Windows Betriebssystemen: Version 11/10/8/7"
-date: 2025-02-16T23:36:32.967Z
-updated: 2025-02-18T20:07:53.709Z
+date: 2025-03-04T10:46:00.171Z
+updated: 2025-03-07T00:25:16.802Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/161ee28e2409ab23b03677010d95680f349d2d99e875ed1779eb3644a3f3e231.jpg
@@ -37,10 +37,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    3. [Method 3\. Get back files from ransomware using File History](https://tools.techidaily.com/ubackup/products/)  
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
 
@@ -82,10 +78,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -126,14 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -148,10 +132,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
@@ -161,10 +141,6 @@ Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -191,17 +167,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -231,15 +199,7 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,21 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-quick-windows-data-assessment-tutorial/"><u>[New] 2024 Approved Quick Windows Data Assessment Tutorial</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-easy-guide-streaming-flv-files-on-iphone-and-ipad-without-hitches/"><u>1. Easy Guide: Streaming Flv Files on iPhone & iPad Without Hitches</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-intricacies-of-previewing-off-facebook-activities/"><u>2024 Approved Navigating the Intricacies of Previewing Off-Facebook Activities</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726027438379-dvdmp4/"><u>店頭で入手したDVDをMP4フォーマットに直すコツ</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mkvgif/"><u>高画質MKVファイルから鮮やかなGIFへの完全変換ガイド</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-sites-enhance-your-traffic-with-smart-analytics/"><u>Cookiebot-Enabled Sites: Enhance Your Traffic with Smart Analytics</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ensuring-your-pcs-safety-tips-and-tricks-from-yl-computing/"><u>Ensuring Your PC's Safety: Tips and Tricks From YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
-<li><a href="https://win-forum.techidaily.com/gratuit-avi-vide-encontresen-vers-mpeg-format-virtueel-diensten-van-moveavew/"><u>Gratuit Avi-Vide Encontresen Vers MPEG-Format Virtuëel - Diensten Van Moveavew</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726028974432-movmp4/"><u>MOVファイル大量バッチをMP4に転化する究極ガイド</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/pctiktoksns/"><u>PC版TikTok生中継の記録・保存テクニック！SNS動画フォロー強化</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030027717-pc3/"><u>PCに付属のオーディオ転送ソフトウェア3つ！長時間ボイスレコードへ</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/saber-el-esquema-del-mes-dias-en-espanol-de-a-a-f/"><u>Saber El Esquema Del Mes: Días en Español De A a F</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-swede-smoothly-shortcuts-to-sounds/"><u>Speak Swede Smoothly: Shortcuts to Sounds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/streamline-your-soundscape-convert-mkv-videos-to-wav-free-of-cost-via-moveavis-seamless-service/"><u>Streamline Your Soundscape: Convert MKV Videos to WAV Free of Cost via Moveavi's Seamless Service</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/successfully-streaming-webm-files-on-your-ios-device-tips-and-tricks/"><u>Successfully Streaming WebM Files on Your iOS Device: Tips & Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-conquer-the-skies-and-landscapes-in-a-canon-time-lapse/"><u>[New] Conquer the Skies and Landscapes in a Canon Time-Lapse</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infusing-video-narratives-with-apple-harmony/"><u>2024 Approved Infusing Video Narratives with Apple Harmony</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp4mov-movavi/"><u>免費網路服務：MP4到MOV格式改變 - 使用Movavi 過渡工具</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/botnet-basics-unveiled-how-these-networks-operate-demystified-for-the-everyday-user/"><u>Botnet Basics Unveiled: How These Networks Operate Demystified for the Everyday User</u></a></li>
+<li><a href="https://blog-min.techidaily.com/budget-friendly-image-editing-switch-between-tiff-and-jpg-without-costs/"><u>Budget-Friendly Image Editing: Switch Between TIFF & JPG Without Costs</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-analysis-top-rated-free-screen-capture-apps-without-watermarks/"><u>Comprehensive Analysis: Top-Rated Free Screen Capture Apps Without Watermarks</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/convert-your-wlmp-videos-to-avi-files-without-cost-step-by-step-tutorial/"><u>Convert Your WLMP Videos to AVI Files Without Cost - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-set-up-your-corsair-k70-game-mouse-seamlessly/"><u>Download And Set Up Your Corsair K70 Game Mouse Seamlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/easy-methods-flipping-film-frames-using-vlc-for-2024/"><u>Easy Methods Flipping Film Frames Using VLC for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/expert-tips-for-repairing-iphones-soaked-in-water-models-5s-5c-5-and-4s/"><u>Expert Tips for Repairing iPhones Soaked in Water (Models 5S, 5C, 5 & 4S)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/locating-your-chrome-add-ons-understanding-storage-locations/"><u>Locating Your Chrome Add-Ons: Understanding Storage Locations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/optimal-platforms-for-youtube-video-exposure/"><u>Optimal Platforms for YouTube Video Exposure</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/silence-unwanted-sound-discover-the-best-6-apps-for-removing-audio-interferences-on-your-smartphone-android-and-ios/"><u>Silence Unwanted Sound: Discover the Best 6 Apps for Removing Audio Interferences on Your Smartphone (Android & iOS)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-to-blocking-ads-and-protecting-privacy-across-all-your-devices/"><u>Step-by-Step Guide to Blocking Ads and Protecting Privacy Across All Your Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2528022-9781493043835-the-big-book-of-new-jersey-ghost-stories/"><u>The Big Book of New Jersey Ghost Stories | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722650273827-top-review-mastering-the-market-with-apples-2018-ipad-pro-11-a-game-changer-in-tech/"><u>Top Review: Mastering the Market with Apple's 2018 iPad Pro 11 - A Game-Changer in Tech!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-three-methods-for-converting-flac-files-to-itunes-compatible-formats-on-pc-and-mac/"><u>Top Three Methods for Converting FLAC Files to iTunes Compatible Formats on PC & Mac</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-protection-expert-recommended-antivirus-apps-for-android-in-2e-certified-secure/"><u>Ultimate Protection: Expert-Recommended Antivirus Apps for Android in 2E, Certified Secure</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-y100a-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo Y100A? Fixed | Dr.fone</u></a></li>
 </ul></div>
 
